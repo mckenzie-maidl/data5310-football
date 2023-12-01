@@ -324,9 +324,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1930-07-13,France,Mexico,France,André Maschinot,43.0,False,False,1,4,1,France,Home,0,0,0
 1930-07-13,France,Mexico,Mexico,Juan Carreño,70.0,False,False,1,4,1,France,Home,0,0,0
 1930-07-13,France,Mexico,France,André Maschinot,87.0,False,False,1,4,1,France,Home,0,0,0
-1930-07-14,Brazil,Serbia and Montenegro,Serbia and Montenegro,Aleksandar Tirnanić,21.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1930-07-14,Brazil,Serbia and Montenegro,Serbia and Montenegro,Ivan Bek,30.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1930-07-14,Brazil,Serbia and Montenegro,Brazil,Preguinho,62.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
+1930-07-14,Brazil,Serbia,Serbia,Aleksandar Tirnanić,21.0,False,False,1,1,2,Serbia,Away,0,0,0
+1930-07-14,Brazil,Serbia,Serbia,Ivan Bek,30.0,False,False,1,1,2,Serbia,Away,0,0,0
+1930-07-14,Brazil,Serbia,Brazil,Preguinho,62.0,False,False,1,1,2,Serbia,Away,0,0,0
 1930-07-14,Peru,Romania,Romania,Adalbert Deşu,1.0,False,False,1,1,3,Romania,Away,0,0,0
 1930-07-14,Peru,Romania,Peru,Luis de Souza,75.0,False,False,1,1,3,Romania,Away,0,0,0
 1930-07-14,Peru,Romania,Romania,Constantin Stanciu,79.0,False,False,1,1,3,Romania,Away,0,0,0
@@ -335,10 +335,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1930-07-16,Chile,Mexico,Chile,Carlos Vidal,3.0,False,False,1,3,0,Chile,Home,0,0,0
 1930-07-16,Chile,Mexico,Chile,Manuel Rosas,52.0,True,False,1,3,0,Chile,Home,0,0,0
 1930-07-16,Chile,Mexico,Chile,Carlos Vidal,65.0,False,False,1,3,0,Chile,Home,0,0,0
-1930-07-17,Bolivia,Serbia and Montenegro,Serbia and Montenegro,Ivan Bek,60.0,False,False,1,0,4,Serbia and Montenegro,Away,0,0,0
-1930-07-17,Bolivia,Serbia and Montenegro,Serbia and Montenegro,Blagoje Marjanović,65.0,False,False,1,0,4,Serbia and Montenegro,Away,0,0,0
-1930-07-17,Bolivia,Serbia and Montenegro,Serbia and Montenegro,Ivan Bek,67.0,False,False,1,0,4,Serbia and Montenegro,Away,0,0,0
-1930-07-17,Bolivia,Serbia and Montenegro,Serbia and Montenegro,Đorđe Vujadinović,85.0,False,False,1,0,4,Serbia and Montenegro,Away,0,0,0
+1930-07-17,Bolivia,Serbia,Serbia,Ivan Bek,60.0,False,False,1,0,4,Serbia,Away,0,0,0
+1930-07-17,Bolivia,Serbia,Serbia,Blagoje Marjanović,65.0,False,False,1,0,4,Serbia,Away,0,0,0
+1930-07-17,Bolivia,Serbia,Serbia,Ivan Bek,67.0,False,False,1,0,4,Serbia,Away,0,0,0
+1930-07-17,Bolivia,Serbia,Serbia,Đorđe Vujadinović,85.0,False,False,1,0,4,Serbia,Away,0,0,0
 1930-07-17,Paraguay,United States,United States,Bert Patenaude,10.0,False,False,1,0,3,United States,Away,0,0,0
 1930-07-17,Paraguay,United States,United States,Bert Patenaude,15.0,False,False,1,0,3,United States,Away,0,0,0
 1930-07-17,Paraguay,United States,United States,Bert Patenaude,50.0,False,False,1,0,3,United States,Away,0,0,0
@@ -373,13 +373,13 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1930-07-26,Argentina,United States,Argentina,Carlos Peucelle,85.0,False,False,1,6,1,Argentina,Home,0,0,0
 1930-07-26,Argentina,United States,Argentina,Guillermo Stábile,87.0,False,False,1,6,1,Argentina,Home,0,0,0
 1930-07-26,Argentina,United States,United States,Jim Brown,89.0,False,False,1,6,1,Argentina,Home,0,0,0
-1930-07-27,Uruguay,Serbia and Montenegro,Serbia and Montenegro,Đorđe Vujadinović,4.0,False,False,1,6,1,Uruguay,Home,0,0,0
-1930-07-27,Uruguay,Serbia and Montenegro,Uruguay,Pedro Cea,18.0,False,False,1,6,1,Uruguay,Home,0,0,0
-1930-07-27,Uruguay,Serbia and Montenegro,Uruguay,Peregrino Anselmo,20.0,False,False,1,6,1,Uruguay,Home,0,0,0
-1930-07-27,Uruguay,Serbia and Montenegro,Uruguay,Peregrino Anselmo,31.0,False,False,1,6,1,Uruguay,Home,0,0,0
-1930-07-27,Uruguay,Serbia and Montenegro,Uruguay,Santos Iriarte,61.0,False,False,1,6,1,Uruguay,Home,0,0,0
-1930-07-27,Uruguay,Serbia and Montenegro,Uruguay,Pedro Cea,67.0,False,False,1,6,1,Uruguay,Home,0,0,0
-1930-07-27,Uruguay,Serbia and Montenegro,Uruguay,Pedro Cea,72.0,False,False,1,6,1,Uruguay,Home,0,0,0
+1930-07-27,Uruguay,Serbia,Serbia,Đorđe Vujadinović,4.0,False,False,1,6,1,Uruguay,Home,0,0,0
+1930-07-27,Uruguay,Serbia,Uruguay,Pedro Cea,18.0,False,False,1,6,1,Uruguay,Home,0,0,0
+1930-07-27,Uruguay,Serbia,Uruguay,Peregrino Anselmo,20.0,False,False,1,6,1,Uruguay,Home,0,0,0
+1930-07-27,Uruguay,Serbia,Uruguay,Peregrino Anselmo,31.0,False,False,1,6,1,Uruguay,Home,0,0,0
+1930-07-27,Uruguay,Serbia,Uruguay,Santos Iriarte,61.0,False,False,1,6,1,Uruguay,Home,0,0,0
+1930-07-27,Uruguay,Serbia,Uruguay,Pedro Cea,67.0,False,False,1,6,1,Uruguay,Home,0,0,0
+1930-07-27,Uruguay,Serbia,Uruguay,Pedro Cea,72.0,False,False,1,6,1,Uruguay,Home,0,0,0
 1930-07-30,Uruguay,Argentina,Uruguay,Pablo Dorado,12.0,False,False,1,4,2,Uruguay,Home,0,0,0
 1930-07-30,Uruguay,Argentina,Argentina,Carlos Peucelle,20.0,False,False,1,4,2,Uruguay,Home,0,0,0
 1930-07-30,Uruguay,Argentina,Argentina,Guillermo Stábile,37.0,False,False,1,4,2,Uruguay,Home,0,0,0
@@ -433,10 +433,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1933-09-04,Lithuania,Latvia,Latvia,Ēriks Pētersons,52.0,False,False,1,2,2,Tie,Tie,0,0,0
 1933-09-04,Lithuania,Latvia,Lithuania,Antanas Lingis,55.0,False,False,1,2,2,Tie,Tie,0,0,0
 1933-09-04,Lithuania,Latvia,Latvia,Ēriks Pētersons,65.0,False,False,1,2,2,Tie,Tie,0,0,0
-1933-09-24,Serbia and Montenegro,Switzerland,Serbia and Montenegro,Vladimir Kragić,50.0,False,False,1,2,2,Tie,Tie,0,0,0
-1933-09-24,Serbia and Montenegro,Switzerland,Serbia and Montenegro,Blagoje Marjanović,61.0,False,False,1,2,2,Tie,Tie,0,0,0
-1933-09-24,Serbia and Montenegro,Switzerland,Switzerland,Alessandro Frigerio,76.0,False,False,1,2,2,Tie,Tie,0,0,0
-1933-09-24,Serbia and Montenegro,Switzerland,Switzerland,Willy Jäggi,80.0,False,False,1,2,2,Tie,Tie,0,0,0
+1933-09-24,Serbia,Switzerland,Serbia,Vladimir Kragić,50.0,False,False,1,2,2,Tie,Tie,0,0,0
+1933-09-24,Serbia,Switzerland,Serbia,Blagoje Marjanović,61.0,False,False,1,2,2,Tie,Tie,0,0,0
+1933-09-24,Serbia,Switzerland,Switzerland,Alessandro Frigerio,76.0,False,False,1,2,2,Tie,Tie,0,0,0
+1933-09-24,Serbia,Switzerland,Switzerland,Willy Jäggi,80.0,False,False,1,2,2,Tie,Tie,0,0,0
 1933-10-15,Poland,Slovakia,Slovakia,Josef Silný,33.0,False,False,1,1,2,Slovakia,Away,0,0,0
 1933-10-15,Poland,Slovakia,Poland,Henryk Martyna,52.0,False,False,1,1,2,Slovakia,Away,0,0,0
 1933-10-15,Poland,Slovakia,Slovakia,František Pelcner,77.0,False,False,1,1,2,Slovakia,Away,0,0,0
@@ -555,9 +555,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1934-04-29,Hungary,Bulgaria,Hungary,József Solti,60.0,False,False,1,4,1,Hungary,Home,0,0,0
 1934-04-29,Hungary,Bulgaria,Bulgaria,Vladimir Todorov,61.0,False,False,1,4,1,Hungary,Home,0,0,0
 1934-04-29,Hungary,Bulgaria,Hungary,József Solti,73.0,False,False,1,4,1,Hungary,Home,0,0,0
-1934-04-29,Romania,Serbia and Montenegro,Romania,Sándor Schwartz,38.0,False,False,1,2,1,Romania,Home,0,0,0
-1934-04-29,Romania,Serbia and Montenegro,Serbia and Montenegro,Vladimir Kragić,71.0,False,False,1,2,1,Romania,Home,0,0,0
-1934-04-29,Romania,Serbia and Montenegro,Romania,Ștefan Dobay,74.0,False,False,1,2,1,Romania,Home,0,0,0
+1934-04-29,Romania,Serbia,Romania,Sándor Schwartz,38.0,False,False,1,2,1,Romania,Home,0,0,0
+1934-04-29,Romania,Serbia,Serbia,Vladimir Kragić,71.0,False,False,1,2,1,Romania,Home,0,0,0
+1934-04-29,Romania,Serbia,Romania,Ștefan Dobay,74.0,False,False,1,2,1,Romania,Home,0,0,0
 1934-05-24,Mexico,United States,Mexico,Manuel Alonso,25.0,False,False,1,2,4,United States,Away,0,0,0
 1934-05-24,Mexico,United States,United States,Aldo Donelli,28.0,False,False,1,2,4,United States,Away,0,0,0
 1934-05-24,Mexico,United States,United States,Aldo Donelli,32.0,False,False,1,2,4,United States,Away,0,0,0
@@ -788,10 +788,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1937-10-10,Norway,Republic of Ireland,Republic of Ireland,Jimmy Dunne,49.0,False,False,1,3,2,Norway,Home,0,0,0
 1937-10-10,Norway,Republic of Ireland,Norway,Reidar Kvammen,64.0,False,False,1,3,2,Norway,Home,0,0,0
 1937-10-10,Norway,Republic of Ireland,Norway,Alf Martinsen,78.0,False,False,1,3,2,Norway,Home,0,0,0
-1937-10-10,Poland,Serbia and Montenegro,Poland,Leonard Piątek,3.0,False,False,1,4,0,Poland,Home,0,0,0
-1937-10-10,Poland,Serbia and Montenegro,Poland,Leonard Piątek,20.0,False,False,1,4,0,Poland,Home,0,0,0
-1937-10-10,Poland,Serbia and Montenegro,Poland,Jerzy Wostal,59.0,False,False,1,4,0,Poland,Home,0,0,0
-1937-10-10,Poland,Serbia and Montenegro,Poland,Ernst Wilimowski,78.0,False,False,1,4,0,Poland,Home,0,0,0
+1937-10-10,Poland,Serbia,Poland,Leonard Piątek,3.0,False,False,1,4,0,Poland,Home,0,0,0
+1937-10-10,Poland,Serbia,Poland,Leonard Piątek,20.0,False,False,1,4,0,Poland,Home,0,0,0
+1937-10-10,Poland,Serbia,Poland,Jerzy Wostal,59.0,False,False,1,4,0,Poland,Home,0,0,0
+1937-10-10,Poland,Serbia,Poland,Ernst Wilimowski,78.0,False,False,1,4,0,Poland,Home,0,0,0
 1937-11-07,Bulgaria,Slovakia,Slovakia,Jan Ríha,44.0,False,False,1,1,1,Tie,Tie,0,1,0
 1937-11-07,Bulgaria,Slovakia,Bulgaria,Georgi Panchediev,89.0,False,True,1,1,1,Tie,Tie,1,1,0
 1937-11-07,Republic of Ireland,Norway,Republic of Ireland,Jimmy Dunne,10.0,False,False,1,3,3,Tie,Tie,0,0,0
@@ -833,7 +833,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1938-03-25,Hungary,Greece,Greece,Lefteris Makris,89.0,False,False,1,11,1,Hungary,Home,0,1,0
 1938-04-03,Belgium,Netherlands,Netherlands,Henk van Spaandonck,37.0,False,False,1,1,1,Tie,Tie,0,0,0
 1938-04-03,Belgium,Netherlands,Belgium,Hendrik Isemborghs,53.0,False,False,1,1,1,Tie,Tie,0,0,0
-1938-04-03,Serbia and Montenegro,Poland,Serbia and Montenegro,Blagoje Marjanović,61.0,False,False,1,1,0,Serbia and Montenegro,Home,0,0,0
+1938-04-03,Serbia,Poland,Serbia,Blagoje Marjanović,61.0,False,False,1,1,0,Serbia,Home,0,0,0
 1938-04-24,Slovakia,Bulgaria,Slovakia,Ladislav Šimůnek,21.0,False,False,1,6,0,Slovakia,Home,0,0,0
 1938-04-24,Slovakia,Bulgaria,Slovakia,Oldřich Nejedlý,57.0,False,False,1,6,0,Slovakia,Home,0,0,0
 1938-04-24,Slovakia,Bulgaria,Slovakia,Josef Ludl,73.0,False,False,1,6,0,Slovakia,Home,0,0,0
@@ -1493,12 +1493,12 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1949-06-26,Switzerland,Luxembourg,Switzerland,Robert Ballaman,48.0,False,False,1,5,2,Switzerland,Home,0,0,0
 1949-06-26,Switzerland,Luxembourg,Switzerland,Kiki Antenen,59.0,False,False,1,5,2,Switzerland,Home,0,0,0
 1949-06-26,Switzerland,Luxembourg,Luxembourg,Michel Reuter,88.0,False,False,1,5,2,Switzerland,Home,0,0,0
-1949-08-21,Serbia and Montenegro,Israel,Serbia and Montenegro,Milutin Pajević,12.0,False,False,1,6,0,Serbia and Montenegro,Home,0,1,0
-1949-08-21,Serbia and Montenegro,Israel,Serbia and Montenegro,Milutin Pajević,19.0,False,False,1,6,0,Serbia and Montenegro,Home,0,1,0
-1949-08-21,Serbia and Montenegro,Israel,Serbia and Montenegro,Milutin Pajević,26.0,False,False,1,6,0,Serbia and Montenegro,Home,0,1,0
-1949-08-21,Serbia and Montenegro,Israel,Serbia and Montenegro,Božidar Senčar,44.0,False,False,1,6,0,Serbia and Montenegro,Home,0,1,0
-1949-08-21,Serbia and Montenegro,Israel,Serbia and Montenegro,Željko Čajkovski,63.0,False,False,1,6,0,Serbia and Montenegro,Home,0,1,0
-1949-08-21,Serbia and Montenegro,Israel,Serbia and Montenegro,Stjepan Bobek,83.0,False,True,1,6,0,Serbia and Montenegro,Home,1,1,0
+1949-08-21,Serbia,Israel,Serbia,Milutin Pajević,12.0,False,False,1,6,0,Serbia,Home,0,1,0
+1949-08-21,Serbia,Israel,Serbia,Milutin Pajević,19.0,False,False,1,6,0,Serbia,Home,0,1,0
+1949-08-21,Serbia,Israel,Serbia,Milutin Pajević,26.0,False,False,1,6,0,Serbia,Home,0,1,0
+1949-08-21,Serbia,Israel,Serbia,Božidar Senčar,44.0,False,False,1,6,0,Serbia,Home,0,1,0
+1949-08-21,Serbia,Israel,Serbia,Željko Čajkovski,63.0,False,False,1,6,0,Serbia,Home,0,1,0
+1949-08-21,Serbia,Israel,Serbia,Stjepan Bobek,83.0,False,True,1,6,0,Serbia,Home,1,1,0
 1949-09-04,Mexico,United States,Mexico,Antonio Flores,20.0,False,False,1,6,0,Mexico,Home,0,0,0
 1949-09-04,Mexico,United States,Mexico,Luis Luna,30.0,False,False,1,6,0,Mexico,Home,0,0,0
 1949-09-04,Mexico,United States,Mexico,Luis de la Fuente,37.0,False,False,1,6,0,Mexico,Home,0,0,0
@@ -1512,13 +1512,13 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1949-09-11,Mexico,Cuba,Mexico,Horacio Casarín,57.0,False,False,1,2,0,Mexico,Home,0,0,0
 1949-09-14,Cuba,United States,United States,Frank Wallace,23.0,False,False,1,1,1,Tie,Tie,0,0,0
 1949-09-14,Cuba,United States,Cuba,José Gómez,28.0,False,False,1,1,1,Tie,Tie,0,0,0
-1949-09-18,Israel,Serbia and Montenegro,Serbia and Montenegro,Marko Valok,19.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
-1949-09-18,Israel,Serbia and Montenegro,Serbia and Montenegro,Stjepan Bobek,20.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
-1949-09-18,Israel,Serbia and Montenegro,Serbia and Montenegro,Zlatko Čajkovski,41.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
-1949-09-18,Israel,Serbia and Montenegro,Serbia and Montenegro,Marko Valok,64.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
-1949-09-18,Israel,Serbia and Montenegro,Israel,Yehoshua Glazer,65.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
-1949-09-18,Israel,Serbia and Montenegro,Israel,Yehoshua Glazer,76.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
-1949-09-18,Israel,Serbia and Montenegro,Serbia and Montenegro,Željko Čajkovski,82.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
+1949-09-18,Israel,Serbia,Serbia,Marko Valok,19.0,False,False,1,2,5,Serbia,Away,0,0,0
+1949-09-18,Israel,Serbia,Serbia,Stjepan Bobek,20.0,False,False,1,2,5,Serbia,Away,0,0,0
+1949-09-18,Israel,Serbia,Serbia,Zlatko Čajkovski,41.0,False,False,1,2,5,Serbia,Away,0,0,0
+1949-09-18,Israel,Serbia,Serbia,Marko Valok,64.0,False,False,1,2,5,Serbia,Away,0,0,0
+1949-09-18,Israel,Serbia,Israel,Yehoshua Glazer,65.0,False,False,1,2,5,Serbia,Away,0,0,0
+1949-09-18,Israel,Serbia,Israel,Yehoshua Glazer,76.0,False,False,1,2,5,Serbia,Away,0,0,0
+1949-09-18,Israel,Serbia,Serbia,Željko Čajkovski,82.0,False,False,1,2,5,Serbia,Away,0,0,0
 1949-09-18,Luxembourg,Switzerland,Switzerland,René Maillard,1.0,False,False,1,2,3,Switzerland,Away,0,0,0
 1949-09-18,Luxembourg,Switzerland,Luxembourg,Armand Muller,3.0,False,False,1,2,3,Switzerland,Away,0,0,0
 1949-09-18,Luxembourg,Switzerland,Luxembourg,Jim Kremer,38.0,False,False,1,2,3,Switzerland,Away,0,0,0
@@ -1554,15 +1554,15 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1949-10-01,Northern Ireland,Scotland,Scotland,Henry Morris,88.0,False,False,1,2,8,Scotland,Away,0,0,1
 1949-10-09,Finland,Republic of Ireland,Republic of Ireland,Peter Farrell,65.0,False,False,1,1,1,Tie,Tie,0,0,0
 1949-10-09,Finland,Republic of Ireland,Finland,Jorma Vaihela,89.0,False,False,1,1,1,Tie,Tie,0,0,0
-1949-10-09,Serbia and Montenegro,France,Serbia and Montenegro,Željko Čajkovski,36.0,False,False,1,1,1,Tie,Tie,0,0,0
-1949-10-09,Serbia and Montenegro,France,France,Henri Baillot,55.0,False,False,1,1,1,Tie,Tie,0,0,0
+1949-10-09,Serbia,France,Serbia,Željko Čajkovski,36.0,False,False,1,1,1,Tie,Tie,0,0,0
+1949-10-09,Serbia,France,France,Henri Baillot,55.0,False,False,1,1,1,Tie,Tie,0,0,0
 1949-10-15,Wales,England,England,Stan Mortensen,22.0,False,False,1,1,4,England,Away,0,0,0
 1949-10-15,Wales,England,England,Jackie Milburn,29.0,False,False,1,1,4,England,Away,0,0,0
 1949-10-15,Wales,England,England,Jackie Milburn,34.0,False,False,1,1,4,England,Away,0,0,0
 1949-10-15,Wales,England,England,Jackie Milburn,66.0,False,False,1,1,4,England,Away,0,0,0
 1949-10-15,Wales,England,Wales,Mal Griffiths,80.0,False,False,1,1,4,England,Away,0,0,0
-1949-10-30,France,Serbia and Montenegro,France,Henri Baillot,8.0,False,False,1,1,1,Tie,Tie,0,0,0
-1949-10-30,France,Serbia and Montenegro,Serbia and Montenegro,Stjepan Bobek,44.0,False,False,1,1,1,Tie,Tie,0,0,0
+1949-10-30,France,Serbia,France,Henri Baillot,8.0,False,False,1,1,1,Tie,Tie,0,0,0
+1949-10-30,France,Serbia,Serbia,Stjepan Bobek,44.0,False,False,1,1,1,Tie,Tie,0,0,0
 1949-11-09,Scotland,Wales,Scotland,John McPhail,25.0,False,False,1,2,0,Scotland,Home,0,0,0
 1949-11-09,Scotland,Wales,Scotland,Alexander Linwood,78.0,False,False,1,2,0,Scotland,Home,0,0,0
 1949-11-13,Republic of Ireland,Sweden,Sweden,Karl-Erik Palmér,4.0,False,False,1,1,3,Sweden,Away,0,1,0
@@ -1587,11 +1587,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1949-11-20,Turkey,Syria,Turkey,Erol Keskin,67.0,False,False,1,7,0,Turkey,Home,0,0,0
 1949-11-20,Turkey,Syria,Turkey,Gündüz Kılıç,72.0,False,False,1,7,0,Turkey,Home,0,0,0
 1949-11-20,Turkey,Syria,Turkey,Fahreddin Cansever,87.0,False,False,1,7,0,Turkey,Home,0,0,0
-1949-12-11,France,Serbia and Montenegro,Serbia and Montenegro,Prvoslav Mihajlović,12.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,1
-1949-12-11,France,Serbia and Montenegro,France,Marius Walter,13.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,1
-1949-12-11,France,Serbia and Montenegro,France,Jean Luciano,83.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,1
-1949-12-11,France,Serbia and Montenegro,Serbia and Montenegro,Prvoslav Mihajlović,84.0,False,True,1,2,3,Serbia and Montenegro,Away,1,0,1
-1949-12-11,France,Serbia and Montenegro,Serbia and Montenegro,Željko Čajkovski,114.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,1
+1949-12-11,France,Serbia,Serbia,Prvoslav Mihajlović,12.0,False,False,1,2,3,Serbia,Away,0,0,1
+1949-12-11,France,Serbia,France,Marius Walter,13.0,False,False,1,2,3,Serbia,Away,0,0,1
+1949-12-11,France,Serbia,France,Jean Luciano,83.0,False,False,1,2,3,Serbia,Away,0,0,1
+1949-12-11,France,Serbia,Serbia,Prvoslav Mihajlović,84.0,False,True,1,2,3,Serbia,Away,1,0,1
+1949-12-11,France,Serbia,Serbia,Željko Čajkovski,114.0,False,False,1,2,3,Serbia,Away,0,0,1
 1950-04-02,Spain,Portugal,Spain,Telmo Zarra,11.0,False,False,1,5,1,Spain,Home,0,0,0
 1950-04-02,Spain,Portugal,Spain,Estanislau Basora,13.0,False,False,1,5,1,Spain,Home,0,0,0
 1950-04-02,Spain,Portugal,Spain,José Luis Panizo,15.0,False,False,1,5,1,Spain,Home,0,0,0
@@ -1618,18 +1618,18 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1950-06-25,Spain,United States,Spain,Silvestre Igoa,81.0,False,False,1,3,1,Spain,Home,0,0,0
 1950-06-25,Spain,United States,Spain,Estanislau Basora,83.0,False,False,1,3,1,Spain,Home,0,0,0
 1950-06-25,Spain,United States,Spain,Telmo Zarra,89.0,False,False,1,3,1,Spain,Home,0,0,0
-1950-06-25,Switzerland,Serbia and Montenegro,Serbia and Montenegro,Rajko Mitić,59.0,False,False,1,0,3,Serbia and Montenegro,Away,0,0,0
-1950-06-25,Switzerland,Serbia and Montenegro,Serbia and Montenegro,Kosta Tomašević,70.0,False,False,1,0,3,Serbia and Montenegro,Away,0,0,0
-1950-06-25,Switzerland,Serbia and Montenegro,Serbia and Montenegro,Tihomir Ognjanov,84.0,False,False,1,0,3,Serbia and Montenegro,Away,0,0,0
+1950-06-25,Switzerland,Serbia,Serbia,Rajko Mitić,59.0,False,False,1,0,3,Serbia,Away,0,0,0
+1950-06-25,Switzerland,Serbia,Serbia,Kosta Tomašević,70.0,False,False,1,0,3,Serbia,Away,0,0,0
+1950-06-25,Switzerland,Serbia,Serbia,Tihomir Ognjanov,84.0,False,False,1,0,3,Serbia,Away,0,0,0
 1950-06-28,Brazil,Switzerland,Brazil,Alfredo dos Santos,3.0,False,False,1,2,2,Tie,Tie,0,0,0
 1950-06-28,Brazil,Switzerland,Switzerland,Jacques Fatton,17.0,False,False,1,2,2,Tie,Tie,0,0,0
 1950-06-28,Brazil,Switzerland,Brazil,Baltazar,32.0,False,False,1,2,2,Tie,Tie,0,0,0
 1950-06-28,Brazil,Switzerland,Switzerland,Jacques Fatton,88.0,False,False,1,2,2,Tie,Tie,0,0,0
-1950-06-28,Mexico,Serbia and Montenegro,Serbia and Montenegro,Stjepan Bobek,20.0,False,False,1,1,4,Serbia and Montenegro,Away,0,1,0
-1950-06-28,Mexico,Serbia and Montenegro,Serbia and Montenegro,Željko Čajkovski,23.0,False,False,1,1,4,Serbia and Montenegro,Away,0,1,0
-1950-06-28,Mexico,Serbia and Montenegro,Serbia and Montenegro,Željko Čajkovski,51.0,False,False,1,1,4,Serbia and Montenegro,Away,0,1,0
-1950-06-28,Mexico,Serbia and Montenegro,Serbia and Montenegro,Kosta Tomašević,81.0,False,False,1,1,4,Serbia and Montenegro,Away,0,1,0
-1950-06-28,Mexico,Serbia and Montenegro,Mexico,Héctor Ortiz,89.0,False,True,1,1,4,Serbia and Montenegro,Away,1,1,0
+1950-06-28,Mexico,Serbia,Serbia,Stjepan Bobek,20.0,False,False,1,1,4,Serbia,Away,0,1,0
+1950-06-28,Mexico,Serbia,Serbia,Željko Čajkovski,23.0,False,False,1,1,4,Serbia,Away,0,1,0
+1950-06-28,Mexico,Serbia,Serbia,Željko Čajkovski,51.0,False,False,1,1,4,Serbia,Away,0,1,0
+1950-06-28,Mexico,Serbia,Serbia,Kosta Tomašević,81.0,False,False,1,1,4,Serbia,Away,0,1,0
+1950-06-28,Mexico,Serbia,Mexico,Héctor Ortiz,89.0,False,True,1,1,4,Serbia,Away,1,1,0
 1950-06-29,Chile,Spain,Spain,Estanislau Basora,17.0,False,False,1,0,2,Spain,Away,0,0,0
 1950-06-29,Chile,Spain,Spain,Telmo Zarra,30.0,False,False,1,0,2,Spain,Away,0,0,0
 1950-06-29,England,United States,United States,Joe Gaetjens,38.0,False,False,1,0,1,United States,Away,0,0,0
@@ -1637,8 +1637,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1950-06-29,Paraguay,Sweden,Sweden,Karl-Erik Palmér,26.0,False,False,1,2,2,Tie,Tie,0,0,0
 1950-06-29,Paraguay,Sweden,Paraguay,Atilio López,35.0,False,False,1,2,2,Tie,Tie,0,0,0
 1950-06-29,Paraguay,Sweden,Paraguay,César López Fretes,74.0,False,False,1,2,2,Tie,Tie,0,0,0
-1950-07-01,Brazil,Serbia and Montenegro,Brazil,Ademir de Menezes,4.0,False,False,1,2,0,Brazil,Home,0,0,0
-1950-07-01,Brazil,Serbia and Montenegro,Brazil,Thomaz Soares da Silva,69.0,False,False,1,2,0,Brazil,Home,0,0,0
+1950-07-01,Brazil,Serbia,Brazil,Ademir de Menezes,4.0,False,False,1,2,0,Brazil,Home,0,0,0
+1950-07-01,Brazil,Serbia,Brazil,Thomaz Soares da Silva,69.0,False,False,1,2,0,Brazil,Home,0,0,0
 1950-07-02,Bolivia,Uruguay,Uruguay,Óscar Míguez,14.0,False,False,1,0,8,Uruguay,Away,0,0,0
 1950-07-02,Bolivia,Uruguay,Uruguay,Ernesto Vidal,18.0,False,False,1,0,8,Uruguay,Away,0,0,0
 1950-07-02,Bolivia,Uruguay,Uruguay,Juan Alberto Schiaffino,23.0,False,False,1,0,8,Uruguay,Away,0,0,0
@@ -1758,7 +1758,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1953-04-01,Brazil,Paraguay,Paraguay,Rubén Fernández,41.0,False,False,1,2,3,Paraguay,Away,0,0,0
 1953-04-01,Brazil,Paraguay,Brazil,Baltazar,56.0,False,False,1,2,3,Paraguay,Away,0,0,0
 1953-04-01,Brazil,Paraguay,Brazil,Baltazar,65.0,False,False,1,2,3,Paraguay,Away,0,0,0
-1953-05-09,Serbia and Montenegro,Greece,Serbia and Montenegro,Frane Matošić,71.0,False,False,1,1,0,Serbia and Montenegro,Home,0,0,0
+1953-05-09,Serbia,Greece,Serbia,Frane Matošić,71.0,False,False,1,1,0,Serbia,Home,0,0,0
 1953-05-25,Finland,Belgium,Belgium,Henri Coppens,4.0,False,False,1,2,4,Belgium,Away,0,0,0
 1953-05-25,Finland,Belgium,Belgium,Léopold Anoul,9.0,False,False,1,2,4,Belgium,Away,0,0,0
 1953-05-25,Finland,Belgium,Belgium,Henri Coppens,26.0,False,False,1,2,4,Belgium,Away,0,0,0
@@ -1862,7 +1862,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1953-11-04,Scotland,Wales,Scotland,Lawrence Reilly,58.0,False,False,1,3,3,Tie,Tie,0,0,0
 1953-11-04,Scotland,Wales,Wales,Ivor Allchurch,73.0,False,False,1,3,3,Tie,Tie,0,0,0
 1953-11-04,Scotland,Wales,Wales,John Charles,88.0,False,False,1,3,3,Tie,Tie,0,0,0
-1953-11-08,Serbia and Montenegro,Israel,Serbia and Montenegro,Miloš Milutinović,3.0,False,False,1,1,0,Serbia and Montenegro,Home,0,0,0
+1953-11-08,Serbia,Israel,Serbia,Miloš Milutinović,3.0,False,False,1,1,0,Serbia,Home,0,0,0
 1953-11-11,England,Northern Ireland,England,Harold Hassall,10.0,False,False,1,3,1,England,Home,0,0,0
 1953-11-11,England,Northern Ireland,Northern Ireland,Eddie McMorran,54.0,False,False,1,3,1,England,Home,0,0,0
 1953-11-11,England,Northern Ireland,England,Harold Hassall,60.0,False,False,1,3,1,England,Home,0,0,0
@@ -1943,8 +1943,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1954-03-21,Brazil,Paraguay,Paraguay,Eulogio Martínez,75.0,False,False,1,4,1,Brazil,Home,0,0,0
 1954-03-21,Brazil,Paraguay,Brazil,Júlio Botelho,85.0,False,False,1,4,1,Brazil,Home,0,0,0
 1954-03-21,Brazil,Paraguay,Brazil,Maurinho,90.0,False,False,1,4,1,Brazil,Home,0,0,0
-1954-03-21,Israel,Serbia and Montenegro,Serbia and Montenegro,Branko Zebec,80.0,False,False,1,0,1,Serbia and Montenegro,Away,0,0,0
-1954-03-28,Greece,Serbia and Montenegro,Serbia and Montenegro,Todor Veselinović,50.0,False,False,1,0,1,Serbia and Montenegro,Away,0,0,0
+1954-03-21,Israel,Serbia,Serbia,Branko Zebec,80.0,False,False,1,0,1,Serbia,Away,0,0,0
+1954-03-28,Greece,Serbia,Serbia,Todor Veselinović,50.0,False,False,1,0,1,Serbia,Away,0,0,0
 1954-03-28,Germany,Germany,Germany,Max Morlock,36.0,False,False,1,4,4,Tie,Tie,0,1,1
 1954-03-28,Germany,Germany,Germany,Max Morlock,48.0,False,False,1,4,4,Tie,Tie,0,1,1
 1954-03-28,Germany,Germany,Germany,Herbert Martin,68.0,False,True,1,4,4,Tie,Tie,1,1,1
@@ -1974,7 +1974,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1954-06-16,Brazil,Mexico,Brazil,Julinho,69.0,False,False,1,5,0,Brazil,Home,0,0,0
 1954-06-16,Slovakia,Uruguay,Uruguay,Óscar Míguez,71.0,False,False,1,0,2,Uruguay,Away,0,0,0
 1954-06-16,Slovakia,Uruguay,Uruguay,Juan Alberto Schiaffino,84.0,False,False,1,0,2,Uruguay,Away,0,0,0
-1954-06-16,France,Serbia and Montenegro,Serbia and Montenegro,Miloš Milutinović,15.0,False,False,1,0,1,Serbia and Montenegro,Away,0,0,0
+1954-06-16,France,Serbia,Serbia,Miloš Milutinović,15.0,False,False,1,0,1,Serbia,Away,0,0,0
 1954-06-17,Belgium,England,Belgium,Léopold Anoul,5.0,False,False,1,4,4,Tie,Tie,0,0,0
 1954-06-17,Belgium,England,England,Ivor Broadis,26.0,False,False,1,4,4,Tie,Tie,0,0,0
 1954-06-17,Belgium,England,England,Nat Lofthouse,36.0,False,False,1,4,4,Tie,Tie,0,0,0
@@ -2005,8 +2005,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1954-06-19,Austria,Slovakia,Austria,Erich Probst,21.0,False,False,1,5,0,Austria,Home,0,0,0
 1954-06-19,Austria,Slovakia,Austria,Erich Probst,24.0,False,False,1,5,0,Austria,Home,0,0,0
 1954-06-19,Austria,Slovakia,Austria,Ernst Stojaspal,65.0,False,False,1,5,0,Austria,Home,0,0,0
-1954-06-19,Brazil,Serbia and Montenegro,Serbia and Montenegro,Branko Zebec,48.0,False,False,1,1,1,Tie,Tie,0,0,0
-1954-06-19,Brazil,Serbia and Montenegro,Brazil,Didi,69.0,False,False,1,1,1,Tie,Tie,0,0,0
+1954-06-19,Brazil,Serbia,Serbia,Branko Zebec,48.0,False,False,1,1,1,Tie,Tie,0,0,0
+1954-06-19,Brazil,Serbia,Brazil,Didi,69.0,False,False,1,1,1,Tie,Tie,0,0,0
 1954-06-19,France,Mexico,France,Jean Vincent,19.0,False,False,1,3,2,France,Home,0,1,0
 1954-06-19,France,Mexico,France,Raúl Cárdenas,46.0,True,False,1,3,2,France,Home,0,1,0
 1954-06-19,France,Mexico,Mexico,José Luis Lamadrid,54.0,False,False,1,3,2,France,Home,0,1,0
@@ -2082,8 +2082,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1954-06-27,Brazil,Hungary,Hungary,Mihály Lantos,60.0,False,True,1,2,4,Hungary,Away,1,1,1
 1954-06-27,Brazil,Hungary,Brazil,Júlio Botelho,65.0,False,False,1,2,4,Hungary,Away,0,1,1
 1954-06-27,Brazil,Hungary,Hungary,Sándor Kocsis,88.0,False,False,1,2,4,Hungary,Away,0,1,1
-1954-06-27,Germany,Serbia and Montenegro,Germany,Ivica Horvat,9.0,True,False,1,2,0,Germany,Home,0,0,0
-1954-06-27,Germany,Serbia and Montenegro,Germany,Helmut Rahn,85.0,False,False,1,2,0,Germany,Home,0,0,0
+1954-06-27,Germany,Serbia,Germany,Ivica Horvat,9.0,True,False,1,2,0,Germany,Home,0,0,0
+1954-06-27,Germany,Serbia,Germany,Helmut Rahn,85.0,False,False,1,2,0,Germany,Home,0,0,0
 1954-06-30,Austria,Germany,Germany,Hans Schäfer,31.0,False,False,1,1,6,Germany,Away,0,0,2
 1954-06-30,Austria,Germany,Germany,Max Morlock,47.0,False,False,1,1,6,Germany,Away,0,0,2
 1954-06-30,Austria,Germany,Austria,Erich Probst,51.0,False,False,1,1,6,Germany,Away,0,0,2
@@ -2617,8 +2617,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1957-09-29,Luxembourg,Austria,Austria,Robert Dienst,19.0,False,False,1,0,3,Austria,Away,0,0,0
 1957-09-29,Luxembourg,Austria,Austria,Hans Buzek,47.0,False,False,1,0,3,Austria,Away,0,0,0
 1957-09-29,Luxembourg,Austria,Austria,Helmut Senekowitsch,66.0,False,False,1,0,3,Austria,Away,0,0,0
-1957-09-29,Romania,Serbia and Montenegro,Romania,Alexandru Ene,78.0,False,False,1,1,1,Tie,Tie,0,0,0
-1957-09-29,Romania,Serbia and Montenegro,Serbia and Montenegro,Muhamed Mujić,79.0,False,False,1,1,1,Tie,Tie,0,0,0
+1957-09-29,Romania,Serbia,Romania,Alexandru Ene,78.0,False,False,1,1,1,Tie,Tie,0,0,0
+1957-09-29,Romania,Serbia,Serbia,Muhamed Mujić,79.0,False,False,1,1,1,Tie,Tie,0,0,0
 1957-10-02,Denmark,Republic of Ireland,Republic of Ireland,George Cummins,53.0,False,False,1,0,2,Republic of Ireland,Away,0,0,0
 1957-10-02,Denmark,Republic of Ireland,Republic of Ireland,Dermot Curtis,61.0,False,False,1,0,2,Republic of Ireland,Away,0,0,0
 1957-10-06,Bolivia,Argentina,Bolivia,Máximo Alcócer,13.0,False,False,1,2,0,Bolivia,Home,0,0,0
@@ -2669,13 +2669,13 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1957-11-10,Hungary,Norway,Hungary,Ferenc Machos,69.0,False,False,1,5,0,Hungary,Home,0,0,0
 1957-11-10,Hungary,Norway,Hungary,Lajos Csordás,71.0,False,False,1,5,0,Hungary,Home,0,0,0
 1957-11-10,Hungary,Norway,Hungary,Edgar Falch,74.0,True,False,1,5,0,Hungary,Home,0,0,0
-1957-11-10,Serbia and Montenegro,Greece,Serbia and Montenegro,Muhamed Mujić,6.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1957-11-10,Serbia and Montenegro,Greece,Serbia and Montenegro,Dobrosav Krstić,9.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1957-11-10,Serbia and Montenegro,Greece,Greece,Kostas Nestoridis,28.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1957-11-10,Serbia and Montenegro,Greece,Serbia and Montenegro,Muhamed Mujić,61.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1957-11-10,Serbia and Montenegro,Greece,Serbia and Montenegro,Aleksandar Petaković,67.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1957-11-17,Serbia and Montenegro,Romania,Serbia and Montenegro,Miloš Milutinović,52.0,False,False,1,2,0,Serbia and Montenegro,Home,0,0,0
-1957-11-17,Serbia and Montenegro,Romania,Serbia and Montenegro,Miloš Milutinović,58.0,False,False,1,2,0,Serbia and Montenegro,Home,0,0,0
+1957-11-10,Serbia,Greece,Serbia,Muhamed Mujić,6.0,False,False,1,4,1,Serbia,Home,0,0,0
+1957-11-10,Serbia,Greece,Serbia,Dobrosav Krstić,9.0,False,False,1,4,1,Serbia,Home,0,0,0
+1957-11-10,Serbia,Greece,Greece,Kostas Nestoridis,28.0,False,False,1,4,1,Serbia,Home,0,0,0
+1957-11-10,Serbia,Greece,Serbia,Muhamed Mujić,61.0,False,False,1,4,1,Serbia,Home,0,0,0
+1957-11-10,Serbia,Greece,Serbia,Aleksandar Petaković,67.0,False,False,1,4,1,Serbia,Home,0,0,0
+1957-11-17,Serbia,Romania,Serbia,Miloš Milutinović,52.0,False,False,1,2,0,Serbia,Home,0,0,0
+1957-11-17,Serbia,Romania,Serbia,Miloš Milutinović,58.0,False,False,1,2,0,Serbia,Home,0,0,0
 1957-11-24,Poland,Russia,Russia,Eduard Streltsov,31.0,False,False,1,0,2,Russia,Away,0,0,0
 1957-11-24,Poland,Russia,Russia,Genrich Fedosov,75.0,False,False,1,0,2,Russia,Away,0,0,0
 1957-11-24,Switzerland,Spain,Spain,Ladislao Kubala,19.0,False,False,1,1,4,Spain,Away,0,0,0
@@ -2717,8 +2717,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1958-06-08,France,Paraguay,France,Jean Vincent,83.0,False,False,1,7,3,France,Home,0,0,1
 1958-06-08,Hungary,Wales,Hungary,József Bozsik,5.0,False,False,1,1,1,Tie,Tie,0,0,0
 1958-06-08,Hungary,Wales,Wales,John Charles,27.0,False,False,1,1,1,Tie,Tie,0,0,0
-1958-06-08,Scotland,Serbia and Montenegro,Serbia and Montenegro,Aleksandar Petaković,6.0,False,False,1,1,1,Tie,Tie,0,0,0
-1958-06-08,Scotland,Serbia and Montenegro,Scotland,Jimmy Murray,49.0,False,False,1,1,1,Tie,Tie,0,0,0
+1958-06-08,Scotland,Serbia,Serbia,Aleksandar Petaković,6.0,False,False,1,1,1,Tie,Tie,0,0,0
+1958-06-08,Scotland,Serbia,Scotland,Jimmy Murray,49.0,False,False,1,1,1,Tie,Tie,0,0,0
 1958-06-08,Sweden,Mexico,Sweden,Agne Simonsson,17.0,False,False,1,3,0,Sweden,Home,0,1,0
 1958-06-08,Sweden,Mexico,Sweden,Nils Liedholm,57.0,False,True,1,3,0,Sweden,Home,1,1,0
 1958-06-08,Sweden,Mexico,Sweden,Agne Simonsson,64.0,False,False,1,3,0,Sweden,Home,0,1,0
@@ -2732,11 +2732,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1958-06-11,Slovakia,Germany,Slovakia,Zdeněk Zikán,42.0,False,False,1,2,2,Tie,Tie,0,1,0
 1958-06-11,Slovakia,Germany,Germany,Hans Schäfer,60.0,False,False,1,2,2,Tie,Tie,0,1,0
 1958-06-11,Slovakia,Germany,Germany,Helmut Rahn,71.0,False,False,1,2,2,Tie,Tie,0,1,0
-1958-06-11,France,Serbia and Montenegro,France,Just Fontaine,4.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,0
-1958-06-11,France,Serbia and Montenegro,Serbia and Montenegro,Aleksandar Petaković,16.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,0
-1958-06-11,France,Serbia and Montenegro,Serbia and Montenegro,Todor Veselinović,63.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,0
-1958-06-11,France,Serbia and Montenegro,France,Just Fontaine,85.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,0
-1958-06-11,France,Serbia and Montenegro,Serbia and Montenegro,Todor Veselinović,88.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,0
+1958-06-11,France,Serbia,France,Just Fontaine,4.0,False,False,1,2,3,Serbia,Away,0,0,0
+1958-06-11,France,Serbia,Serbia,Aleksandar Petaković,16.0,False,False,1,2,3,Serbia,Away,0,0,0
+1958-06-11,France,Serbia,Serbia,Todor Veselinović,63.0,False,False,1,2,3,Serbia,Away,0,0,0
+1958-06-11,France,Serbia,France,Just Fontaine,85.0,False,False,1,2,3,Serbia,Away,0,0,0
+1958-06-11,France,Serbia,Serbia,Todor Veselinović,88.0,False,False,1,2,3,Serbia,Away,0,0,0
 1958-06-11,Mexico,Wales,Wales,Ivor Allchurch,32.0,False,False,1,1,1,Tie,Tie,0,0,0
 1958-06-11,Mexico,Wales,Mexico,Jaime Belmonte,89.0,False,False,1,1,1,Tie,Tie,0,0,0
 1958-06-11,Paraguay,Scotland,Paraguay,Juan Bautista Agüero,4.0,False,False,1,3,2,Paraguay,Home,0,0,0
@@ -2771,12 +2771,12 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1958-06-15,Hungary,Mexico,Hungary,Lajos Tichy,46.0,False,False,1,4,0,Hungary,Home,0,0,0
 1958-06-15,Hungary,Mexico,Hungary,Károly Sándor,54.0,False,False,1,4,0,Hungary,Home,0,0,0
 1958-06-15,Hungary,Mexico,Hungary,József Bencsics,69.0,False,False,1,4,0,Hungary,Home,0,0,0
-1958-06-15,Paraguay,Serbia and Montenegro,Serbia and Montenegro,Radivoje Ognjanović,18.0,False,False,1,3,3,Tie,Tie,0,0,0
-1958-06-15,Paraguay,Serbia and Montenegro,Paraguay,José Parodi,20.0,False,False,1,3,3,Tie,Tie,0,0,0
-1958-06-15,Paraguay,Serbia and Montenegro,Serbia and Montenegro,Todor Veselinović,21.0,False,False,1,3,3,Tie,Tie,0,0,0
-1958-06-15,Paraguay,Serbia and Montenegro,Paraguay,Juan Bautista Agüero,52.0,False,False,1,3,3,Tie,Tie,0,0,0
-1958-06-15,Paraguay,Serbia and Montenegro,Serbia and Montenegro,Zdravko Rajkov,73.0,False,False,1,3,3,Tie,Tie,0,0,0
-1958-06-15,Paraguay,Serbia and Montenegro,Paraguay,Jorge Lino Romero,80.0,False,False,1,3,3,Tie,Tie,0,0,0
+1958-06-15,Paraguay,Serbia,Serbia,Radivoje Ognjanović,18.0,False,False,1,3,3,Tie,Tie,0,0,0
+1958-06-15,Paraguay,Serbia,Paraguay,José Parodi,20.0,False,False,1,3,3,Tie,Tie,0,0,0
+1958-06-15,Paraguay,Serbia,Serbia,Todor Veselinović,21.0,False,False,1,3,3,Tie,Tie,0,0,0
+1958-06-15,Paraguay,Serbia,Paraguay,Juan Bautista Agüero,52.0,False,False,1,3,3,Tie,Tie,0,0,0
+1958-06-15,Paraguay,Serbia,Serbia,Zdravko Rajkov,73.0,False,False,1,3,3,Tie,Tie,0,0,0
+1958-06-15,Paraguay,Serbia,Paraguay,Jorge Lino Romero,80.0,False,False,1,3,3,Tie,Tie,0,0,0
 1958-06-17,Slovakia,Northern Ireland,Slovakia,Zdeněk Zikán,18.0,False,False,1,1,2,Northern Ireland,Away,0,0,0
 1958-06-17,Slovakia,Northern Ireland,Northern Ireland,Peter McParland,44.0,False,False,1,1,2,Northern Ireland,Away,0,0,0
 1958-06-17,Slovakia,Northern Ireland,Northern Ireland,Peter McParland,97.0,False,False,1,1,2,Northern Ireland,Away,0,0,0
@@ -2789,7 +2789,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1958-06-19,France,Northern Ireland,France,Just Fontaine,55.0,False,False,1,4,0,France,Home,0,0,0
 1958-06-19,France,Northern Ireland,France,Just Fontaine,63.0,False,False,1,4,0,France,Home,0,0,0
 1958-06-19,France,Northern Ireland,France,Roger Piantoni,68.0,False,False,1,4,0,France,Home,0,0,0
-1958-06-19,Germany,Serbia and Montenegro,Germany,Helmut Rahn,12.0,False,False,1,1,0,Germany,Home,0,0,0
+1958-06-19,Germany,Serbia,Germany,Helmut Rahn,12.0,False,False,1,1,0,Germany,Home,0,0,0
 1958-06-19,Sweden,Russia,Sweden,Kurt Hamrin,49.0,False,False,1,2,0,Sweden,Home,0,0,0
 1958-06-19,Sweden,Russia,Sweden,Agne Simonsson,88.0,False,False,1,2,0,Sweden,Home,0,0,0
 1958-06-24,Brazil,France,Brazil,Vavá,2.0,False,False,1,5,2,Brazil,Home,0,0,0
@@ -2939,8 +2939,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1959-05-29,Egypt,Sudan,Egypt,Essam Baheeg,12.0,False,False,1,2,1,Egypt,Home,0,0,0
 1959-05-29,Egypt,Sudan,Sudan,Siddiq Manzul,65.0,False,False,1,2,1,Egypt,Home,0,0,0
 1959-05-29,Egypt,Sudan,Egypt,Essam Baheeg,89.0,False,False,1,2,1,Egypt,Home,0,0,0
-1959-05-31,Serbia and Montenegro,Bulgaria,Serbia and Montenegro,Milan Galić,1.0,False,False,1,2,0,Serbia and Montenegro,Home,0,0,0
-1959-05-31,Serbia and Montenegro,Bulgaria,Serbia and Montenegro,Lazar Tasić,87.0,False,False,1,2,0,Serbia and Montenegro,Home,0,0,0
+1959-05-31,Serbia,Bulgaria,Serbia,Milan Galić,1.0,False,False,1,2,0,Serbia,Home,0,0,0
+1959-05-31,Serbia,Bulgaria,Serbia,Lazar Tasić,87.0,False,False,1,2,0,Serbia,Home,0,0,0
 1959-06-21,Germany,Portugal,Portugal,Matateu,12.0,False,False,1,0,2,Portugal,Away,0,0,0
 1959-06-21,Germany,Portugal,Portugal,Mário Coluna,67.0,False,False,1,0,2,Portugal,Away,0,0,0
 1959-06-28,Poland,Spain,Poland,Ernest Pohl,34.0,False,False,1,2,4,Spain,Away,0,0,0
@@ -2975,8 +2975,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1959-10-18,Slovakia,Denmark,Slovakia,Titus Buberník,56.0,False,False,1,5,1,Slovakia,Home,0,0,0
 1959-10-18,Slovakia,Denmark,Slovakia,Milan Dolinský,63.0,False,False,1,5,1,Slovakia,Home,0,0,0
 1959-10-18,Slovakia,Denmark,Slovakia,Adolf Scherer,86.0,False,False,1,5,1,Slovakia,Home,0,0,0
-1959-10-25,Bulgaria,Serbia and Montenegro,Bulgaria,Todor Diev,55.0,False,False,1,1,1,Tie,Tie,0,0,0
-1959-10-25,Bulgaria,Serbia and Montenegro,Serbia and Montenegro,Muhamed Mujić,57.0,False,False,1,1,1,Tie,Tie,0,0,0
+1959-10-25,Bulgaria,Serbia,Bulgaria,Todor Diev,55.0,False,False,1,1,1,Tie,Tie,0,0,0
+1959-10-25,Bulgaria,Serbia,Serbia,Muhamed Mujić,57.0,False,False,1,1,1,Tie,Tie,0,0,0
 1959-12-05,Brazil,Paraguay,Brazil,Paulo Pisaneschi,25.0,False,False,1,3,2,Brazil,Home,0,0,0
 1959-12-05,Brazil,Paraguay,Brazil,Paulo Pisaneschi,39.0,False,False,1,3,2,Brazil,Home,0,0,0
 1959-12-05,Brazil,Paraguay,Brazil,Paulo Pisaneschi,55.0,False,False,1,3,2,Brazil,Home,0,0,0
@@ -3030,37 +3030,37 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1960-03-27,Austria,France,Austria,Erich Probst,64.0,False,False,1,2,4,France,Away,0,0,1
 1960-03-27,Austria,France,France,François Heutte,77.0,False,False,1,2,4,France,Away,0,0,1
 1960-03-27,Austria,France,France,Raymond Kopa,83.0,False,True,1,2,4,France,Away,1,0,1
-1960-05-08,Portugal,Serbia and Montenegro,Portugal,Joaquim Santana,30.0,False,False,1,2,1,Portugal,Home,0,0,0
-1960-05-08,Portugal,Serbia and Montenegro,Portugal,Matateu,70.0,False,False,1,2,1,Portugal,Home,0,0,0
-1960-05-08,Portugal,Serbia and Montenegro,Serbia and Montenegro,Bora Kostić,81.0,False,False,1,2,1,Portugal,Home,0,0,0
+1960-05-08,Portugal,Serbia,Portugal,Joaquim Santana,30.0,False,False,1,2,1,Portugal,Home,0,0,0
+1960-05-08,Portugal,Serbia,Portugal,Matateu,70.0,False,False,1,2,1,Portugal,Home,0,0,0
+1960-05-08,Portugal,Serbia,Serbia,Bora Kostić,81.0,False,False,1,2,1,Portugal,Home,0,0,0
 1960-05-22,Romania,Slovakia,Slovakia,Josef Masopust,8.0,False,False,1,0,2,Slovakia,Away,0,0,0
 1960-05-22,Romania,Slovakia,Slovakia,Vlastimil Bubník,45.0,False,False,1,0,2,Slovakia,Away,0,0,0
-1960-05-22,Serbia and Montenegro,Portugal,Serbia and Montenegro,Dragoslav Šekularac,8.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1960-05-22,Serbia and Montenegro,Portugal,Portugal,Domiciano Cavém,29.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1960-05-22,Serbia and Montenegro,Portugal,Serbia and Montenegro,Zvezdan Čebinac,45.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1960-05-22,Serbia and Montenegro,Portugal,Serbia and Montenegro,Bora Kostić,50.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1960-05-22,Serbia and Montenegro,Portugal,Serbia and Montenegro,Milan Galić,79.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1960-05-22,Serbia and Montenegro,Portugal,Serbia and Montenegro,Bora Kostić,88.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
+1960-05-22,Serbia,Portugal,Serbia,Dragoslav Šekularac,8.0,False,False,1,5,1,Serbia,Home,0,0,0
+1960-05-22,Serbia,Portugal,Portugal,Domiciano Cavém,29.0,False,False,1,5,1,Serbia,Home,0,0,0
+1960-05-22,Serbia,Portugal,Serbia,Zvezdan Čebinac,45.0,False,False,1,5,1,Serbia,Home,0,0,0
+1960-05-22,Serbia,Portugal,Serbia,Bora Kostić,50.0,False,False,1,5,1,Serbia,Home,0,0,0
+1960-05-22,Serbia,Portugal,Serbia,Milan Galić,79.0,False,False,1,5,1,Serbia,Home,0,0,0
+1960-05-22,Serbia,Portugal,Serbia,Bora Kostić,88.0,False,False,1,5,1,Serbia,Home,0,0,0
 1960-05-29,Slovakia,Romania,Slovakia,Titus Buberník,1.0,False,False,1,3,0,Slovakia,Home,0,0,0
 1960-05-29,Slovakia,Romania,Slovakia,Titus Buberník,15.0,False,False,1,3,0,Slovakia,Home,0,0,0
 1960-05-29,Slovakia,Romania,Slovakia,Vlastimil Bubník,18.0,False,False,1,3,0,Slovakia,Home,0,0,0
 1960-07-06,Slovakia,Russia,Russia,Valentin Ivanov,34.0,False,False,1,0,3,Russia,Away,0,0,0
 1960-07-06,Slovakia,Russia,Russia,Valentin Ivanov,56.0,False,False,1,0,3,Russia,Away,0,0,0
 1960-07-06,Slovakia,Russia,Russia,Viktor Ponedelnik,66.0,False,False,1,0,3,Russia,Away,0,0,0
-1960-07-06,France,Serbia and Montenegro,Serbia and Montenegro,Milan Galić,11.0,False,False,1,4,5,Serbia and Montenegro,Away,0,0,0
-1960-07-06,France,Serbia and Montenegro,France,Jean Vincent,12.0,False,False,1,4,5,Serbia and Montenegro,Away,0,0,0
-1960-07-06,France,Serbia and Montenegro,France,François Heutte,43.0,False,False,1,4,5,Serbia and Montenegro,Away,0,0,0
-1960-07-06,France,Serbia and Montenegro,France,Maryan Wisniewski,53.0,False,False,1,4,5,Serbia and Montenegro,Away,0,0,0
-1960-07-06,France,Serbia and Montenegro,Serbia and Montenegro,Ante Žanetić,55.0,False,False,1,4,5,Serbia and Montenegro,Away,0,0,0
-1960-07-06,France,Serbia and Montenegro,France,François Heutte,62.0,False,False,1,4,5,Serbia and Montenegro,Away,0,0,0
-1960-07-06,France,Serbia and Montenegro,Serbia and Montenegro,Tomislav Knez,75.0,False,False,1,4,5,Serbia and Montenegro,Away,0,0,0
-1960-07-06,France,Serbia and Montenegro,Serbia and Montenegro,Dražan Jerković,78.0,False,False,1,4,5,Serbia and Montenegro,Away,0,0,0
-1960-07-06,France,Serbia and Montenegro,Serbia and Montenegro,Dražan Jerković,79.0,False,False,1,4,5,Serbia and Montenegro,Away,0,0,0
+1960-07-06,France,Serbia,Serbia,Milan Galić,11.0,False,False,1,4,5,Serbia,Away,0,0,0
+1960-07-06,France,Serbia,France,Jean Vincent,12.0,False,False,1,4,5,Serbia,Away,0,0,0
+1960-07-06,France,Serbia,France,François Heutte,43.0,False,False,1,4,5,Serbia,Away,0,0,0
+1960-07-06,France,Serbia,France,Maryan Wisniewski,53.0,False,False,1,4,5,Serbia,Away,0,0,0
+1960-07-06,France,Serbia,Serbia,Ante Žanetić,55.0,False,False,1,4,5,Serbia,Away,0,0,0
+1960-07-06,France,Serbia,France,François Heutte,62.0,False,False,1,4,5,Serbia,Away,0,0,0
+1960-07-06,France,Serbia,Serbia,Tomislav Knez,75.0,False,False,1,4,5,Serbia,Away,0,0,0
+1960-07-06,France,Serbia,Serbia,Dražan Jerković,78.0,False,False,1,4,5,Serbia,Away,0,0,0
+1960-07-06,France,Serbia,Serbia,Dražan Jerković,79.0,False,False,1,4,5,Serbia,Away,0,0,0
 1960-07-09,France,Slovakia,Slovakia,Vlastimil Bubník,58.0,False,False,1,0,2,Slovakia,Away,0,0,0
 1960-07-09,France,Slovakia,Slovakia,Ladislav Pavlovič,88.0,False,False,1,0,2,Slovakia,Away,0,0,0
-1960-07-10,Russia,Serbia and Montenegro,Serbia and Montenegro,Milan Galić,43.0,False,False,1,2,1,Russia,Home,0,0,0
-1960-07-10,Russia,Serbia and Montenegro,Russia,Slava Metreveli,49.0,False,False,1,2,1,Russia,Home,0,0,0
-1960-07-10,Russia,Serbia and Montenegro,Russia,Viktor Ponedelnik,113.0,False,False,1,2,1,Russia,Home,0,0,0
+1960-07-10,Russia,Serbia,Serbia,Milan Galić,43.0,False,False,1,2,1,Russia,Home,0,0,0
+1960-07-10,Russia,Serbia,Russia,Slava Metreveli,49.0,False,False,1,2,1,Russia,Home,0,0,0
+1960-07-10,Russia,Serbia,Russia,Viktor Ponedelnik,113.0,False,False,1,2,1,Russia,Home,0,0,0
 1960-08-21,Costa Rica,Guatemala,Guatemala,Augusto Espinoza,1.0,False,False,1,3,2,Costa Rica,Home,0,0,0
 1960-08-21,Costa Rica,Guatemala,Costa Rica,Rigoberto Rojas,28.0,False,False,1,3,2,Costa Rica,Home,0,0,0
 1960-08-21,Costa Rica,Guatemala,Guatemala,Fred Masella,35.0,False,False,1,3,2,Costa Rica,Home,0,0,0
@@ -3269,16 +3269,16 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1961-05-28,Sweden,Switzerland,Sweden,Agne Simonsson,70.0,False,False,1,4,0,Sweden,Home,0,0,0
 1961-05-28,Sweden,Switzerland,Sweden,Rune Börjesson,75.0,False,False,1,4,0,Sweden,Home,0,0,0
 1961-06-01,Norway,Turkey,Turkey,Metin Oktay,16.0,False,False,1,0,1,Turkey,Away,0,0,0
-1961-06-04,Serbia and Montenegro,Poland,Serbia and Montenegro,Tomislav Kaloperović,42.0,False,True,1,2,1,Serbia and Montenegro,Home,1,1,0
-1961-06-04,Serbia and Montenegro,Poland,Serbia and Montenegro,Bora Kostić,49.0,False,False,1,2,1,Serbia and Montenegro,Home,0,1,0
-1961-06-04,Serbia and Montenegro,Poland,Poland,Lucjan Brychczy,65.0,False,False,1,2,1,Serbia and Montenegro,Home,0,1,0
+1961-06-04,Serbia,Poland,Serbia,Tomislav Kaloperović,42.0,False,True,1,2,1,Serbia,Home,1,1,0
+1961-06-04,Serbia,Poland,Serbia,Bora Kostić,49.0,False,False,1,2,1,Serbia,Home,0,1,0
+1961-06-04,Serbia,Poland,Poland,Lucjan Brychczy,65.0,False,False,1,2,1,Serbia,Home,0,1,0
 1961-06-11,Japan,South Korea,South Korea,Chung Soon-cheon,21.0,False,False,1,0,2,South Korea,Away,0,0,0
 1961-06-11,Japan,South Korea,South Korea,Yoo Pan-soon,26.0,False,False,1,0,2,South Korea,Away,0,0,0
 1961-06-16,Finland,Bulgaria,Bulgaria,Hristo Iliev,33.0,False,False,1,0,2,Bulgaria,Away,0,0,1
 1961-06-16,Finland,Bulgaria,Bulgaria,Ivan Kolev,75.0,False,True,1,0,2,Bulgaria,Away,1,0,1
 1961-06-18,Russia,Turkey,Russia,Valery Voronin,20.0,False,False,1,1,0,Russia,Home,0,0,0
-1961-06-25,Poland,Serbia and Montenegro,Serbia and Montenegro,Milan Galić,2.0,False,False,1,1,1,Tie,Tie,0,0,0
-1961-06-25,Poland,Serbia and Montenegro,Poland,Jan Szmidt,29.0,False,False,1,1,1,Tie,Tie,0,0,0
+1961-06-25,Poland,Serbia,Serbia,Milan Galić,2.0,False,False,1,1,1,Tie,Tie,0,0,0
+1961-06-25,Poland,Serbia,Poland,Jan Szmidt,29.0,False,False,1,1,1,Tie,Tie,0,0,0
 1961-07-01,Russia,Norway,Russia,Slava Metreveli,14.0,False,False,1,5,2,Russia,Home,0,0,0
 1961-07-01,Russia,Norway,Russia,Viktor Ponedelnik,26.0,False,False,1,5,2,Russia,Home,0,0,0
 1961-07-01,Russia,Norway,Russia,Valentin Bubukin,32.0,False,False,1,5,2,Russia,Home,0,0,0
@@ -3327,12 +3327,12 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1961-10-08,Republic of Ireland,Slovakia,Republic of Ireland,Johnny Giles,41.0,False,False,1,1,3,Slovakia,Away,0,0,0
 1961-10-08,Republic of Ireland,Slovakia,Slovakia,Andrej Kvašňák,61.0,False,False,1,1,3,Slovakia,Away,0,0,0
 1961-10-08,Republic of Ireland,Slovakia,Slovakia,Andrej Kvašňák,69.0,False,False,1,1,3,Slovakia,Away,0,0,0
-1961-10-08,Serbia and Montenegro,South Korea,Serbia and Montenegro,Zvezdan Čebinac,42.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1961-10-08,Serbia and Montenegro,South Korea,Serbia and Montenegro,Dragoslav Šekularac,54.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1961-10-08,Serbia and Montenegro,South Korea,Serbia and Montenegro,Petar Radaković,67.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1961-10-08,Serbia and Montenegro,South Korea,Serbia and Montenegro,Dragoslav Šekularac,70.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1961-10-08,Serbia and Montenegro,South Korea,South Korea,Chung Soon-cheon,82.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1961-10-08,Serbia and Montenegro,South Korea,Serbia and Montenegro,Milan Galić,89.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
+1961-10-08,Serbia,South Korea,Serbia,Zvezdan Čebinac,42.0,False,False,1,5,1,Serbia,Home,0,0,0
+1961-10-08,Serbia,South Korea,Serbia,Dragoslav Šekularac,54.0,False,False,1,5,1,Serbia,Home,0,0,0
+1961-10-08,Serbia,South Korea,Serbia,Petar Radaković,67.0,False,False,1,5,1,Serbia,Home,0,0,0
+1961-10-08,Serbia,South Korea,Serbia,Dragoslav Šekularac,70.0,False,False,1,5,1,Serbia,Home,0,0,0
+1961-10-08,Serbia,South Korea,South Korea,Chung Soon-cheon,82.0,False,False,1,5,1,Serbia,Home,0,0,0
+1961-10-08,Serbia,South Korea,Serbia,Milan Galić,89.0,False,False,1,5,1,Serbia,Home,0,0,0
 1961-10-15,Israel,Italy,Israel,Nahum Stelmach,15.0,False,False,1,2,4,Italy,Away,0,0,1
 1961-10-15,Israel,Italy,Israel,Reuven Young,38.0,False,False,1,2,4,Italy,Away,0,0,1
 1961-10-15,Israel,Italy,Italy,Francisco Lojacono,53.0,False,True,1,2,4,Italy,Away,1,0,1
@@ -3392,10 +3392,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1961-11-23,Spain,Morocco,Spain,Alfredo Di Stéfano,44.0,False,False,1,3,2,Spain,Home,0,0,0
 1961-11-23,Spain,Morocco,Spain,Enrique Collar,58.0,False,False,1,3,2,Spain,Home,0,0,0
 1961-11-23,Spain,Morocco,Morocco,Abdallah Azhar,64.0,False,False,1,3,2,Spain,Home,0,0,0
-1961-11-26,South Korea,Serbia and Montenegro,Serbia and Montenegro,Milan Galić,17.0,False,False,1,1,3,Serbia and Montenegro,Away,0,0,0
-1961-11-26,South Korea,Serbia and Montenegro,Serbia and Montenegro,Milan Galić,27.0,False,False,1,1,3,Serbia and Montenegro,Away,0,0,0
-1961-11-26,South Korea,Serbia and Montenegro,South Korea,Yoo Pan-sun,61.0,False,False,1,1,3,Serbia and Montenegro,Away,0,0,0
-1961-11-26,South Korea,Serbia and Montenegro,Serbia and Montenegro,Dražan Jerković,89.0,False,False,1,1,3,Serbia and Montenegro,Away,0,0,0
+1961-11-26,South Korea,Serbia,Serbia,Milan Galić,17.0,False,False,1,1,3,Serbia,Away,0,0,0
+1961-11-26,South Korea,Serbia,Serbia,Milan Galić,27.0,False,False,1,1,3,Serbia,Away,0,0,0
+1961-11-26,South Korea,Serbia,South Korea,Yoo Pan-sun,61.0,False,False,1,1,3,Serbia,Away,0,0,0
+1961-11-26,South Korea,Serbia,Serbia,Dražan Jerković,89.0,False,False,1,1,3,Serbia,Away,0,0,0
 1961-11-29,Slovakia,Scotland,Scotland,Ian St. John,38.0,False,False,1,4,2,Slovakia,Home,0,0,0
 1961-11-29,Slovakia,Scotland,Slovakia,Jiří Hledík,70.0,False,False,1,4,2,Slovakia,Home,0,0,0
 1961-11-29,Slovakia,Scotland,Scotland,Ian St. John,71.0,False,False,1,4,2,Slovakia,Home,0,0,0
@@ -3435,18 +3435,18 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1962-05-31,England,Hungary,Hungary,Lajos Tichy,17.0,False,False,1,1,2,Hungary,Away,0,1,0
 1962-05-31,England,Hungary,England,Ron Flowers,60.0,False,True,1,1,2,Hungary,Away,1,1,0
 1962-05-31,England,Hungary,Hungary,Flórián Albert,71.0,False,False,1,1,2,Hungary,Away,0,1,0
-1962-05-31,Russia,Serbia and Montenegro,Russia,Valentin Kozmich Ivanov,51.0,False,False,1,2,0,Russia,Home,0,0,0
-1962-05-31,Russia,Serbia and Montenegro,Russia,Viktor Ponedelnik,83.0,False,False,1,2,0,Russia,Home,0,0,0
+1962-05-31,Russia,Serbia,Russia,Valentin Kozmich Ivanov,51.0,False,False,1,2,0,Russia,Home,0,0,0
+1962-05-31,Russia,Serbia,Russia,Viktor Ponedelnik,83.0,False,False,1,2,0,Russia,Home,0,0,0
 1962-06-02,Argentina,England,England,Ron Flowers,17.0,False,True,1,1,3,England,Away,1,0,1
 1962-06-02,Argentina,England,England,Bobby Charlton,42.0,False,False,1,1,3,England,Away,0,0,1
 1962-06-02,Argentina,England,England,Jimmy Greaves,67.0,False,False,1,1,3,England,Away,0,0,1
 1962-06-02,Argentina,England,Argentina,José Sanfilippo,81.0,False,False,1,1,3,England,Away,0,0,1
 1962-06-02,Chile,Italy,Chile,Jaime Ramírez,73.0,False,False,1,2,0,Chile,Home,0,0,0
 1962-06-02,Chile,Italy,Chile,Jorge Toro,87.0,False,False,1,2,0,Chile,Home,0,0,0
-1962-06-02,Uruguay,Serbia and Montenegro,Uruguay,Ángel Cabrera,19.0,False,False,1,1,3,Serbia and Montenegro,Away,0,0,1
-1962-06-02,Uruguay,Serbia and Montenegro,Serbia and Montenegro,Josip Skoblar,25.0,False,True,1,1,3,Serbia and Montenegro,Away,1,0,1
-1962-06-02,Uruguay,Serbia and Montenegro,Serbia and Montenegro,Milan Galić,29.0,False,False,1,1,3,Serbia and Montenegro,Away,0,0,1
-1962-06-02,Uruguay,Serbia and Montenegro,Serbia and Montenegro,Dražan Jerković,49.0,False,False,1,1,3,Serbia and Montenegro,Away,0,0,1
+1962-06-02,Uruguay,Serbia,Uruguay,Ángel Cabrera,19.0,False,False,1,1,3,Serbia,Away,0,0,1
+1962-06-02,Uruguay,Serbia,Serbia,Josip Skoblar,25.0,False,True,1,1,3,Serbia,Away,1,0,1
+1962-06-02,Uruguay,Serbia,Serbia,Milan Galić,29.0,False,False,1,1,3,Serbia,Away,0,0,1
+1962-06-02,Uruguay,Serbia,Serbia,Dražan Jerković,49.0,False,False,1,1,3,Serbia,Away,0,0,1
 1962-06-03,Bulgaria,Hungary,Hungary,Flórián Albert,1.0,False,False,1,1,6,Hungary,Away,0,0,0
 1962-06-03,Bulgaria,Hungary,Hungary,Flórián Albert,6.0,False,False,1,1,6,Hungary,Away,0,0,0
 1962-06-03,Bulgaria,Hungary,Hungary,Lajos Tichy,8.0,False,False,1,1,6,Hungary,Away,0,0,0
@@ -3474,11 +3474,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1962-06-06,Russia,Uruguay,Russia,Aleksei Mamykin,38.0,False,False,1,2,1,Russia,Home,0,0,0
 1962-06-06,Russia,Uruguay,Uruguay,José Sasía,54.0,False,False,1,2,1,Russia,Home,0,0,0
 1962-06-06,Russia,Uruguay,Russia,Valentin Kozmich Ivanov,89.0,False,False,1,2,1,Russia,Home,0,0,0
-1962-06-07,Colombia,Serbia and Montenegro,Serbia and Montenegro,Milan Galić,20.0,False,False,1,0,5,Serbia and Montenegro,Away,0,0,0
-1962-06-07,Colombia,Serbia and Montenegro,Serbia and Montenegro,Dražan Jerković,25.0,False,False,1,0,5,Serbia and Montenegro,Away,0,0,0
-1962-06-07,Colombia,Serbia and Montenegro,Serbia and Montenegro,Milan Galić,61.0,False,False,1,0,5,Serbia and Montenegro,Away,0,0,0
-1962-06-07,Colombia,Serbia and Montenegro,Serbia and Montenegro,Vojislav Melić,82.0,False,False,1,0,5,Serbia and Montenegro,Away,0,0,0
-1962-06-07,Colombia,Serbia and Montenegro,Serbia and Montenegro,Dražan Jerković,87.0,False,False,1,0,5,Serbia and Montenegro,Away,0,0,0
+1962-06-07,Colombia,Serbia,Serbia,Milan Galić,20.0,False,False,1,0,5,Serbia,Away,0,0,0
+1962-06-07,Colombia,Serbia,Serbia,Dražan Jerković,25.0,False,False,1,0,5,Serbia,Away,0,0,0
+1962-06-07,Colombia,Serbia,Serbia,Milan Galić,61.0,False,False,1,0,5,Serbia,Away,0,0,0
+1962-06-07,Colombia,Serbia,Serbia,Vojislav Melić,82.0,False,False,1,0,5,Serbia,Away,0,0,0
+1962-06-07,Colombia,Serbia,Serbia,Dražan Jerković,87.0,False,False,1,0,5,Serbia,Away,0,0,0
 1962-06-07,Slovakia,Mexico,Slovakia,Václav Mašek,1.0,False,False,1,1,3,Mexico,Away,0,0,1
 1962-06-07,Slovakia,Mexico,Mexico,Isidoro Díaz,12.0,False,False,1,1,3,Mexico,Away,0,0,1
 1962-06-07,Slovakia,Mexico,Mexico,Alfredo del Águila,29.0,False,False,1,1,3,Mexico,Away,0,0,1
@@ -3494,18 +3494,18 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1962-06-10,Chile,Russia,Russia,Igor Chislenko,26.0,False,False,1,2,1,Chile,Home,0,0,0
 1962-06-10,Chile,Russia,Chile,Eladio Rojas,29.0,False,False,1,2,1,Chile,Home,0,0,0
 1962-06-10,Slovakia,Hungary,Slovakia,Adolf Scherer,13.0,False,False,1,1,0,Slovakia,Home,0,0,0
-1962-06-10,Germany,Serbia and Montenegro,Serbia and Montenegro,Petar Radaković,85.0,False,False,1,0,1,Serbia and Montenegro,Away,0,0,0
+1962-06-10,Germany,Serbia,Serbia,Petar Radaković,85.0,False,False,1,0,1,Serbia,Away,0,0,0
 1962-06-13,Chile,Brazil,Brazil,Garrincha,9.0,False,False,1,2,4,Brazil,Away,0,1,0
 1962-06-13,Chile,Brazil,Brazil,Garrincha,32.0,False,False,1,2,4,Brazil,Away,0,1,0
 1962-06-13,Chile,Brazil,Chile,Jorge Toro,42.0,False,False,1,2,4,Brazil,Away,0,1,0
 1962-06-13,Chile,Brazil,Brazil,Vavá,47.0,False,False,1,2,4,Brazil,Away,0,1,0
 1962-06-13,Chile,Brazil,Chile,Leonel Sánchez,61.0,False,True,1,2,4,Brazil,Away,1,1,0
 1962-06-13,Chile,Brazil,Brazil,Vavá,78.0,False,False,1,2,4,Brazil,Away,0,1,0
-1962-06-13,Slovakia,Serbia and Montenegro,Slovakia,Josef Kadraba,48.0,False,False,1,3,1,Slovakia,Home,0,1,0
-1962-06-13,Slovakia,Serbia and Montenegro,Serbia and Montenegro,Dražan Jerković,69.0,False,False,1,3,1,Slovakia,Home,0,1,0
-1962-06-13,Slovakia,Serbia and Montenegro,Slovakia,Adolf Scherer,80.0,False,False,1,3,1,Slovakia,Home,0,1,0
-1962-06-13,Slovakia,Serbia and Montenegro,Slovakia,Adolf Scherer,84.0,False,True,1,3,1,Slovakia,Home,1,1,0
-1962-06-16,Chile,Serbia and Montenegro,Chile,Eladio Rojas,90.0,False,False,1,1,0,Chile,Home,0,0,0
+1962-06-13,Slovakia,Serbia,Slovakia,Josef Kadraba,48.0,False,False,1,3,1,Slovakia,Home,0,1,0
+1962-06-13,Slovakia,Serbia,Serbia,Dražan Jerković,69.0,False,False,1,3,1,Slovakia,Home,0,1,0
+1962-06-13,Slovakia,Serbia,Slovakia,Adolf Scherer,80.0,False,False,1,3,1,Slovakia,Home,0,1,0
+1962-06-13,Slovakia,Serbia,Slovakia,Adolf Scherer,84.0,False,True,1,3,1,Slovakia,Home,1,1,0
+1962-06-16,Chile,Serbia,Chile,Eladio Rojas,90.0,False,False,1,1,0,Chile,Home,0,0,0
 1962-06-17,Brazil,Slovakia,Slovakia,Josef Masopust,15.0,False,False,1,3,1,Brazil,Home,0,0,0
 1962-06-17,Brazil,Slovakia,Brazil,Amarildo Tavares da Silveira,17.0,False,False,1,3,1,Brazil,Home,0,0,0
 1962-06-17,Brazil,Slovakia,Brazil,Zito,69.0,False,False,1,3,1,Brazil,Home,0,0,0
@@ -3539,11 +3539,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1962-11-01,Spain,Romania,Spain,Ion Nunweiller,81.0,True,False,1,6,0,Spain,Home,0,0,0
 1962-11-04,Sweden,Norway,Sweden,Leif Eriksson,49.0,False,False,1,1,1,Tie,Tie,0,0,0
 1962-11-04,Sweden,Norway,Norway,John Krogh,60.0,False,False,1,1,1,Tie,Tie,0,0,0
-1962-11-04,Serbia and Montenegro,Belgium,Serbia and Montenegro,Josip Skoblar,12.0,False,False,1,3,2,Serbia and Montenegro,Home,0,1,0
-1962-11-04,Serbia and Montenegro,Belgium,Belgium,Jacques Stockman,26.0,False,False,1,3,2,Serbia and Montenegro,Home,0,1,0
-1962-11-04,Serbia and Montenegro,Belgium,Serbia and Montenegro,Josip Skoblar,32.0,False,True,1,3,2,Serbia and Montenegro,Home,1,1,0
-1962-11-04,Serbia and Montenegro,Belgium,Belgium,Armand Jurion,58.0,False,False,1,3,2,Serbia and Montenegro,Home,0,1,0
-1962-11-04,Serbia and Montenegro,Belgium,Serbia and Montenegro,Velibor Vasović,89.0,False,False,1,3,2,Serbia and Montenegro,Home,0,1,0
+1962-11-04,Serbia,Belgium,Serbia,Josip Skoblar,12.0,False,False,1,3,2,Serbia,Home,0,1,0
+1962-11-04,Serbia,Belgium,Belgium,Jacques Stockman,26.0,False,False,1,3,2,Serbia,Home,0,1,0
+1962-11-04,Serbia,Belgium,Serbia,Josip Skoblar,32.0,False,True,1,3,2,Serbia,Home,1,1,0
+1962-11-04,Serbia,Belgium,Belgium,Armand Jurion,58.0,False,False,1,3,2,Serbia,Home,0,1,0
+1962-11-04,Serbia,Belgium,Serbia,Velibor Vasović,89.0,False,False,1,3,2,Serbia,Home,0,1,0
 1962-11-07,Bulgaria,Portugal,Portugal,Eusébio,49.0,False,False,1,3,1,Bulgaria,Home,0,0,0
 1962-11-07,Bulgaria,Portugal,Bulgaria,Georgi Asparuhov,65.0,False,False,1,3,1,Bulgaria,Home,0,0,0
 1962-11-07,Bulgaria,Portugal,Bulgaria,Georgi Asparuhov,76.0,False,False,1,3,1,Bulgaria,Home,0,0,0
@@ -3665,7 +3665,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1963-03-28,Bolivia,Argentina,Bolivia,Wilfredo Camacho,88.0,False,False,1,3,2,Bolivia,Home,0,0,0
 1963-03-31,Argentina,Paraguay,Paraguay,César Cabrera,33.0,False,False,1,1,1,Tie,Tie,0,0,0
 1963-03-31,Argentina,Paraguay,Argentina,Juan Carlos Lallana,58.0,False,False,1,1,1,Tie,Tie,0,0,0
-1963-03-31,Belgium,Serbia and Montenegro,Serbia and Montenegro,Milan Galić,21.0,False,False,1,0,1,Serbia and Montenegro,Away,0,0,0
+1963-03-31,Belgium,Serbia,Serbia,Milan Galić,21.0,False,False,1,0,1,Serbia,Away,0,0,0
 1963-03-31,Bolivia,Brazil,Bolivia,Víctor Ugarte,15.0,False,False,1,5,4,Bolivia,Home,0,0,0
 1963-03-31,Bolivia,Brazil,Bolivia,Wilfredo Camacho,25.0,False,False,1,5,4,Bolivia,Home,0,0,0
 1963-03-31,Bolivia,Brazil,Brazil,Marco Antônio García Alves,26.0,False,False,1,5,4,Bolivia,Home,0,0,0
@@ -3694,11 +3694,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1963-06-29,Denmark,Albania,Denmark,Henning Enoksen,49.0,False,False,1,4,0,Denmark,Home,0,1,0
 1963-09-11,Netherlands,Luxembourg,Netherlands,Klaas Nuninga,5.0,False,False,1,1,1,Tie,Tie,0,0,0
 1963-09-11,Netherlands,Luxembourg,Luxembourg,Paul May,33.0,False,False,1,1,1,Tie,Tie,0,0,0
-1963-09-18,Sweden,Serbia and Montenegro,Serbia and Montenegro,Slaven Zambata,21.0,False,False,1,3,2,Sweden,Home,0,0,0
-1963-09-18,Sweden,Serbia and Montenegro,Sweden,Örjan Persson,30.0,False,False,1,3,2,Sweden,Home,0,0,0
-1963-09-18,Sweden,Serbia and Montenegro,Sweden,Örjan Persson,60.0,False,False,1,3,2,Sweden,Home,0,0,0
-1963-09-18,Sweden,Serbia and Montenegro,Serbia and Montenegro,Milan Galić,64.0,False,False,1,3,2,Sweden,Home,0,0,0
-1963-09-18,Sweden,Serbia and Montenegro,Sweden,Harry Bild,72.0,False,False,1,3,2,Sweden,Home,0,0,0
+1963-09-18,Sweden,Serbia,Serbia,Slaven Zambata,21.0,False,False,1,3,2,Sweden,Home,0,0,0
+1963-09-18,Sweden,Serbia,Sweden,Örjan Persson,30.0,False,False,1,3,2,Sweden,Home,0,0,0
+1963-09-18,Sweden,Serbia,Sweden,Örjan Persson,60.0,False,False,1,3,2,Sweden,Home,0,0,0
+1963-09-18,Sweden,Serbia,Serbia,Milan Galić,64.0,False,False,1,3,2,Sweden,Home,0,0,0
+1963-09-18,Sweden,Serbia,Sweden,Harry Bild,72.0,False,False,1,3,2,Sweden,Home,0,0,0
 1963-09-29,Bulgaria,France,Bulgaria,Todor Diev,24.0,False,False,1,1,0,Bulgaria,Home,0,0,0
 1963-10-13,Republic of Ireland,Austria,Austria,Walter Koleznik,38.0,False,False,1,3,2,Republic of Ireland,Home,0,1,0
 1963-10-13,Republic of Ireland,Austria,Republic of Ireland,Noel Cantwell,45.0,False,False,1,3,2,Republic of Ireland,Home,0,1,0
@@ -3820,10 +3820,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1964-06-21,Spain,Russia,Spain,Chus Pereda,6.0,False,False,1,2,1,Spain,Home,0,0,0
 1964-06-21,Spain,Russia,Russia,Galimzyan Khusainov,8.0,False,False,1,2,1,Spain,Home,0,0,0
 1964-06-21,Spain,Russia,Spain,Marcelino Martínez,84.0,False,False,1,2,1,Spain,Home,0,0,0
-1964-09-29,Serbia and Montenegro,Luxembourg,Serbia and Montenegro,Vladica Kovačević,15.0,False,False,1,3,1,Serbia and Montenegro,Home,0,0,0
-1964-09-29,Serbia and Montenegro,Luxembourg,Serbia and Montenegro,Dražan Jerković,25.0,False,False,1,3,1,Serbia and Montenegro,Home,0,0,0
-1964-09-29,Serbia and Montenegro,Luxembourg,Luxembourg,Ady Schmit,71.0,False,False,1,3,1,Serbia and Montenegro,Home,0,0,0
-1964-09-29,Serbia and Montenegro,Luxembourg,Serbia and Montenegro,Milan Galić,86.0,False,False,1,3,1,Serbia and Montenegro,Home,0,0,0
+1964-09-29,Serbia,Luxembourg,Serbia,Vladica Kovačević,15.0,False,False,1,3,1,Serbia,Home,0,0,0
+1964-09-29,Serbia,Luxembourg,Serbia,Dražan Jerković,25.0,False,False,1,3,1,Serbia,Home,0,0,0
+1964-09-29,Serbia,Luxembourg,Luxembourg,Ady Schmit,71.0,False,False,1,3,1,Serbia,Home,0,0,0
+1964-09-29,Serbia,Luxembourg,Serbia,Milan Galić,86.0,False,False,1,3,1,Serbia,Home,0,0,0
 1964-10-04,Luxembourg,France,France,André Guy,17.0,False,False,1,0,2,France,Away,0,0,0
 1964-10-04,Luxembourg,France,France,Marcel Artelesa,80.0,False,False,1,0,2,France,Away,0,0,0
 1964-10-14,Northern Ireland,Switzerland,Northern Ireland,Jobby Crossan,64.0,False,True,1,1,0,Northern Ireland,Home,1,1,0
@@ -3918,7 +3918,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1965-03-21,Honduras,United States,Honduras,José Ricardo Taylor,85.0,False,False,1,1,1,Tie,Tie,0,0,0
 1965-04-11,Albania,Switzerland,Switzerland,René-Pierre Quentin,21.0,False,False,1,0,2,Switzerland,Away,0,0,0
 1965-04-11,Albania,Switzerland,Switzerland,Köbi Kuhn,88.0,False,False,1,0,2,Switzerland,Away,0,0,0
-1965-04-18,Serbia and Montenegro,France,Serbia and Montenegro,Milan Galić,59.0,False,False,1,1,0,Serbia and Montenegro,Home,0,0,0
+1965-04-18,Serbia,France,Serbia,Milan Galić,59.0,False,False,1,1,0,Serbia,Home,0,0,0
 1965-04-19,Turkey,Portugal,Portugal,Eusébio,59.0,False,False,1,0,1,Portugal,Away,0,0,0
 1965-04-24,Germany,Cyprus,Germany,Klaus-Dieter Sieloff,16.0,False,False,1,5,0,Germany,Home,0,0,0
 1965-04-24,Germany,Cyprus,Germany,Wolfgang Overath,22.0,False,False,1,5,0,Germany,Home,0,0,0
@@ -4017,9 +4017,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1965-06-14,Portugal,Romania,Portugal,Eusébio,14.0,False,False,1,2,1,Portugal,Home,0,0,0
 1965-06-14,Portugal,Romania,Portugal,Eusébio,39.0,False,False,1,2,1,Portugal,Home,0,0,0
 1965-06-14,Portugal,Romania,Romania,Sorin Avram,71.0,False,False,1,2,1,Portugal,Home,0,0,0
-1965-06-16,Norway,Serbia and Montenegro,Norway,Finn Seemann,9.0,False,False,1,3,0,Norway,Home,0,0,0
-1965-06-16,Norway,Serbia and Montenegro,Norway,Olav Nilsen,60.0,False,False,1,3,0,Norway,Home,0,0,0
-1965-06-16,Norway,Serbia and Montenegro,Norway,Harald Berg,87.0,False,False,1,3,0,Norway,Home,0,0,0
+1965-06-16,Norway,Serbia,Norway,Finn Seemann,9.0,False,False,1,3,0,Norway,Home,0,0,0
+1965-06-16,Norway,Serbia,Norway,Olav Nilsen,60.0,False,False,1,3,0,Norway,Home,0,0,0
+1965-06-16,Norway,Serbia,Norway,Harald Berg,87.0,False,False,1,3,0,Norway,Home,0,0,0
 1965-06-23,Finland,Italy,Italy,Sandro Mazzola,33.0,False,False,1,0,2,Italy,Away,0,0,0
 1965-06-23,Finland,Italy,Italy,Sandro Mazzola,78.0,False,False,1,0,2,Italy,Away,0,0,0
 1965-06-27,Russia,Denmark,Russia,Galimzyan Khusainov,9.0,False,False,1,6,0,Russia,Home,0,0,0
@@ -4074,13 +4074,13 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1965-09-19,Slovakia,Romania,Romania,Dan Coe,23.0,False,False,1,3,1,Slovakia,Home,0,0,0
 1965-09-19,Slovakia,Romania,Slovakia,František Knebort,66.0,False,False,1,3,1,Slovakia,Home,0,0,0
 1965-09-19,Slovakia,Romania,Slovakia,Karol Jokl,90.0,False,False,1,3,1,Slovakia,Home,0,0,0
-1965-09-19,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Milan Galić,3.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
-1965-09-19,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Milan Galić,11.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
-1965-09-19,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Dragan Džajić,37.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
-1965-09-19,Luxembourg,Serbia and Montenegro,Luxembourg,Louis Pilot,39.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
-1965-09-19,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Džemaludin Mušović,42.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
-1965-09-19,Luxembourg,Serbia and Montenegro,Luxembourg,Louis Pilot,50.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
-1965-09-19,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Dragan Džajić,58.0,False,False,1,2,5,Serbia and Montenegro,Away,0,0,0
+1965-09-19,Luxembourg,Serbia,Serbia,Milan Galić,3.0,False,False,1,2,5,Serbia,Away,0,0,0
+1965-09-19,Luxembourg,Serbia,Serbia,Milan Galić,11.0,False,False,1,2,5,Serbia,Away,0,0,0
+1965-09-19,Luxembourg,Serbia,Serbia,Dragan Džajić,37.0,False,False,1,2,5,Serbia,Away,0,0,0
+1965-09-19,Luxembourg,Serbia,Luxembourg,Louis Pilot,39.0,False,False,1,2,5,Serbia,Away,0,0,0
+1965-09-19,Luxembourg,Serbia,Serbia,Džemaludin Mušović,42.0,False,False,1,2,5,Serbia,Away,0,0,0
+1965-09-19,Luxembourg,Serbia,Luxembourg,Louis Pilot,50.0,False,False,1,2,5,Serbia,Away,0,0,0
+1965-09-19,Luxembourg,Serbia,Serbia,Dragan Džajić,58.0,False,False,1,2,5,Serbia,Away,0,0,0
 1965-09-26,Bulgaria,Belgium,Bulgaria,Nikola Kotkov,30.0,False,False,1,3,0,Bulgaria,Home,0,0,0
 1965-09-26,Bulgaria,Belgium,Bulgaria,Georgi Asparuhov,34.0,False,False,1,3,0,Bulgaria,Home,0,0,0
 1965-09-26,Bulgaria,Belgium,Bulgaria,Nikola Kotkov,60.0,False,False,1,3,0,Bulgaria,Home,0,0,0
@@ -4094,7 +4094,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1965-10-03,Greece,Russia,Greece,Mimis Papaioannou,27.0,False,False,1,1,4,Russia,Away,0,0,0
 1965-10-03,Greece,Russia,Russia,Anatoli Banişevski,59.0,False,False,1,1,4,Russia,Away,0,0,0
 1965-10-03,Greece,Russia,Russia,Anatoli Banişevski,82.0,False,False,1,1,4,Russia,Away,0,0,0
-1965-10-09,France,Serbia and Montenegro,France,Philippe Gondet,77.0,False,False,1,1,0,France,Home,0,0,0
+1965-10-09,France,Serbia,France,Philippe Gondet,77.0,False,False,1,1,0,France,Home,0,0,0
 1965-10-09,Hungary,Germany,Germany,Peter Ducke,31.0,False,False,1,3,2,Hungary,Home,0,0,0
 1965-10-09,Hungary,Germany,Hungary,Gyula Rákosi,41.0,False,False,1,3,2,Hungary,Home,0,0,0
 1965-10-09,Hungary,Germany,Hungary,Dezső Novák,53.0,False,False,1,3,2,Hungary,Home,0,0,0
@@ -4159,8 +4159,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1965-11-07,Cyprus,Sweden,Sweden,Ove Kindvall,37.0,False,False,1,0,5,Sweden,Away,0,0,0
 1965-11-07,Cyprus,Sweden,Sweden,Bo Larsson,40.0,False,False,1,0,5,Sweden,Away,0,0,0
 1965-11-07,Cyprus,Sweden,Sweden,Bo Larsson,87.0,False,False,1,0,5,Sweden,Away,0,0,0
-1965-11-07,Serbia and Montenegro,Norway,Norway,Ole Stavrum,8.0,False,False,1,1,1,Tie,Tie,0,0,0
-1965-11-07,Serbia and Montenegro,Norway,Serbia and Montenegro,Velibor Vasović,23.0,False,False,1,1,1,Tie,Tie,0,0,0
+1965-11-07,Serbia,Norway,Norway,Ole Stavrum,8.0,False,False,1,1,1,Tie,Tie,0,0,0
+1965-11-07,Serbia,Norway,Serbia,Velibor Vasović,23.0,False,False,1,1,1,Tie,Tie,0,0,0
 1965-11-09,Scotland,Italy,Scotland,John Greig,88.0,False,False,1,1,0,Scotland,Home,0,0,0
 1965-11-10,Israel,Belgium,Belgium,Paul Van Himst,24.0,False,False,1,0,5,Belgium,Away,0,0,0
 1965-11-10,Israel,Belgium,Belgium,Johnny Thio,31.0,False,False,1,0,5,Belgium,Away,0,0,0
@@ -4501,14 +4501,14 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1967-04-23,Romania,Cyprus,Romania,Emil Dumitriu,52.0,False,False,1,7,0,Romania,Home,0,0,0
 1967-04-23,Romania,Cyprus,Romania,Emil Dumitriu,77.0,False,False,1,7,0,Romania,Home,0,0,0
 1967-04-23,Romania,Cyprus,Romania,Ion Ionescu,86.0,False,False,1,7,0,Romania,Home,0,0,0
-1967-05-03,Serbia and Montenegro,Germany,Serbia and Montenegro,Josip Skoblar,67.0,False,False,1,1,0,Serbia and Montenegro,Home,0,0,0
+1967-05-03,Serbia,Germany,Serbia,Josip Skoblar,67.0,False,False,1,1,0,Serbia,Home,0,0,0
 1967-05-10,Finland,Greece,Finland,Juhani Peltonen,18.0,False,False,1,1,1,Tie,Tie,0,0,0
 1967-05-10,Finland,Greece,Greece,Stathis Chaitas,39.0,False,False,1,1,1,Tie,Tie,0,0,0
 1967-05-10,Hungary,Netherlands,Hungary,Kálmán Mészöly,8.0,False,True,1,2,1,Hungary,Home,1,1,0
 1967-05-10,Hungary,Netherlands,Hungary,János Farkas,30.0,False,False,1,2,1,Hungary,Home,0,1,0
 1967-05-10,Hungary,Netherlands,Netherlands,Wim Suurbier,63.0,False,False,1,2,1,Hungary,Home,0,1,0
-1967-05-14,Albania,Serbia and Montenegro,Serbia and Montenegro,Slaven Zambata,22.0,False,False,1,0,2,Serbia and Montenegro,Away,0,0,0
-1967-05-14,Albania,Serbia and Montenegro,Serbia and Montenegro,Slaven Zambata,56.0,False,False,1,0,2,Serbia and Montenegro,Away,0,0,0
+1967-05-14,Albania,Serbia,Serbia,Slaven Zambata,22.0,False,False,1,0,2,Serbia,Away,0,0,0
+1967-05-14,Albania,Serbia,Serbia,Slaven Zambata,56.0,False,False,1,0,2,Serbia,Away,0,0,0
 1967-05-21,Poland,Belgium,Poland,Włodzimierz Lubański,28.0,False,False,1,3,1,Poland,Home,0,0,0
 1967-05-21,Poland,Belgium,Poland,Włodzimierz Lubański,41.0,False,False,1,3,1,Poland,Home,0,0,0
 1967-05-21,Poland,Belgium,Belgium,Wilfried Puis,52.0,False,False,1,3,1,Poland,Home,0,0,0
@@ -4588,10 +4588,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1967-10-04,Greece,Austria,Austria,Leopold Grausam,62.0,False,False,1,4,1,Greece,Home,0,1,0
 1967-10-04,Greece,Austria,Greece,Giorgos Sideris,63.0,False,False,1,4,1,Greece,Home,0,1,0
 1967-10-04,Greece,Austria,Greece,Mimis Papaioannou,75.0,False,False,1,4,1,Greece,Home,0,1,0
-1967-10-07,Germany,Serbia and Montenegro,Germany,Hannes Löhr,10.0,False,False,1,3,1,Germany,Home,0,0,0
-1967-10-07,Germany,Serbia and Montenegro,Serbia and Montenegro,Slaven Zambata,46.0,False,False,1,3,1,Germany,Home,0,0,0
-1967-10-07,Germany,Serbia and Montenegro,Germany,Gerd Müller,71.0,False,False,1,3,1,Germany,Home,0,0,0
-1967-10-07,Germany,Serbia and Montenegro,Germany,Uwe Seeler,86.0,False,False,1,3,1,Germany,Home,0,0,0
+1967-10-07,Germany,Serbia,Germany,Hannes Löhr,10.0,False,False,1,3,1,Germany,Home,0,0,0
+1967-10-07,Germany,Serbia,Serbia,Slaven Zambata,46.0,False,False,1,3,1,Germany,Home,0,0,0
+1967-10-07,Germany,Serbia,Germany,Gerd Müller,71.0,False,False,1,3,1,Germany,Home,0,0,0
+1967-10-07,Germany,Serbia,Germany,Uwe Seeler,86.0,False,False,1,3,1,Germany,Home,0,0,0
 1967-10-08,Belgium,Poland,Belgium,Johan Devrindt,15.0,False,False,1,2,4,Poland,Away,0,0,0
 1967-10-08,Belgium,Poland,Poland,Janusz Żmijewski,26.0,False,False,1,2,4,Poland,Away,0,0,0
 1967-10-08,Belgium,Poland,Belgium,Johan Devrindt,35.0,False,False,1,2,4,Poland,Away,0,0,0
@@ -4640,10 +4640,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1967-11-12,Portugal,Norway,Portugal,José Augusto Torres,29.0,False,False,1,2,1,Portugal,Home,0,0,0
 1967-11-12,Portugal,Norway,Norway,Olav Nilsen,40.0,False,False,1,2,1,Portugal,Home,0,0,0
 1967-11-12,Portugal,Norway,Portugal,Jaime Graça,65.0,False,False,1,2,1,Portugal,Home,0,0,0
-1967-11-12,Serbia and Montenegro,Albania,Serbia and Montenegro,Edin Sprečo,44.0,False,False,1,4,0,Serbia and Montenegro,Home,0,0,0
-1967-11-12,Serbia and Montenegro,Albania,Serbia and Montenegro,Ivica Osim,48.0,False,False,1,4,0,Serbia and Montenegro,Home,0,0,0
-1967-11-12,Serbia and Montenegro,Albania,Serbia and Montenegro,Vojin Lazarević,56.0,False,False,1,4,0,Serbia and Montenegro,Home,0,0,0
-1967-11-12,Serbia and Montenegro,Albania,Serbia and Montenegro,Ivica Osim,82.0,False,False,1,4,0,Serbia and Montenegro,Home,0,0,0
+1967-11-12,Serbia,Albania,Serbia,Edin Sprečo,44.0,False,False,1,4,0,Serbia,Home,0,0,0
+1967-11-12,Serbia,Albania,Serbia,Ivica Osim,48.0,False,False,1,4,0,Serbia,Home,0,0,0
+1967-11-12,Serbia,Albania,Serbia,Vojin Lazarević,56.0,False,False,1,4,0,Serbia,Home,0,0,0
+1967-11-12,Serbia,Albania,Serbia,Ivica Osim,82.0,False,False,1,4,0,Serbia,Home,0,0,0
 1967-11-18,Switzerland,Italy,Switzerland,René-Pierre Quentin,34.0,False,False,1,2,2,Tie,Tie,0,0,1
 1967-11-18,Switzerland,Italy,Italy,Gigi Riva,66.0,False,False,1,2,2,Tie,Tie,0,0,1
 1967-11-18,Switzerland,Italy,Switzerland,Fritz Künzli,68.0,False,False,1,2,2,Tie,Tie,0,0,1
@@ -4735,16 +4735,16 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1968-04-06,Bulgaria,Italy,Bulgaria,Dinko Dermendzhiev,66.0,False,False,1,3,2,Bulgaria,Home,0,1,0
 1968-04-06,Bulgaria,Italy,Bulgaria,Petar Zhekov,73.0,False,False,1,3,2,Bulgaria,Home,0,1,0
 1968-04-06,Bulgaria,Italy,Italy,Pierino Prati,83.0,False,False,1,3,2,Bulgaria,Home,0,1,0
-1968-04-06,France,Serbia and Montenegro,Serbia and Montenegro,Vahidin Musemić,66.0,False,False,1,1,1,Tie,Tie,0,0,0
-1968-04-06,France,Serbia and Montenegro,France,Fleury Di Nallo,78.0,False,False,1,1,1,Tie,Tie,0,0,0
+1968-04-06,France,Serbia,Serbia,Vahidin Musemić,66.0,False,False,1,1,1,Tie,Tie,0,0,0
+1968-04-06,France,Serbia,France,Fleury Di Nallo,78.0,False,False,1,1,1,Tie,Tie,0,0,0
 1968-04-20,Italy,Bulgaria,Italy,Pierino Prati,14.0,False,False,1,2,0,Italy,Home,0,0,0
 1968-04-20,Italy,Bulgaria,Italy,Angelo Domenghini,55.0,False,False,1,2,0,Italy,Home,0,0,0
-1968-04-24,Serbia and Montenegro,France,Serbia and Montenegro,Ilija Petković,3.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1968-04-24,Serbia and Montenegro,France,Serbia and Montenegro,Vahidin Musemić,13.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1968-04-24,Serbia and Montenegro,France,Serbia and Montenegro,Dragan Džajić,14.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1968-04-24,Serbia and Montenegro,France,Serbia and Montenegro,Ilija Petković,32.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1968-04-24,Serbia and Montenegro,France,France,Fleury Di Nallo,33.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
-1968-04-24,Serbia and Montenegro,France,Serbia and Montenegro,Vahidin Musemić,79.0,False,False,1,5,1,Serbia and Montenegro,Home,0,0,0
+1968-04-24,Serbia,France,Serbia,Ilija Petković,3.0,False,False,1,5,1,Serbia,Home,0,0,0
+1968-04-24,Serbia,France,Serbia,Vahidin Musemić,13.0,False,False,1,5,1,Serbia,Home,0,0,0
+1968-04-24,Serbia,France,Serbia,Dragan Džajić,14.0,False,False,1,5,1,Serbia,Home,0,0,0
+1968-04-24,Serbia,France,Serbia,Ilija Petković,32.0,False,False,1,5,1,Serbia,Home,0,0,0
+1968-04-24,Serbia,France,France,Fleury Di Nallo,33.0,False,False,1,5,1,Serbia,Home,0,0,0
+1968-04-24,Serbia,France,Serbia,Vahidin Musemić,79.0,False,False,1,5,1,Serbia,Home,0,0,0
 1968-05-04,Hungary,Russia,Hungary,János Farkas,21.0,False,False,1,2,0,Hungary,Home,0,0,0
 1968-05-04,Hungary,Russia,Hungary,János Göröcs,85.0,False,False,1,2,0,Hungary,Home,0,0,0
 1968-05-08,Spain,England,Spain,Amancio Amaro,47.0,False,False,1,1,2,England,Away,0,0,0
@@ -4793,13 +4793,13 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1968-05-19,Iran,Israel,Israel,Giora Spiegel,52.0,False,False,1,2,1,Iran,Home,0,0,0
 1968-05-19,Iran,Israel,Iran,Homayoun Behzadi,75.0,False,False,1,2,1,Iran,Home,0,0,0
 1968-05-19,Iran,Israel,Iran,Parviz Ghelichkhani,87.0,False,False,1,2,1,Iran,Home,0,0,0
-1968-06-05,England,Serbia and Montenegro,Serbia and Montenegro,Dragan Džajić,86.0,False,False,1,0,1,Serbia and Montenegro,Away,0,0,0
+1968-06-05,England,Serbia,Serbia,Dragan Džajić,86.0,False,False,1,0,1,Serbia,Away,0,0,0
 1968-06-08,England,Russia,England,Bobby Charlton,39.0,False,False,1,2,0,England,Home,0,0,0
 1968-06-08,England,Russia,England,Geoff Hurst,63.0,False,False,1,2,0,England,Home,0,0,0
-1968-06-08,Italy,Serbia and Montenegro,Serbia and Montenegro,Dragan Džajić,39.0,False,False,1,1,1,Tie,Tie,0,0,0
-1968-06-08,Italy,Serbia and Montenegro,Italy,Angelo Domenghini,80.0,False,False,1,1,1,Tie,Tie,0,0,0
-1968-06-10,Italy,Serbia and Montenegro,Italy,Gigi Riva,12.0,False,False,1,2,0,Italy,Home,0,0,0
-1968-06-10,Italy,Serbia and Montenegro,Italy,Pietro Anastasi,31.0,False,False,1,2,0,Italy,Home,0,0,0
+1968-06-08,Italy,Serbia,Serbia,Dragan Džajić,39.0,False,False,1,1,1,Tie,Tie,0,0,0
+1968-06-08,Italy,Serbia,Italy,Angelo Domenghini,80.0,False,False,1,1,1,Tie,Tie,0,0,0
+1968-06-10,Italy,Serbia,Italy,Gigi Riva,12.0,False,False,1,2,0,Italy,Home,0,0,0
+1968-06-10,Italy,Serbia,Italy,Pietro Anastasi,31.0,False,False,1,2,0,Italy,Home,0,0,0
 1968-06-19,Finland,Belgium,Finland,Turo Flink,15.0,False,False,1,1,2,Belgium,Away,0,0,0
 1968-06-19,Finland,Belgium,Belgium,Johan Devrindt,85.0,False,False,1,1,2,Belgium,Away,0,0,0
 1968-06-19,Finland,Belgium,Belgium,Odilon Polleunis,89.0,False,False,1,1,2,Belgium,Away,0,0,0
@@ -4808,16 +4808,16 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1968-09-25,Denmark,Slovakia,Slovakia,Karol Jokl,11.0,False,False,1,0,3,Slovakia,Away,0,0,0
 1968-09-25,Denmark,Slovakia,Slovakia,Ladislav Kuna,22.0,False,False,1,0,3,Slovakia,Away,0,0,0
 1968-09-25,Denmark,Slovakia,Slovakia,Vladimír Hagara,80.0,False,False,1,0,3,Slovakia,Away,0,0,0
-1968-09-25,Serbia and Montenegro,Finland,Serbia and Montenegro,Slaven Zambata,9.0,False,False,1,9,1,Serbia and Montenegro,Home,0,0,0
-1968-09-25,Serbia and Montenegro,Finland,Serbia and Montenegro,Vahidin Musemić,39.0,False,False,1,9,1,Serbia and Montenegro,Home,0,0,0
-1968-09-25,Serbia and Montenegro,Finland,Serbia and Montenegro,Vahidin Musemić,57.0,False,False,1,9,1,Serbia and Montenegro,Home,0,0,0
-1968-09-25,Serbia and Montenegro,Finland,Serbia and Montenegro,Dragan Džajić,58.0,False,False,1,9,1,Serbia and Montenegro,Home,0,0,0
-1968-09-25,Serbia and Montenegro,Finland,Serbia and Montenegro,Ivica Osim,62.0,False,False,1,9,1,Serbia and Montenegro,Home,0,0,0
-1968-09-25,Serbia and Montenegro,Finland,Serbia and Montenegro,Dragan Džajić,65.0,False,False,1,9,1,Serbia and Montenegro,Home,0,0,0
-1968-09-25,Serbia and Montenegro,Finland,Serbia and Montenegro,Slaven Zambata,73.0,False,False,1,9,1,Serbia and Montenegro,Home,0,0,0
-1968-09-25,Serbia and Montenegro,Finland,Serbia and Montenegro,Slaven Zambata,87.0,False,False,1,9,1,Serbia and Montenegro,Home,0,0,0
-1968-09-25,Serbia and Montenegro,Finland,Finland,Arto Tolsa,88.0,False,False,1,9,1,Serbia and Montenegro,Home,0,0,0
-1968-09-25,Serbia and Montenegro,Finland,Serbia and Montenegro,Vahidin Musemić,90.0,False,False,1,9,1,Serbia and Montenegro,Home,0,0,0
+1968-09-25,Serbia,Finland,Serbia,Slaven Zambata,9.0,False,False,1,9,1,Serbia,Home,0,0,0
+1968-09-25,Serbia,Finland,Serbia,Vahidin Musemić,39.0,False,False,1,9,1,Serbia,Home,0,0,0
+1968-09-25,Serbia,Finland,Serbia,Vahidin Musemić,57.0,False,False,1,9,1,Serbia,Home,0,0,0
+1968-09-25,Serbia,Finland,Serbia,Dragan Džajić,58.0,False,False,1,9,1,Serbia,Home,0,0,0
+1968-09-25,Serbia,Finland,Serbia,Ivica Osim,62.0,False,False,1,9,1,Serbia,Home,0,0,0
+1968-09-25,Serbia,Finland,Serbia,Dragan Džajić,65.0,False,False,1,9,1,Serbia,Home,0,0,0
+1968-09-25,Serbia,Finland,Serbia,Slaven Zambata,73.0,False,False,1,9,1,Serbia,Home,0,0,0
+1968-09-25,Serbia,Finland,Serbia,Slaven Zambata,87.0,False,False,1,9,1,Serbia,Home,0,0,0
+1968-09-25,Serbia,Finland,Finland,Arto Tolsa,88.0,False,False,1,9,1,Serbia,Home,0,0,0
+1968-09-25,Serbia,Finland,Serbia,Vahidin Musemić,90.0,False,False,1,9,1,Serbia,Home,0,0,0
 1968-10-06,Canada,Bermuda,Canada,Tibor Vigh,3.0,False,False,1,4,0,Canada,Home,0,0,0
 1968-10-06,Canada,Bermuda,Canada,Sergio Zanatta,10.0,False,False,1,4,0,Canada,Home,0,0,0
 1968-10-06,Canada,Bermuda,Canada,Nick Papadakis,25.0,False,False,1,4,0,Canada,Home,0,0,0
@@ -4843,9 +4843,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1968-10-13,Canada,United States,Canada,Norman Patterson,79.0,False,False,1,4,2,Canada,Home,0,0,0
 1968-10-13,Canada,United States,Canada,Tibor Vigh,89.0,False,False,1,4,2,Canada,Home,0,0,0
 1968-10-13,Canada,United States,United States,Siegfried Stritzl,89.0,False,False,1,4,2,Canada,Home,0,0,0
-1968-10-16,Belgium,Serbia and Montenegro,Belgium,Johan Devrindt,35.0,False,False,1,3,0,Belgium,Home,0,0,0
-1968-10-16,Belgium,Serbia and Montenegro,Belgium,Johan Devrindt,73.0,False,False,1,3,0,Belgium,Home,0,0,0
-1968-10-16,Belgium,Serbia and Montenegro,Belgium,Odilon Polleunis,84.0,False,False,1,3,0,Belgium,Home,0,0,0
+1968-10-16,Belgium,Serbia,Belgium,Johan Devrindt,35.0,False,False,1,3,0,Belgium,Home,0,0,0
+1968-10-16,Belgium,Serbia,Belgium,Johan Devrindt,73.0,False,False,1,3,0,Belgium,Home,0,0,0
+1968-10-16,Belgium,Serbia,Belgium,Odilon Polleunis,84.0,False,False,1,3,0,Belgium,Home,0,0,0
 1968-10-20,Slovakia,Denmark,Slovakia,Karol Jokl,56.0,False,False,1,1,0,Slovakia,Home,0,0,0
 1968-10-23,Northern Ireland,Turkey,Turkey,Ogün Altıparmak,9.0,False,False,1,4,1,Northern Ireland,Home,0,0,0
 1968-10-23,Northern Ireland,Turkey,Northern Ireland,George Best,31.0,False,False,1,4,1,Northern Ireland,Home,0,0,0
@@ -5024,9 +5024,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1969-04-23,Bulgaria,Luxembourg,Bulgaria,Georgi Asparuhov,31.0,False,False,1,2,1,Bulgaria,Home,0,1,1
 1969-04-23,Bulgaria,Luxembourg,Bulgaria,Georgi Asparuhov,49.0,False,True,1,2,1,Bulgaria,Home,1,1,1
 1969-04-23,Bulgaria,Luxembourg,Luxembourg,Johny Léonard,50.0,False,True,1,2,1,Bulgaria,Home,1,1,1
-1969-04-30,Spain,Serbia and Montenegro,Spain,Miguel Ángel Bustillo,20.0,False,False,1,2,1,Spain,Home,0,0,0
-1969-04-30,Spain,Serbia and Montenegro,Spain,Amancio Amaro,27.0,False,False,1,2,1,Spain,Home,0,0,0
-1969-04-30,Spain,Serbia and Montenegro,Serbia and Montenegro,Miroslav Pavlović,67.0,False,False,1,2,1,Spain,Home,0,0,0
+1969-04-30,Spain,Serbia,Spain,Miguel Ángel Bustillo,20.0,False,False,1,2,1,Spain,Home,0,0,0
+1969-04-30,Spain,Serbia,Spain,Amancio Amaro,27.0,False,False,1,2,1,Spain,Home,0,0,0
+1969-04-30,Spain,Serbia,Serbia,Miroslav Pavlović,67.0,False,False,1,2,1,Spain,Home,0,0,0
 1969-05-04,Ethiopia,Sudan,Sudan,Hasabu El Sagheir,9.0,False,False,1,1,1,Tie,Tie,0,0,0
 1969-05-04,Ethiopia,Sudan,Ethiopia,Mengistu Worku,79.0,False,False,1,1,1,Tie,Tie,0,0,0
 1969-05-04,Portugal,Greece,Greece,Kostas Eleftherakis,68.0,False,False,1,2,2,Tie,Tie,0,0,0
@@ -5073,12 +5073,12 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1969-05-25,Hungary,Slovakia,Hungary,Flórián Albert,88.0,False,False,1,2,0,Hungary,Home,0,0,0
 1969-05-27,Denmark,Republic of Ireland,Denmark,Ole Sørensen,34.0,False,False,1,2,0,Denmark,Home,0,0,0
 1969-05-27,Denmark,Republic of Ireland,Denmark,Ole Sørensen,66.0,False,False,1,2,0,Denmark,Home,0,0,0
-1969-06-04,Finland,Serbia and Montenegro,Serbia and Montenegro,Dragan Džajić,14.0,False,False,1,1,5,Serbia and Montenegro,Away,0,0,0
-1969-06-04,Finland,Serbia and Montenegro,Finland,Arto Tolsa,20.0,False,False,1,1,5,Serbia and Montenegro,Away,0,0,0
-1969-06-04,Finland,Serbia and Montenegro,Serbia and Montenegro,Josip Bukal,22.0,False,False,1,1,5,Serbia and Montenegro,Away,0,0,0
-1969-06-04,Finland,Serbia and Montenegro,Serbia and Montenegro,Edin Sprečo,40.0,False,False,1,1,5,Serbia and Montenegro,Away,0,0,0
-1969-06-04,Finland,Serbia and Montenegro,Serbia and Montenegro,Denijal Pirić,60.0,False,False,1,1,5,Serbia and Montenegro,Away,0,0,0
-1969-06-04,Finland,Serbia and Montenegro,Serbia and Montenegro,Josip Bukal,71.0,False,False,1,1,5,Serbia and Montenegro,Away,0,0,0
+1969-06-04,Finland,Serbia,Serbia,Dragan Džajić,14.0,False,False,1,1,5,Serbia,Away,0,0,0
+1969-06-04,Finland,Serbia,Finland,Arto Tolsa,20.0,False,False,1,1,5,Serbia,Away,0,0,0
+1969-06-04,Finland,Serbia,Serbia,Josip Bukal,22.0,False,False,1,1,5,Serbia,Away,0,0,0
+1969-06-04,Finland,Serbia,Serbia,Edin Sprečo,40.0,False,False,1,1,5,Serbia,Away,0,0,0
+1969-06-04,Finland,Serbia,Serbia,Denijal Pirić,60.0,False,False,1,1,5,Serbia,Away,0,0,0
+1969-06-04,Finland,Serbia,Serbia,Josip Bukal,71.0,False,False,1,1,5,Serbia,Away,0,0,0
 1969-06-08,Honduras,El Salvador,Honduras,Leonard Wells,89.0,False,False,1,1,0,Honduras,Home,0,0,0
 1969-06-08,Republic of Ireland,Hungary,Hungary,Antal Dunai,23.0,False,False,1,1,2,Hungary,Away,0,0,0
 1969-06-08,Republic of Ireland,Hungary,Republic of Ireland,Don Givens,59.0,False,False,1,1,2,Hungary,Away,0,0,0
@@ -5261,10 +5261,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1969-10-16,Australia,Japan,Australia,Tom McColl,39.0,False,False,1,1,1,Tie,Tie,0,0,0
 1969-10-18,South Korea,Japan,South Korea,Jeong Gang-Ji,17.0,False,False,1,2,0,South Korea,Home,0,0,0
 1969-10-18,South Korea,Japan,South Korea,Jeong Gang-Ji,40.0,False,False,1,2,0,South Korea,Home,0,0,0
-1969-10-19,Serbia and Montenegro,Belgium,Serbia and Montenegro,Rudolf Belin,2.0,False,False,1,4,0,Serbia and Montenegro,Home,0,0,0
-1969-10-19,Serbia and Montenegro,Belgium,Serbia and Montenegro,Metodije Spasovski,31.0,False,False,1,4,0,Serbia and Montenegro,Home,0,0,0
-1969-10-19,Serbia and Montenegro,Belgium,Serbia and Montenegro,Metodije Spasovski,33.0,False,False,1,4,0,Serbia and Montenegro,Home,0,0,0
-1969-10-19,Serbia and Montenegro,Belgium,Serbia and Montenegro,Dragan Džajić,51.0,False,False,1,4,0,Serbia and Montenegro,Home,0,0,0
+1969-10-19,Serbia,Belgium,Serbia,Rudolf Belin,2.0,False,False,1,4,0,Serbia,Home,0,0,0
+1969-10-19,Serbia,Belgium,Serbia,Metodije Spasovski,31.0,False,False,1,4,0,Serbia,Home,0,0,0
+1969-10-19,Serbia,Belgium,Serbia,Metodije Spasovski,33.0,False,False,1,4,0,Serbia,Home,0,0,0
+1969-10-19,Serbia,Belgium,Serbia,Dragan Džajić,51.0,False,False,1,4,0,Serbia,Home,0,0,0
 1969-10-20,South Korea,Australia,South Korea,Park Soo-Il,29.0,False,False,1,1,1,Tie,Tie,0,0,0
 1969-10-20,South Korea,Australia,Australia,Ray Baartz,58.0,False,False,1,1,1,Tie,Tie,0,0,0
 1969-10-22,Germany,Scotland,Scotland,Jimmy Johnstone,3.0,False,False,1,3,2,Germany,Home,0,0,0
@@ -5488,14 +5488,14 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1970-10-07,Norway,Hungary,Hungary,Geir Karlsen,69.0,True,False,1,1,3,Hungary,Away,0,0,0
 1970-10-11,Malta,Greece,Malta,Willie Vassallo,66.0,False,False,1,1,1,Tie,Tie,0,0,0
 1970-10-11,Malta,Greece,Greece,Michalis Kritikopoulos,80.0,False,False,1,1,1,Tie,Tie,0,0,0
-1970-10-11,Netherlands,Serbia and Montenegro,Serbia and Montenegro,Dragan Džajić,22.0,False,False,1,1,1,Tie,Tie,0,1,0
-1970-10-11,Netherlands,Serbia and Montenegro,Netherlands,Rinus Israël,50.0,False,True,1,1,1,Tie,Tie,1,1,0
+1970-10-11,Netherlands,Serbia,Serbia,Dragan Džajić,22.0,False,False,1,1,1,Tie,Tie,0,1,0
+1970-10-11,Netherlands,Serbia,Netherlands,Rinus Israël,50.0,False,True,1,1,1,Tie,Tie,1,1,0
 1970-10-11,Romania,Finland,Romania,Florea Dumitrache,28.0,False,False,1,3,0,Romania,Home,0,0,0
 1970-10-11,Romania,Finland,Romania,Florea Dumitrache,42.0,False,False,1,3,0,Romania,Home,0,0,0
 1970-10-11,Romania,Finland,Romania,Radu Nunweiller,77.0,False,False,1,3,0,Romania,Home,0,0,0
 1970-10-14,Denmark,Portugal,Portugal,Jacinto João,40.0,False,False,1,0,1,Portugal,Away,0,0,0
-1970-10-14,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Josip Bukal,44.0,False,False,1,0,2,Serbia and Montenegro,Away,0,0,0
-1970-10-14,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Josip Bukal,62.0,False,False,1,0,2,Serbia and Montenegro,Away,0,0,0
+1970-10-14,Luxembourg,Serbia,Serbia,Josip Bukal,44.0,False,False,1,0,2,Serbia,Away,0,0,0
+1970-10-14,Luxembourg,Serbia,Serbia,Josip Bukal,62.0,False,False,1,0,2,Serbia,Away,0,0,0
 1970-10-14,Poland,Albania,Poland,Robert Gadocha,19.0,False,False,1,3,0,Poland,Home,0,0,0
 1970-10-14,Poland,Albania,Poland,Włodzimierz Lubański,83.0,False,False,1,3,0,Poland,Home,0,0,0
 1970-10-14,Poland,Albania,Poland,Zygfryd Szołtysik,90.0,False,False,1,3,0,Poland,Home,0,0,0
@@ -5556,8 +5556,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1971-02-24,Netherlands,Luxembourg,Netherlands,Johan Cruyff,69.0,False,False,1,6,0,Netherlands,Home,0,0,0
 1971-02-24,Netherlands,Luxembourg,Netherlands,Piet Keizer,80.0,False,False,1,6,0,Netherlands,Home,0,0,0
 1971-02-24,Netherlands,Luxembourg,Netherlands,Wim Suurbier,83.0,False,False,1,6,0,Netherlands,Home,0,0,0
-1971-04-04,Serbia and Montenegro,Netherlands,Serbia and Montenegro,Jurica Jerković,8.0,False,False,1,2,0,Serbia and Montenegro,Home,0,0,0
-1971-04-04,Serbia and Montenegro,Netherlands,Serbia and Montenegro,Dragan Džajić,84.0,False,False,1,2,0,Serbia and Montenegro,Home,0,0,0
+1971-04-04,Serbia,Netherlands,Serbia,Jurica Jerković,8.0,False,False,1,2,0,Serbia,Home,0,0,0
+1971-04-04,Serbia,Netherlands,Serbia,Dragan Džajić,84.0,False,False,1,2,0,Serbia,Home,0,0,0
 1971-04-21,England,Greece,England,Martin Chivers,23.0,False,False,1,3,0,England,Home,0,0,0
 1971-04-21,England,Greece,England,Geoff Hurst,68.0,False,False,1,3,0,England,Home,0,0,0
 1971-04-21,England,Greece,England,Francis Lee,87.0,False,False,1,3,0,England,Home,0,0,0
@@ -5587,9 +5587,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1971-04-25,Turkey,Germany,Germany,Horst Köppel,73.0,False,False,1,0,3,Germany,Away,0,0,0
 1971-05-09,Cyprus,Spain,Spain,Pirri,3.0,False,False,1,0,2,Spain,Away,0,0,0
 1971-05-09,Cyprus,Spain,Spain,José Luis Violeta,86.0,False,False,1,0,2,Spain,Away,0,0,0
-1971-05-09,Germany,Serbia and Montenegro,Serbia and Montenegro,Zoran Filipović,11.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1971-05-09,Germany,Serbia and Montenegro,Serbia and Montenegro,Dragan Džajić,19.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1971-05-09,Germany,Serbia and Montenegro,Germany,Wolfram Löwe,70.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
+1971-05-09,Germany,Serbia,Serbia,Zoran Filipović,11.0,False,False,1,1,2,Serbia,Away,0,0,0
+1971-05-09,Germany,Serbia,Serbia,Dragan Džajić,19.0,False,False,1,1,2,Serbia,Away,0,0,0
+1971-05-09,Germany,Serbia,Germany,Wolfram Löwe,70.0,False,False,1,1,2,Serbia,Away,0,0,0
 1971-05-10,Republic of Ireland,Italy,Italy,Roberto Boninsegna,15.0,False,False,1,1,2,Italy,Away,0,0,0
 1971-05-10,Republic of Ireland,Italy,Republic of Ireland,Jimmy Conway,23.0,False,False,1,1,2,Italy,Away,0,0,0
 1971-05-10,Republic of Ireland,Italy,Italy,Pierino Prati,59.0,False,False,1,1,2,Italy,Away,0,0,0
@@ -5843,9 +5843,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1972-05-13,Belgium,Italy,Belgium,Wilfried Van Moer,23.0,False,False,1,2,1,Belgium,Home,0,0,1
 1972-05-13,Belgium,Italy,Belgium,Paul Van Himst,71.0,False,False,1,2,1,Belgium,Home,0,0,1
 1972-05-13,Belgium,Italy,Italy,Gigi Riva,86.0,False,True,1,2,1,Belgium,Home,1,0,1
-1972-05-13,Russia,Serbia and Montenegro,Russia,Viktor Kolotov,53.0,False,False,1,3,0,Russia,Home,0,0,0
-1972-05-13,Russia,Serbia and Montenegro,Russia,Anatoliy Banishevskiy,74.0,False,False,1,3,0,Russia,Home,0,0,0
-1972-05-13,Russia,Serbia and Montenegro,Russia,Eduard Kozynkevych,90.0,False,False,1,3,0,Russia,Home,0,0,0
+1972-05-13,Russia,Serbia,Russia,Viktor Kolotov,53.0,False,False,1,3,0,Russia,Home,0,0,0
+1972-05-13,Russia,Serbia,Russia,Anatoliy Banishevskiy,74.0,False,False,1,3,0,Russia,Home,0,0,0
+1972-05-13,Russia,Serbia,Russia,Eduard Kozynkevych,90.0,False,False,1,3,0,Russia,Home,0,0,0
 1972-05-13,Thailand,Iran,Thailand,Prapon Tantariyanond,69.0,False,False,1,2,3,Iran,Away,0,0,0
 1972-05-13,Thailand,Iran,Thailand,Prapon Tantariyanond,70.0,False,False,1,2,3,Iran,Away,0,0,0
 1972-05-13,Thailand,Iran,Iran,Ali Jabbari,80.0,False,False,1,2,3,Iran,Away,0,0,0
@@ -5967,10 +5967,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1972-10-18,Republic of Ireland,Russia,Russia,Vladimir Fedotov,55.0,False,False,1,1,2,Russia,Away,0,0,0
 1972-10-18,Republic of Ireland,Russia,Russia,Viktor Kolotov,65.0,False,False,1,1,2,Russia,Away,0,0,0
 1972-10-18,Republic of Ireland,Russia,Republic of Ireland,Terry Conroy,83.0,False,False,1,1,2,Russia,Away,0,0,0
-1972-10-19,Spain,Serbia and Montenegro,Spain,Amancio Amaro,30.0,False,False,1,2,2,Tie,Tie,0,0,0
-1972-10-19,Spain,Serbia and Montenegro,Serbia and Montenegro,Dušan Bajević,52.0,False,False,1,2,2,Tie,Tie,0,0,0
-1972-10-19,Spain,Serbia and Montenegro,Serbia and Montenegro,Dušan Bajević,60.0,False,False,1,2,2,Tie,Tie,0,0,0
-1972-10-19,Spain,Serbia and Montenegro,Spain,Juan Manuel Asensi,89.0,False,False,1,2,2,Tie,Tie,0,0,0
+1972-10-19,Spain,Serbia,Spain,Amancio Amaro,30.0,False,False,1,2,2,Tie,Tie,0,0,0
+1972-10-19,Spain,Serbia,Serbia,Dušan Bajević,52.0,False,False,1,2,2,Tie,Tie,0,0,0
+1972-10-19,Spain,Serbia,Serbia,Dušan Bajević,60.0,False,False,1,2,2,Tie,Tie,0,0,0
+1972-10-19,Spain,Serbia,Spain,Juan Manuel Asensi,89.0,False,False,1,2,2,Tie,Tie,0,0,0
 1972-10-22,Luxembourg,Turkey,Luxembourg,Gilbert Dussier,14.0,False,False,1,2,0,Luxembourg,Home,0,0,0
 1972-10-22,Luxembourg,Turkey,Luxembourg,Nico Braun,16.0,False,False,1,2,0,Luxembourg,Home,0,0,0
 1972-10-29,Côte d'Ivoire,Sierra Leone,Côte d'Ivoire,Noël Kouamé,42.0,False,False,1,2,0,Côte d'Ivoire,Home,0,0,0
@@ -5992,7 +5992,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1972-11-15,Scotland,Denmark,Scotland,Kenny Dalglish,2.0,False,False,1,2,0,Scotland,Home,0,0,0
 1972-11-15,Scotland,Denmark,Scotland,Peter Lorimer,46.0,False,False,1,2,0,Scotland,Home,0,0,0
 1972-11-15,Wales,England,England,Colin Bell,35.0,False,False,1,0,1,England,Away,0,0,0
-1972-11-18,Serbia and Montenegro,Greece,Serbia and Montenegro,Jovan Aćimović,14.0,False,False,1,1,0,Serbia and Montenegro,Home,0,0,0
+1972-11-18,Serbia,Greece,Serbia,Jovan Aćimović,14.0,False,False,1,1,0,Serbia,Home,0,0,0
 1972-11-19,Cyprus,Bulgaria,Bulgaria,Atanas Mihaylov,2.0,False,False,1,0,4,Bulgaria,Away,0,0,0
 1972-11-19,Cyprus,Bulgaria,Bulgaria,Georgi Denev,15.0,False,False,1,0,4,Bulgaria,Away,0,0,0
 1972-11-19,Cyprus,Bulgaria,Bulgaria,Hristo Bonev,17.0,False,False,1,0,4,Bulgaria,Away,0,0,0
@@ -6397,13 +6397,13 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1973-12-09,DR Congo,Morocco,DR Congo,Kembo Uba Kembo,58.0,False,False,1,3,0,DR Congo,Home,0,0,0
 1973-12-09,DR Congo,Morocco,DR Congo,Kembo Uba Kembo,61.0,False,False,1,3,0,DR Congo,Home,0,0,0
 1973-12-09,DR Congo,Morocco,DR Congo,Mbungu Ekofa,79.0,False,False,1,3,0,DR Congo,Home,0,0,0
-1973-12-19,Greece,Serbia and Montenegro,Serbia and Montenegro,Dušan Bajević,12.0,False,False,1,2,4,Serbia and Montenegro,Away,0,0,0
-1973-12-19,Greece,Serbia and Montenegro,Serbia and Montenegro,Stanislav Karasi,15.0,False,False,1,2,4,Serbia and Montenegro,Away,0,0,0
-1973-12-19,Greece,Serbia and Montenegro,Greece,Kostas Eleftherakis,29.0,False,False,1,2,4,Serbia and Montenegro,Away,0,0,0
-1973-12-19,Greece,Serbia and Montenegro,Greece,Josip Katalinski,44.0,True,False,1,2,4,Serbia and Montenegro,Away,0,0,0
-1973-12-19,Greece,Serbia and Montenegro,Serbia and Montenegro,Ivica Šurjak,62.0,False,False,1,2,4,Serbia and Montenegro,Away,0,0,0
-1973-12-19,Greece,Serbia and Montenegro,Serbia and Montenegro,Stanislav Karasi,90.0,False,False,1,2,4,Serbia and Montenegro,Away,0,0,0
-1974-02-13,Serbia and Montenegro,Spain,Serbia and Montenegro,Josip Katalinski,13.0,False,False,1,1,0,Serbia and Montenegro,Home,0,0,0
+1973-12-19,Greece,Serbia,Serbia,Dušan Bajević,12.0,False,False,1,2,4,Serbia,Away,0,0,0
+1973-12-19,Greece,Serbia,Serbia,Stanislav Karasi,15.0,False,False,1,2,4,Serbia,Away,0,0,0
+1973-12-19,Greece,Serbia,Greece,Kostas Eleftherakis,29.0,False,False,1,2,4,Serbia,Away,0,0,0
+1973-12-19,Greece,Serbia,Greece,Josip Katalinski,44.0,True,False,1,2,4,Serbia,Away,0,0,0
+1973-12-19,Greece,Serbia,Serbia,Ivica Šurjak,62.0,False,False,1,2,4,Serbia,Away,0,0,0
+1973-12-19,Greece,Serbia,Serbia,Stanislav Karasi,90.0,False,False,1,2,4,Serbia,Away,0,0,0
+1974-02-13,Serbia,Spain,Serbia,Josip Katalinski,13.0,False,False,1,1,0,Serbia,Home,0,0,0
 1974-03-01,Egypt,Uganda,Egypt,Ali Abo Greisha,6.0,False,False,1,2,1,Egypt,Home,0,0,0
 1974-03-01,Egypt,Uganda,Uganda,Stanley Mubiru,28.0,False,False,1,2,1,Egypt,Home,0,0,0
 1974-03-01,Egypt,Uganda,Egypt,Ali Khalil,52.0,False,False,1,2,1,Egypt,Home,0,0,0
@@ -6479,15 +6479,15 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1974-06-18,Germany,Australia,Germany,Wolfgang Overath,12.0,False,False,1,3,0,Germany,Home,0,0,0
 1974-06-18,Germany,Australia,Germany,Bernhard Cullmann,34.0,False,False,1,3,0,Germany,Home,0,0,0
 1974-06-18,Germany,Australia,Germany,Gerd Müller,53.0,False,False,1,3,0,Germany,Home,0,0,0
-1974-06-18,Serbia and Montenegro,DR Congo,Serbia and Montenegro,Dušan Bajević,8.0,False,False,1,9,0,Serbia and Montenegro,Home,0,0,0
-1974-06-18,Serbia and Montenegro,DR Congo,Serbia and Montenegro,Dragan Džajić,14.0,False,False,1,9,0,Serbia and Montenegro,Home,0,0,0
-1974-06-18,Serbia and Montenegro,DR Congo,Serbia and Montenegro,Ivica Šurjak,18.0,False,False,1,9,0,Serbia and Montenegro,Home,0,0,0
-1974-06-18,Serbia and Montenegro,DR Congo,Serbia and Montenegro,Josip Katalinski,22.0,False,False,1,9,0,Serbia and Montenegro,Home,0,0,0
-1974-06-18,Serbia and Montenegro,DR Congo,Serbia and Montenegro,Dušan Bajević,30.0,False,False,1,9,0,Serbia and Montenegro,Home,0,0,0
-1974-06-18,Serbia and Montenegro,DR Congo,Serbia and Montenegro,Vladislav Bogićević,35.0,False,False,1,9,0,Serbia and Montenegro,Home,0,0,0
-1974-06-18,Serbia and Montenegro,DR Congo,Serbia and Montenegro,Branko Oblak,61.0,False,False,1,9,0,Serbia and Montenegro,Home,0,0,0
-1974-06-18,Serbia and Montenegro,DR Congo,Serbia and Montenegro,Ilija Petković,65.0,False,False,1,9,0,Serbia and Montenegro,Home,0,0,0
-1974-06-18,Serbia and Montenegro,DR Congo,Serbia and Montenegro,Dušan Bajević,81.0,False,False,1,9,0,Serbia and Montenegro,Home,0,0,0
+1974-06-18,Serbia,DR Congo,Serbia,Dušan Bajević,8.0,False,False,1,9,0,Serbia,Home,0,0,0
+1974-06-18,Serbia,DR Congo,Serbia,Dragan Džajić,14.0,False,False,1,9,0,Serbia,Home,0,0,0
+1974-06-18,Serbia,DR Congo,Serbia,Ivica Šurjak,18.0,False,False,1,9,0,Serbia,Home,0,0,0
+1974-06-18,Serbia,DR Congo,Serbia,Josip Katalinski,22.0,False,False,1,9,0,Serbia,Home,0,0,0
+1974-06-18,Serbia,DR Congo,Serbia,Dušan Bajević,30.0,False,False,1,9,0,Serbia,Home,0,0,0
+1974-06-18,Serbia,DR Congo,Serbia,Vladislav Bogićević,35.0,False,False,1,9,0,Serbia,Home,0,0,0
+1974-06-18,Serbia,DR Congo,Serbia,Branko Oblak,61.0,False,False,1,9,0,Serbia,Home,0,0,0
+1974-06-18,Serbia,DR Congo,Serbia,Ilija Petković,65.0,False,False,1,9,0,Serbia,Home,0,0,0
+1974-06-18,Serbia,DR Congo,Serbia,Dušan Bajević,81.0,False,False,1,9,0,Serbia,Home,0,0,0
 1974-06-19,Argentina,Italy,Argentina,René Houseman,20.0,False,False,1,1,1,Tie,Tie,0,0,0
 1974-06-19,Argentina,Italy,Italy,Roberto Perfumo,35.0,True,False,1,1,1,Tie,Tie,0,0,0
 1974-06-19,Bulgaria,Uruguay,Bulgaria,Hristo Bonev,75.0,False,False,1,1,1,Tie,Tie,0,0,0
@@ -6503,8 +6503,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1974-06-22,DR Congo,Brazil,Brazil,Rivellino,66.0,False,False,1,0,3,Brazil,Away,0,0,0
 1974-06-22,DR Congo,Brazil,Brazil,Valdomiro Vaz Franco,79.0,False,False,1,0,3,Brazil,Away,0,0,0
 1974-06-22,Germany,Germany,Germany,Jürgen Sparwasser,77.0,False,False,1,1,1,Tie,Tie,0,0,0
-1974-06-22,Scotland,Serbia and Montenegro,Serbia and Montenegro,Stanislav Karasi,81.0,False,False,1,1,1,Tie,Tie,0,0,0
-1974-06-22,Scotland,Serbia and Montenegro,Scotland,Joe Jordan,88.0,False,False,1,1,1,Tie,Tie,0,0,0
+1974-06-22,Scotland,Serbia,Serbia,Stanislav Karasi,81.0,False,False,1,1,1,Tie,Tie,0,0,0
+1974-06-22,Scotland,Serbia,Scotland,Joe Jordan,88.0,False,False,1,1,1,Tie,Tie,0,0,0
 1974-06-23,Argentina,Haiti,Argentina,Héctor Yazalde,15.0,False,False,1,4,1,Argentina,Home,0,0,0
 1974-06-23,Argentina,Haiti,Argentina,René Houseman,18.0,False,False,1,4,1,Argentina,Home,0,0,0
 1974-06-23,Argentina,Haiti,Argentina,Rubén Ayala,55.0,False,False,1,4,1,Argentina,Home,0,0,0
@@ -6522,8 +6522,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1974-06-23,Sweden,Uruguay,Sweden,Roland Sandberg,74.0,False,False,1,3,0,Sweden,Home,0,0,0
 1974-06-23,Sweden,Uruguay,Sweden,Ralf Edström,77.0,False,False,1,3,0,Sweden,Home,0,0,0
 1974-06-26,Brazil,Germany,Brazil,Rivellino,60.0,False,False,1,1,0,Brazil,Home,0,0,0
-1974-06-26,Germany,Serbia and Montenegro,Germany,Paul Breitner,39.0,False,False,1,2,0,Germany,Home,0,0,0
-1974-06-26,Germany,Serbia and Montenegro,Germany,Gerd Müller,82.0,False,False,1,2,0,Germany,Home,0,0,0
+1974-06-26,Germany,Serbia,Germany,Paul Breitner,39.0,False,False,1,2,0,Germany,Home,0,0,0
+1974-06-26,Germany,Serbia,Germany,Gerd Müller,82.0,False,False,1,2,0,Germany,Home,0,0,0
 1974-06-26,Netherlands,Argentina,Netherlands,Johan Cruyff,11.0,False,False,1,4,0,Netherlands,Home,0,0,0
 1974-06-26,Netherlands,Argentina,Netherlands,Ruud Krol,25.0,False,False,1,4,0,Netherlands,Home,0,0,0
 1974-06-26,Netherlands,Argentina,Netherlands,Johnny Rep,73.0,False,False,1,4,0,Netherlands,Home,0,0,0
@@ -6540,17 +6540,17 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1974-06-30,Germany,Sweden,Sweden,Roland Sandberg,53.0,False,False,1,4,2,Germany,Home,0,1,0
 1974-06-30,Germany,Sweden,Germany,Jürgen Grabowski,76.0,False,False,1,4,2,Germany,Home,0,1,0
 1974-06-30,Germany,Sweden,Germany,Uli Hoeneß,89.0,False,True,1,4,2,Germany,Home,1,1,0
-1974-06-30,Poland,Serbia and Montenegro,Poland,Kazimierz Deyna,24.0,False,True,1,2,1,Poland,Home,1,1,0
-1974-06-30,Poland,Serbia and Montenegro,Serbia and Montenegro,Stanislav Karasi,43.0,False,False,1,2,1,Poland,Home,0,1,0
-1974-06-30,Poland,Serbia and Montenegro,Poland,Grzegorz Lato,62.0,False,False,1,2,1,Poland,Home,0,1,0
+1974-06-30,Poland,Serbia,Poland,Kazimierz Deyna,24.0,False,True,1,2,1,Poland,Home,1,1,0
+1974-06-30,Poland,Serbia,Serbia,Stanislav Karasi,43.0,False,False,1,2,1,Poland,Home,0,1,0
+1974-06-30,Poland,Serbia,Poland,Grzegorz Lato,62.0,False,False,1,2,1,Poland,Home,0,1,0
 1974-07-03,Argentina,Germany,Germany,Joachim Streich,14.0,False,False,1,1,1,Tie,Tie,0,0,0
 1974-07-03,Argentina,Germany,Argentina,René Houseman,20.0,False,False,1,1,1,Tie,Tie,0,0,0
 1974-07-03,Germany,Poland,Germany,Gerd Müller,76.0,False,False,1,1,0,Germany,Home,0,0,0
 1974-07-03,Netherlands,Brazil,Netherlands,Johan Neeskens,50.0,False,False,1,2,0,Netherlands,Home,0,0,0
 1974-07-03,Netherlands,Brazil,Netherlands,Johan Cruyff,65.0,False,False,1,2,0,Netherlands,Home,0,0,0
-1974-07-03,Sweden,Serbia and Montenegro,Serbia and Montenegro,Ivica Šurjak,27.0,False,False,1,2,1,Sweden,Home,0,0,0
-1974-07-03,Sweden,Serbia and Montenegro,Sweden,Ralf Edström,29.0,False,False,1,2,1,Sweden,Home,0,0,0
-1974-07-03,Sweden,Serbia and Montenegro,Sweden,Conny Torstensson,85.0,False,False,1,2,1,Sweden,Home,0,0,0
+1974-07-03,Sweden,Serbia,Serbia,Ivica Šurjak,27.0,False,False,1,2,1,Sweden,Home,0,0,0
+1974-07-03,Sweden,Serbia,Sweden,Ralf Edström,29.0,False,False,1,2,1,Sweden,Home,0,0,0
+1974-07-03,Sweden,Serbia,Sweden,Conny Torstensson,85.0,False,False,1,2,1,Sweden,Home,0,0,0
 1974-07-06,Brazil,Poland,Poland,Grzegorz Lato,76.0,False,False,1,0,1,Poland,Away,0,0,0
 1974-07-07,Germany,Netherlands,Netherlands,Johan Neeskens,2.0,False,True,1,2,1,Germany,Home,1,1,1
 1974-07-07,Germany,Netherlands,Germany,Paul Breitner,25.0,False,True,1,2,1,Germany,Home,1,1,1
@@ -6603,10 +6603,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1974-10-30,Sweden,Northern Ireland,Northern Ireland,Martin O'Neill,23.0,False,False,1,0,2,Northern Ireland,Away,0,0,0
 1974-10-30,Wales,Hungary,Wales,Arfon Griffiths,57.0,False,False,1,2,0,Wales,Home,0,0,0
 1974-10-30,Wales,Hungary,Wales,John Toshack,88.0,False,False,1,2,0,Wales,Home,0,0,0
-1974-10-30,Serbia and Montenegro,Norway,Norway,Tom Lund,36.0,False,False,1,3,1,Serbia and Montenegro,Home,0,0,0
-1974-10-30,Serbia and Montenegro,Norway,Serbia and Montenegro,Momčilo Vukotić,43.0,False,False,1,3,1,Serbia and Montenegro,Home,0,0,0
-1974-10-30,Serbia and Montenegro,Norway,Serbia and Montenegro,Josip Katalinski,58.0,False,False,1,3,1,Serbia and Montenegro,Home,0,0,0
-1974-10-30,Serbia and Montenegro,Norway,Serbia and Montenegro,Josip Katalinski,72.0,False,False,1,3,1,Serbia and Montenegro,Home,0,0,0
+1974-10-30,Serbia,Norway,Norway,Tom Lund,36.0,False,False,1,3,1,Serbia,Home,0,0,0
+1974-10-30,Serbia,Norway,Serbia,Momčilo Vukotić,43.0,False,False,1,3,1,Serbia,Home,0,0,0
+1974-10-30,Serbia,Norway,Serbia,Josip Katalinski,58.0,False,False,1,3,1,Serbia,Home,0,0,0
+1974-10-30,Serbia,Norway,Serbia,Josip Katalinski,72.0,False,False,1,3,1,Serbia,Home,0,0,0
 1974-11-16,France,Germany,Germany,Jürgen Sparwasser,25.0,False,False,1,2,2,Tie,Tie,0,0,0
 1974-11-16,France,Germany,Germany,Hans-Jürgen Kreische,57.0,False,False,1,2,2,Tie,Tie,0,0,0
 1974-11-16,France,Germany,France,Jean-Marc Guillou,79.0,False,False,1,2,2,Tie,Tie,0,0,0
@@ -6654,7 +6654,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1975-04-16,Hungary,Wales,Wales,John Toshack,44.0,False,False,1,1,2,Wales,Away,0,0,0
 1975-04-16,Hungary,Wales,Wales,John Mahoney,69.0,False,False,1,1,2,Wales,Away,0,0,0
 1975-04-16,Hungary,Wales,Hungary,László Branikovits,77.0,False,False,1,1,2,Wales,Away,0,0,0
-1975-04-16,Northern Ireland,Serbia and Montenegro,Northern Ireland,Bryan Hamilton,23.0,False,False,1,1,0,Northern Ireland,Home,0,0,0
+1975-04-16,Northern Ireland,Serbia,Northern Ireland,Bryan Hamilton,23.0,False,False,1,1,0,Northern Ireland,Home,0,0,0
 1975-04-17,Spain,Romania,Spain,Manuel Velázquez,6.0,False,False,1,1,1,Tie,Tie,0,0,0
 1975-04-17,Spain,Romania,Romania,Zoltan Crişan,70.0,False,False,1,1,1,Tie,Tie,0,0,0
 1975-04-20,Slovakia,Cyprus,Slovakia,Antonín Panenka,10.0,False,False,1,4,0,Slovakia,Home,0,1,0
@@ -6695,19 +6695,19 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1975-06-04,Greece,Malta,Greece,Antonis Antoniadis,34.0,False,True,1,4,0,Greece,Home,1,1,0
 1975-06-04,Greece,Malta,Greece,Kostas Iosifidis,47.0,False,False,1,4,0,Greece,Home,0,1,0
 1975-06-04,Greece,Malta,Greece,Mimis Papaioannou,50.0,False,False,1,4,0,Greece,Home,0,1,0
-1975-06-04,Sweden,Serbia and Montenegro,Sweden,Ralf Edström,16.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1975-06-04,Sweden,Serbia and Montenegro,Serbia and Montenegro,Josip Katalinski,41.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1975-06-04,Sweden,Serbia and Montenegro,Serbia and Montenegro,Zvonko Ivezić,77.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
+1975-06-04,Sweden,Serbia,Sweden,Ralf Edström,16.0,False,False,1,1,2,Serbia,Away,0,0,0
+1975-06-04,Sweden,Serbia,Serbia,Josip Katalinski,41.0,False,False,1,1,2,Serbia,Away,0,0,0
+1975-06-04,Sweden,Serbia,Serbia,Zvonko Ivezić,77.0,False,False,1,1,2,Serbia,Away,0,0,0
 1975-06-05,Finland,Italy,Italy,Giorgio Chinaglia,26.0,False,True,1,0,1,Italy,Away,1,0,1
 1975-06-05,Iceland,Germany,Iceland,Jóhannes Eðvaldsson,12.0,False,False,1,2,1,Iceland,Home,0,0,0
 1975-06-05,Iceland,Germany,Iceland,Ásgeir Sigurvinsson,32.0,False,False,1,2,1,Iceland,Home,0,0,0
 1975-06-05,Iceland,Germany,Germany,Jürgen Pommerenke,48.0,False,False,1,2,1,Iceland,Home,0,0,0
 1975-06-08,Cyprus,Portugal,Portugal,Nené,25.0,False,False,1,0,2,Portugal,Away,0,0,0
 1975-06-08,Cyprus,Portugal,Portugal,Mário Moínhos,87.0,False,False,1,0,2,Portugal,Away,0,0,0
-1975-06-09,Norway,Serbia and Montenegro,Serbia and Montenegro,Ivan Buljan,12.0,False,False,1,1,3,Serbia and Montenegro,Away,0,0,0
-1975-06-09,Norway,Serbia and Montenegro,Serbia and Montenegro,Vladislav Bogićević,13.0,False,False,1,1,3,Serbia and Montenegro,Away,0,0,0
-1975-06-09,Norway,Serbia and Montenegro,Serbia and Montenegro,Ivica Šurjak,25.0,False,False,1,1,3,Serbia and Montenegro,Away,0,0,0
-1975-06-09,Norway,Serbia and Montenegro,Norway,Stein Thunberg,65.0,False,False,1,1,3,Serbia and Montenegro,Away,0,0,0
+1975-06-09,Norway,Serbia,Serbia,Ivan Buljan,12.0,False,False,1,1,3,Serbia,Away,0,0,0
+1975-06-09,Norway,Serbia,Serbia,Vladislav Bogićević,13.0,False,False,1,1,3,Serbia,Away,0,0,0
+1975-06-09,Norway,Serbia,Serbia,Ivica Šurjak,25.0,False,False,1,1,3,Serbia,Away,0,0,0
+1975-06-09,Norway,Serbia,Norway,Stein Thunberg,65.0,False,False,1,1,3,Serbia,Away,0,0,0
 1975-06-11,Bulgaria,Malta,Bulgaria,Borislav Dimitrov,2.0,False,False,1,5,0,Bulgaria,Home,0,1,0
 1975-06-11,Bulgaria,Malta,Bulgaria,Georgi Denev,22.0,False,False,1,5,0,Bulgaria,Home,0,1,0
 1975-06-11,Bulgaria,Malta,Bulgaria,Pavel Panov,25.0,False,False,1,5,0,Bulgaria,Home,0,1,0
@@ -6837,9 +6837,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1975-10-15,Netherlands,Poland,Netherlands,Johan Neeskens,16.0,False,False,1,3,0,Netherlands,Home,0,0,0
 1975-10-15,Netherlands,Poland,Netherlands,Ruud Geels,47.0,False,False,1,3,0,Netherlands,Home,0,0,0
 1975-10-15,Netherlands,Poland,Netherlands,Frans Thijssen,59.0,False,False,1,3,0,Netherlands,Home,0,0,0
-1975-10-15,Serbia and Montenegro,Sweden,Serbia and Montenegro,Branko Oblak,18.0,False,False,1,3,0,Serbia and Montenegro,Home,0,0,0
-1975-10-15,Serbia and Montenegro,Sweden,Serbia and Montenegro,Franjo Vladić,50.0,False,False,1,3,0,Serbia and Montenegro,Home,0,0,0
-1975-10-15,Serbia and Montenegro,Sweden,Serbia and Montenegro,Drago Vabec,83.0,False,False,1,3,0,Serbia and Montenegro,Home,0,0,0
+1975-10-15,Serbia,Sweden,Serbia,Branko Oblak,18.0,False,False,1,3,0,Serbia,Home,0,0,0
+1975-10-15,Serbia,Sweden,Serbia,Franjo Vladić,50.0,False,False,1,3,0,Serbia,Home,0,0,0
+1975-10-15,Serbia,Sweden,Serbia,Drago Vabec,83.0,False,False,1,3,0,Serbia,Home,0,0,0
 1975-10-16,Colombia,Peru,Colombia,Ponciano Castro,38.0,False,False,1,1,0,Colombia,Home,0,0,0
 1975-10-19,Hungary,Luxembourg,Hungary,Sándor Pintér,13.0,False,False,1,8,1,Hungary,Home,0,0,0
 1975-10-19,Hungary,Luxembourg,Hungary,Tibor Nyilasi,21.0,False,False,1,8,1,Hungary,Home,0,0,0
@@ -6882,7 +6882,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1975-11-19,Portugal,England,Portugal,Rui Rodrigues,16.0,False,False,1,1,1,Tie,Tie,0,0,0
 1975-11-19,Portugal,England,England,Mick Channon,42.0,False,False,1,1,1,Tie,Tie,0,0,0
 1975-11-19,Wales,Austria,Wales,Arfon Griffiths,69.0,False,False,1,1,0,Wales,Home,0,0,0
-1975-11-19,Serbia and Montenegro,Northern Ireland,Serbia and Montenegro,Branko Oblak,21.0,False,False,1,1,0,Serbia and Montenegro,Home,0,0,0
+1975-11-19,Serbia,Northern Ireland,Serbia,Branko Oblak,21.0,False,False,1,1,0,Serbia,Home,0,0,0
 1975-11-22,Italy,Netherlands,Italy,Fabio Capello,20.0,False,False,1,1,0,Italy,Home,0,0,0
 1975-11-23,Cyprus,Slovakia,Slovakia,Zdeněk Nehoda,9.0,False,False,1,0,3,Slovakia,Away,0,0,0
 1975-11-23,Cyprus,Slovakia,Slovakia,Přemysl Bičovský,27.0,False,False,1,0,3,Slovakia,Away,0,0,0
@@ -6973,8 +6973,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1976-04-24,Slovakia,Russia,Slovakia,Antonín Panenka,47.0,False,False,1,2,0,Slovakia,Home,0,0,0
 1976-04-24,Spain,Germany,Spain,Santillana,21.0,False,False,1,1,1,Tie,Tie,0,0,0
 1976-04-24,Spain,Germany,Germany,Erich Beer,60.0,False,False,1,1,1,Tie,Tie,0,0,0
-1976-04-24,Serbia and Montenegro,Wales,Serbia and Montenegro,Momčilo Vukotić,1.0,False,False,1,2,0,Serbia and Montenegro,Home,0,0,0
-1976-04-24,Serbia and Montenegro,Wales,Serbia and Montenegro,Danilo Popivoda,57.0,False,False,1,2,0,Serbia and Montenegro,Home,0,0,0
+1976-04-24,Serbia,Wales,Serbia,Momčilo Vukotić,1.0,False,False,1,2,0,Serbia,Home,0,0,0
+1976-04-24,Serbia,Wales,Serbia,Danilo Popivoda,57.0,False,False,1,2,0,Serbia,Home,0,0,0
 1976-04-25,Netherlands,Belgium,Netherlands,Wim Rijsbergen,17.0,False,False,1,5,0,Netherlands,Home,0,1,0
 1976-04-25,Netherlands,Belgium,Netherlands,Rob Rensenbrink,27.0,False,False,1,5,0,Netherlands,Home,0,1,0
 1976-04-25,Netherlands,Belgium,Netherlands,Rob Rensenbrink,58.0,False,False,1,5,0,Netherlands,Home,0,1,0
@@ -6993,8 +6993,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1976-05-22,Russia,Slovakia,Russia,Leonid Buryak,53.0,False,False,1,2,2,Tie,Tie,0,0,0
 1976-05-22,Russia,Slovakia,Slovakia,Jozef Móder,82.0,False,False,1,2,2,Tie,Tie,0,0,0
 1976-05-22,Russia,Slovakia,Russia,Oleg Blokhin,87.0,False,False,1,2,2,Tie,Tie,0,0,0
-1976-05-22,Wales,Serbia and Montenegro,Serbia and Montenegro,Josip Katalinski,19.0,False,True,1,1,1,Tie,Tie,1,0,1
-1976-05-22,Wales,Serbia and Montenegro,Wales,Ian Evans,38.0,False,False,1,1,1,Tie,Tie,0,0,1
+1976-05-22,Wales,Serbia,Serbia,Josip Katalinski,19.0,False,True,1,1,1,Tie,Tie,1,0,1
+1976-05-22,Wales,Serbia,Wales,Ian Evans,38.0,False,False,1,1,1,Tie,Tie,0,0,1
 1976-05-23,Cyprus,Denmark,Cyprus,Stefanis Michael,10.0,False,False,1,1,5,Denmark,Away,0,0,0
 1976-05-23,Cyprus,Denmark,Denmark,Allan Simonsen,14.0,False,False,1,1,5,Denmark,Away,0,0,0
 1976-05-23,Cyprus,Denmark,Denmark,Niels Tune-Hansen,19.0,False,False,1,1,5,Denmark,Away,0,0,0
@@ -7038,17 +7038,17 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1976-06-16,Slovakia,Netherlands,Slovakia,František Veselý,118.0,False,False,1,3,1,Slovakia,Home,0,0,0
 1976-06-16,Sweden,Norway,Sweden,Björn Andersson,27.0,False,False,1,2,0,Sweden,Home,0,0,0
 1976-06-16,Sweden,Norway,Sweden,Thomas Sjöberg,42.0,False,False,1,2,0,Sweden,Home,0,0,0
-1976-06-17,Serbia and Montenegro,Germany,Serbia and Montenegro,Danilo Popivoda,19.0,False,False,1,2,4,Germany,Away,0,0,0
-1976-06-17,Serbia and Montenegro,Germany,Serbia and Montenegro,Dragan Džajić,30.0,False,False,1,2,4,Germany,Away,0,0,0
-1976-06-17,Serbia and Montenegro,Germany,Germany,Heinz Flohe,64.0,False,False,1,2,4,Germany,Away,0,0,0
-1976-06-17,Serbia and Montenegro,Germany,Germany,Dieter Müller,82.0,False,False,1,2,4,Germany,Away,0,0,0
-1976-06-17,Serbia and Montenegro,Germany,Germany,Dieter Müller,115.0,False,False,1,2,4,Germany,Away,0,0,0
-1976-06-17,Serbia and Montenegro,Germany,Germany,Dieter Müller,119.0,False,False,1,2,4,Germany,Away,0,0,0
-1976-06-19,Serbia and Montenegro,Netherlands,Netherlands,Ruud Geels,27.0,False,False,1,2,3,Netherlands,Away,0,0,0
-1976-06-19,Serbia and Montenegro,Netherlands,Netherlands,Willy van de Kerkhof,39.0,False,False,1,2,3,Netherlands,Away,0,0,0
-1976-06-19,Serbia and Montenegro,Netherlands,Serbia and Montenegro,Josip Katalinski,43.0,False,False,1,2,3,Netherlands,Away,0,0,0
-1976-06-19,Serbia and Montenegro,Netherlands,Serbia and Montenegro,Dragan Džajić,82.0,False,False,1,2,3,Netherlands,Away,0,0,0
-1976-06-19,Serbia and Montenegro,Netherlands,Netherlands,Ruud Geels,107.0,False,False,1,2,3,Netherlands,Away,0,0,0
+1976-06-17,Serbia,Germany,Serbia,Danilo Popivoda,19.0,False,False,1,2,4,Germany,Away,0,0,0
+1976-06-17,Serbia,Germany,Serbia,Dragan Džajić,30.0,False,False,1,2,4,Germany,Away,0,0,0
+1976-06-17,Serbia,Germany,Germany,Heinz Flohe,64.0,False,False,1,2,4,Germany,Away,0,0,0
+1976-06-17,Serbia,Germany,Germany,Dieter Müller,82.0,False,False,1,2,4,Germany,Away,0,0,0
+1976-06-17,Serbia,Germany,Germany,Dieter Müller,115.0,False,False,1,2,4,Germany,Away,0,0,0
+1976-06-17,Serbia,Germany,Germany,Dieter Müller,119.0,False,False,1,2,4,Germany,Away,0,0,0
+1976-06-19,Serbia,Netherlands,Netherlands,Ruud Geels,27.0,False,False,1,2,3,Netherlands,Away,0,0,0
+1976-06-19,Serbia,Netherlands,Netherlands,Willy van de Kerkhof,39.0,False,False,1,2,3,Netherlands,Away,0,0,0
+1976-06-19,Serbia,Netherlands,Serbia,Josip Katalinski,43.0,False,False,1,2,3,Netherlands,Away,0,0,0
+1976-06-19,Serbia,Netherlands,Serbia,Dragan Džajić,82.0,False,False,1,2,3,Netherlands,Away,0,0,0
+1976-06-19,Serbia,Netherlands,Netherlands,Ruud Geels,107.0,False,False,1,2,3,Netherlands,Away,0,0,0
 1976-06-20,Slovakia,Germany,Slovakia,Ján Švehlík,8.0,False,False,1,2,2,Tie,Tie,0,0,0
 1976-06-20,Slovakia,Germany,Slovakia,Karol Dobiaš,25.0,False,False,1,2,2,Tie,Tie,0,0,0
 1976-06-20,Slovakia,Germany,Germany,Dieter Müller,28.0,False,False,1,2,2,Tie,Tie,0,0,0
@@ -7080,7 +7080,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1976-10-10,Ghana,Guinea,Guinea,Youssuf Camara,52.0,False,False,1,2,1,Ghana,Home,0,0,0
 1976-10-10,Ghana,Guinea,Ghana,Ibrahim Kassum,57.0,False,False,1,2,1,Ghana,Home,0,0,0
 1976-10-10,Ghana,Guinea,Ghana,Opoku Afriyie,83.0,False,False,1,2,1,Ghana,Home,0,0,0
-1976-10-10,Spain,Serbia and Montenegro,Spain,Pirri,86.0,False,True,1,1,0,Spain,Home,1,1,0
+1976-10-10,Spain,Serbia,Spain,Pirri,86.0,False,True,1,1,0,Spain,Home,1,1,0
 1976-10-13,Slovakia,Scotland,Slovakia,Antonín Panenka,48.0,False,False,1,2,0,Slovakia,Home,0,0,0
 1976-10-13,Slovakia,Scotland,Slovakia,Ladislav Petráš,50.0,False,False,1,2,0,Slovakia,Home,0,0,0
 1976-10-13,England,Finland,England,Dennis Tueart,4.0,False,False,1,2,1,England,Home,0,0,0
@@ -7354,8 +7354,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1977-05-01,Denmark,Poland,Poland,Włodzimierz Lubański,7.0,False,False,1,1,2,Poland,Away,0,0,0
 1977-05-01,Denmark,Poland,Denmark,Allan Simonsen,50.0,False,False,1,1,2,Poland,Away,0,0,0
 1977-05-01,Denmark,Poland,Poland,Włodzimierz Lubański,55.0,False,False,1,1,2,Poland,Away,0,0,0
-1977-05-08,Serbia and Montenegro,Romania,Romania,Dudu Georgescu,37.0,False,False,1,0,2,Romania,Away,0,0,0
-1977-05-08,Serbia and Montenegro,Romania,Romania,Anghel Iordănescu,44.0,False,False,1,0,2,Romania,Away,0,0,0
+1977-05-08,Serbia,Romania,Romania,Dudu Georgescu,37.0,False,False,1,0,2,Romania,Away,0,0,0
+1977-05-08,Serbia,Romania,Romania,Anghel Iordănescu,44.0,False,False,1,0,2,Romania,Away,0,0,0
 1977-05-10,Greece,Russia,Greece,Mimis Papaioannou,58.0,False,False,1,1,0,Greece,Home,0,0,0
 1977-05-15,Cyprus,Poland,Cyprus,Takis Antoniou,13.0,False,False,1,1,3,Poland,Away,0,0,0
 1977-05-15,Cyprus,Poland,Poland,Grzegorz Lato,26.0,False,False,1,1,3,Poland,Away,0,0,0
@@ -7520,16 +7520,16 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1977-11-12,Kuwait,Hong Kong,Kuwait,Abdulaziz Al-Anberi,45.0,False,False,1,4,0,Kuwait,Home,0,0,0
 1977-11-12,Kuwait,Hong Kong,Kuwait,Fat'hi Kameel Fayaz Matar Marzouq,80.0,False,False,1,4,0,Kuwait,Home,0,0,0
 1977-11-12,Nigeria,Tunisia,Tunisia,Godwin Odiye,61.0,True,False,1,0,1,Tunisia,Away,0,0,0
-1977-11-13,Romania,Serbia and Montenegro,Romania,Iosif Vigu,2.0,False,False,1,4,6,Serbia and Montenegro,Away,0,0,0
-1977-11-13,Romania,Serbia and Montenegro,Serbia and Montenegro,Safet Sušić,14.0,False,False,1,4,6,Serbia and Montenegro,Away,0,0,0
-1977-11-13,Romania,Serbia and Montenegro,Serbia and Montenegro,Dražen Mužinić,18.0,False,False,1,4,6,Serbia and Montenegro,Away,0,0,0
-1977-11-13,Romania,Serbia and Montenegro,Romania,Anghel Iordănescu,40.0,False,False,1,4,6,Serbia and Montenegro,Away,0,0,0
-1977-11-13,Romania,Serbia and Montenegro,Romania,László Bölöni,43.0,False,False,1,4,6,Serbia and Montenegro,Away,0,0,0
-1977-11-13,Romania,Serbia and Montenegro,Serbia and Montenegro,Safet Sušić,51.0,False,False,1,4,6,Serbia and Montenegro,Away,0,0,0
-1977-11-13,Romania,Serbia and Montenegro,Serbia and Montenegro,Safet Sušić,62.0,False,False,1,4,6,Serbia and Montenegro,Away,0,0,0
-1977-11-13,Romania,Serbia and Montenegro,Romania,Dudu Georgescu,67.0,False,False,1,4,6,Serbia and Montenegro,Away,0,0,0
-1977-11-13,Romania,Serbia and Montenegro,Serbia and Montenegro,Aleksandar Trifunović,79.0,False,False,1,4,6,Serbia and Montenegro,Away,0,0,0
-1977-11-13,Romania,Serbia and Montenegro,Serbia and Montenegro,Zoran Filipović,84.0,False,False,1,4,6,Serbia and Montenegro,Away,0,0,0
+1977-11-13,Romania,Serbia,Romania,Iosif Vigu,2.0,False,False,1,4,6,Serbia,Away,0,0,0
+1977-11-13,Romania,Serbia,Serbia,Safet Sušić,14.0,False,False,1,4,6,Serbia,Away,0,0,0
+1977-11-13,Romania,Serbia,Serbia,Dražen Mužinić,18.0,False,False,1,4,6,Serbia,Away,0,0,0
+1977-11-13,Romania,Serbia,Romania,Anghel Iordănescu,40.0,False,False,1,4,6,Serbia,Away,0,0,0
+1977-11-13,Romania,Serbia,Romania,László Bölöni,43.0,False,False,1,4,6,Serbia,Away,0,0,0
+1977-11-13,Romania,Serbia,Serbia,Safet Sušić,51.0,False,False,1,4,6,Serbia,Away,0,0,0
+1977-11-13,Romania,Serbia,Serbia,Safet Sušić,62.0,False,False,1,4,6,Serbia,Away,0,0,0
+1977-11-13,Romania,Serbia,Romania,Dudu Georgescu,67.0,False,False,1,4,6,Serbia,Away,0,0,0
+1977-11-13,Romania,Serbia,Serbia,Aleksandar Trifunović,79.0,False,False,1,4,6,Serbia,Away,0,0,0
+1977-11-13,Romania,Serbia,Serbia,Zoran Filipović,84.0,False,False,1,4,6,Serbia,Away,0,0,0
 1977-11-16,Slovakia,Wales,Slovakia,Zdeněk Nehoda,12.0,False,False,1,1,0,Slovakia,Home,0,0,0
 1977-11-16,England,Italy,England,Kevin Keegan,11.0,False,False,1,2,0,England,Home,0,0,0
 1977-11-16,England,Italy,England,Trevor Brooking,80.0,False,False,1,2,0,England,Home,0,0,0
@@ -7565,7 +7565,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1977-11-30,Bolivia,Hungary,Bolivia,Carlos Aragonés,45.0,False,True,1,2,3,Hungary,Away,1,1,0
 1977-11-30,Bolivia,Hungary,Hungary,Windsor del Llano,84.0,True,False,1,2,3,Hungary,Away,0,1,0
 1977-11-30,Bolivia,Hungary,Bolivia,Carlos Aragonés,90.0,False,False,1,2,3,Hungary,Away,0,1,0
-1977-11-30,Serbia and Montenegro,Spain,Spain,Rubén Cano,71.0,False,False,1,0,1,Spain,Away,0,0,0
+1977-11-30,Serbia,Spain,Spain,Rubén Cano,71.0,False,False,1,0,1,Spain,Away,0,0,0
 1977-12-03,Italy,Luxembourg,Italy,Roberto Bettega,4.0,False,False,1,3,0,Italy,Home,0,0,0
 1977-12-03,Italy,Luxembourg,Italy,Francesco Graziani,11.0,False,False,1,3,0,Italy,Home,0,0,0
 1977-12-03,Italy,Luxembourg,Italy,Franco Causio,56.0,False,False,1,3,0,Italy,Home,0,0,0
@@ -7769,9 +7769,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1978-10-04,Sweden,Slovakia,Slovakia,Marián Masný,17.0,False,False,1,1,3,Slovakia,Away,0,1,0
 1978-10-04,Sweden,Slovakia,Slovakia,Marián Masný,47.0,False,False,1,1,3,Slovakia,Away,0,1,0
 1978-10-04,Sweden,Slovakia,Slovakia,Zdeněk Nehoda,85.0,False,False,1,1,3,Slovakia,Away,0,1,0
-1978-10-04,Serbia and Montenegro,Spain,Spain,Juanito,20.0,False,False,1,1,2,Spain,Away,0,0,0
-1978-10-04,Serbia and Montenegro,Spain,Spain,Santillana,32.0,False,False,1,1,2,Spain,Away,0,0,0
-1978-10-04,Serbia and Montenegro,Spain,Serbia and Montenegro,Vahid Halilhodžić,44.0,False,False,1,1,2,Spain,Away,0,0,0
+1978-10-04,Serbia,Spain,Spain,Juanito,20.0,False,False,1,1,2,Spain,Away,0,0,0
+1978-10-04,Serbia,Spain,Spain,Santillana,32.0,False,False,1,1,2,Spain,Away,0,0,0
+1978-10-04,Serbia,Spain,Serbia,Vahid Halilhodžić,44.0,False,False,1,1,2,Spain,Away,0,0,0
 1978-10-07,Luxembourg,France,France,Didier Six,14.0,False,False,1,1,3,France,Away,0,0,0
 1978-10-07,Luxembourg,France,France,Marius Trésor,62.0,False,False,1,1,3,France,Away,0,0,0
 1978-10-07,Luxembourg,France,Luxembourg,Romain Michaux,73.0,False,False,1,1,3,France,Away,0,0,0
@@ -7802,11 +7802,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1978-10-25,Northern Ireland,Denmark,Northern Ireland,Trevor Anderson,85.0,False,False,1,2,1,Northern Ireland,Home,0,0,0
 1978-10-25,Republic of Ireland,England,England,Bob Latchford,8.0,False,False,1,1,1,Tie,Tie,0,0,0
 1978-10-25,Republic of Ireland,England,Republic of Ireland,Gerry Daly,27.0,False,False,1,1,1,Tie,Tie,0,0,0
-1978-10-25,Romania,Serbia and Montenegro,Serbia and Montenegro,Vladimir Petrović,22.0,False,True,1,3,2,Romania,Home,1,1,1
-1978-10-25,Romania,Serbia and Montenegro,Romania,Ştefan Sameş,62.0,False,False,1,3,2,Romania,Home,0,1,1
-1978-10-25,Romania,Serbia and Montenegro,Romania,Ştefan Sameş,68.0,False,False,1,3,2,Romania,Home,0,1,1
-1978-10-25,Romania,Serbia and Montenegro,Romania,Anghel Iordănescu,75.0,False,True,1,3,2,Romania,Home,1,1,1
-1978-10-25,Romania,Serbia and Montenegro,Serbia and Montenegro,Damir Desnica,90.0,False,False,1,3,2,Romania,Home,0,1,1
+1978-10-25,Romania,Serbia,Serbia,Vladimir Petrović,22.0,False,True,1,3,2,Romania,Home,1,1,1
+1978-10-25,Romania,Serbia,Romania,Ştefan Sameş,62.0,False,False,1,3,2,Romania,Home,0,1,1
+1978-10-25,Romania,Serbia,Romania,Ştefan Sameş,68.0,False,False,1,3,2,Romania,Home,0,1,1
+1978-10-25,Romania,Serbia,Romania,Anghel Iordănescu,75.0,False,True,1,3,2,Romania,Home,1,1,1
+1978-10-25,Romania,Serbia,Serbia,Damir Desnica,90.0,False,False,1,3,2,Romania,Home,0,1,1
 1978-10-25,Scotland,Norway,Norway,Einar Jan Aas,3.0,False,False,1,3,2,Scotland,Home,0,1,0
 1978-10-25,Scotland,Norway,Scotland,Kenny Dalglish,30.0,False,False,1,3,2,Scotland,Home,0,1,0
 1978-10-25,Scotland,Norway,Norway,Arne Larsen Økland,64.0,False,False,1,3,2,Scotland,Home,0,1,0
@@ -7857,9 +7857,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1979-03-28,Netherlands,Switzerland,Netherlands,Kees Kist,55.0,False,False,1,3,0,Netherlands,Home,0,0,0
 1979-03-28,Netherlands,Switzerland,Netherlands,John Metgod,84.0,False,False,1,3,0,Netherlands,Home,0,0,0
 1979-03-28,Netherlands,Switzerland,Netherlands,Jan Peters,89.0,False,False,1,3,0,Netherlands,Home,0,0,0
-1979-04-01,Cyprus,Serbia and Montenegro,Serbia and Montenegro,Zlatko Vujović,40.0,False,False,1,0,3,Serbia and Montenegro,Away,0,0,1
-1979-04-01,Cyprus,Serbia and Montenegro,Serbia and Montenegro,Zlatko Vujović,79.0,False,False,1,0,3,Serbia and Montenegro,Away,0,0,1
-1979-04-01,Cyprus,Serbia and Montenegro,Serbia and Montenegro,Ivica Šurjak,82.0,False,True,1,0,3,Serbia and Montenegro,Away,1,0,1
+1979-04-01,Cyprus,Serbia,Serbia,Zlatko Vujović,40.0,False,False,1,0,3,Serbia,Away,0,0,1
+1979-04-01,Cyprus,Serbia,Serbia,Zlatko Vujović,79.0,False,False,1,0,3,Serbia,Away,0,0,1
+1979-04-01,Cyprus,Serbia,Serbia,Ivica Šurjak,82.0,False,True,1,0,3,Serbia,Away,1,0,1
 1979-04-04,Slovakia,France,Slovakia,Antonín Panenka,67.0,False,True,1,2,0,Slovakia,Home,1,1,0
 1979-04-04,Slovakia,France,Slovakia,František Štambachr,72.0,False,False,1,2,0,Slovakia,Home,0,1,0
 1979-04-04,Romania,Spain,Romania,Dudu Georgescu,57.0,False,True,1,2,2,Tie,Tie,1,1,0
@@ -7993,7 +7993,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1979-10-10,Slovakia,Sweden,Slovakia,Ladislav Vízek,78.0,False,False,1,4,1,Slovakia,Home,0,0,0
 1979-10-10,Poland,Iceland,Poland,Roman Ogaza,55.0,False,False,1,2,0,Poland,Home,0,1,0
 1979-10-10,Poland,Iceland,Poland,Roman Ogaza,74.0,False,True,1,2,0,Poland,Home,1,1,0
-1979-10-10,Spain,Serbia and Montenegro,Serbia and Montenegro,Ivica Šurjak,5.0,False,False,1,0,1,Serbia and Montenegro,Away,0,0,0
+1979-10-10,Spain,Serbia,Serbia,Ivica Šurjak,5.0,False,False,1,0,1,Serbia,Away,0,0,0
 1979-10-13,Germany,Switzerland,Germany,Gerd Weber,1.0,False,False,1,5,2,Germany,Home,0,0,0
 1979-10-13,Germany,Switzerland,Germany,Martin Hoffmann,11.0,False,False,1,5,2,Germany,Home,0,0,0
 1979-10-13,Germany,Switzerland,Switzerland,Umberto Barberis,19.0,False,False,1,5,2,Germany,Home,0,0,0
@@ -8048,18 +8048,18 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1979-10-31,Russia,Finland,Russia,Yuri Gavrilov,67.0,False,False,1,2,2,Tie,Tie,0,0,0
 1979-10-31,Russia,Finland,Finland,Kai Haaskivi,76.0,False,False,1,2,2,Tie,Tie,0,0,0
 1979-10-31,Russia,Finland,Finland,Tuomo Hakala,82.0,False,False,1,2,2,Tie,Tie,0,0,0
-1979-10-31,Serbia and Montenegro,Romania,Serbia and Montenegro,Zlatko Vujović,48.0,False,False,1,2,1,Serbia and Montenegro,Home,0,0,0
-1979-10-31,Serbia and Montenegro,Romania,Serbia and Montenegro,Blaž Slišković,50.0,False,False,1,2,1,Serbia and Montenegro,Home,0,0,0
-1979-10-31,Serbia and Montenegro,Romania,Romania,Marcel Răducanu,79.0,False,False,1,2,1,Serbia and Montenegro,Home,0,0,0
+1979-10-31,Serbia,Romania,Serbia,Zlatko Vujović,48.0,False,False,1,2,1,Serbia,Home,0,0,0
+1979-10-31,Serbia,Romania,Serbia,Blaž Slišković,50.0,False,False,1,2,1,Serbia,Home,0,0,0
+1979-10-31,Serbia,Romania,Romania,Marcel Răducanu,79.0,False,False,1,2,1,Serbia,Home,0,0,0
 1979-11-01,Portugal,Norway,Norway,Georg Hammer,10.0,False,False,1,3,1,Portugal,Home,0,0,0
 1979-11-01,Portugal,Norway,Portugal,Artur Correia,37.0,False,False,1,3,1,Portugal,Home,0,0,0
 1979-11-01,Portugal,Norway,Portugal,Nené,59.0,False,False,1,3,1,Portugal,Home,0,0,0
 1979-11-01,Portugal,Norway,Portugal,Nené,71.0,False,False,1,3,1,Portugal,Home,0,0,0
-1979-11-14,Serbia and Montenegro,Cyprus,Serbia and Montenegro,Zlatko Kranjčar,32.0,False,False,1,5,0,Serbia and Montenegro,Home,0,0,0
-1979-11-14,Serbia and Montenegro,Cyprus,Serbia and Montenegro,Zlatko Kranjčar,50.0,False,False,1,5,0,Serbia and Montenegro,Home,0,0,0
-1979-11-14,Serbia and Montenegro,Cyprus,Serbia and Montenegro,Zlatko Vujović,60.0,False,False,1,5,0,Serbia and Montenegro,Home,0,0,0
-1979-11-14,Serbia and Montenegro,Cyprus,Serbia and Montenegro,Vladimir Petrović,75.0,False,False,1,5,0,Serbia and Montenegro,Home,0,0,0
-1979-11-14,Serbia and Montenegro,Cyprus,Serbia and Montenegro,Dušan Savić,87.0,False,False,1,5,0,Serbia and Montenegro,Home,0,0,0
+1979-11-14,Serbia,Cyprus,Serbia,Zlatko Kranjčar,32.0,False,False,1,5,0,Serbia,Home,0,0,0
+1979-11-14,Serbia,Cyprus,Serbia,Zlatko Kranjčar,50.0,False,False,1,5,0,Serbia,Home,0,0,0
+1979-11-14,Serbia,Cyprus,Serbia,Zlatko Vujović,60.0,False,False,1,5,0,Serbia,Home,0,0,0
+1979-11-14,Serbia,Cyprus,Serbia,Vladimir Petrović,75.0,False,False,1,5,0,Serbia,Home,0,0,0
+1979-11-14,Serbia,Cyprus,Serbia,Dušan Savić,87.0,False,False,1,5,0,Serbia,Home,0,0,0
 1979-11-17,France,Slovakia,France,Éric Pécout,67.0,False,False,1,2,1,France,Home,0,0,0
 1979-11-17,France,Slovakia,France,Gilles Rampillon,75.0,False,False,1,2,1,France,Home,0,0,0
 1979-11-17,France,Slovakia,Slovakia,Ján Kozák,80.0,False,False,1,2,1,France,Home,0,0,0
@@ -8340,11 +8340,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1980-09-10,England,Norway,England,Tony Woodcock,69.0,False,False,1,4,0,England,Home,0,0,0
 1980-09-10,England,Norway,England,Terry McDermott,78.0,False,False,1,4,0,England,Home,0,0,0
 1980-09-10,England,Norway,England,Paul Mariner,85.0,False,False,1,4,0,England,Home,0,0,0
-1980-09-10,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Safet Sušić,50.0,False,False,1,0,5,Serbia and Montenegro,Away,0,0,0
-1980-09-10,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Zlatko Vujović,64.0,False,False,1,0,5,Serbia and Montenegro,Away,0,0,0
-1980-09-10,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Vladimir Petrović,70.0,False,False,1,0,5,Serbia and Montenegro,Away,0,0,0
-1980-09-10,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Zlatko Vujović,81.0,False,False,1,0,5,Serbia and Montenegro,Away,0,0,0
-1980-09-10,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Ivan Buljan,90.0,False,False,1,0,5,Serbia and Montenegro,Away,0,0,0
+1980-09-10,Luxembourg,Serbia,Serbia,Safet Sušić,50.0,False,False,1,0,5,Serbia,Away,0,0,0
+1980-09-10,Luxembourg,Serbia,Serbia,Zlatko Vujović,64.0,False,False,1,0,5,Serbia,Away,0,0,0
+1980-09-10,Luxembourg,Serbia,Serbia,Vladimir Petrović,70.0,False,False,1,0,5,Serbia,Away,0,0,0
+1980-09-10,Luxembourg,Serbia,Serbia,Zlatko Vujović,81.0,False,False,1,0,5,Serbia,Away,0,0,0
+1980-09-10,Luxembourg,Serbia,Serbia,Ivan Buljan,90.0,False,False,1,0,5,Serbia,Away,0,0,0
 1980-09-10,Republic of Ireland,Netherlands,Netherlands,Simon Tahamata,57.0,False,False,1,2,1,Republic of Ireland,Home,0,0,0
 1980-09-10,Republic of Ireland,Netherlands,Republic of Ireland,Gerry Daly,78.0,False,False,1,2,1,Republic of Ireland,Home,0,0,0
 1980-09-10,Republic of Ireland,Netherlands,Republic of Ireland,Mark Lawrenson,85.0,False,False,1,2,1,Republic of Ireland,Home,0,0,0
@@ -8423,9 +8423,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1980-09-26,Syria,North Korea,North Korea,Kim Gwan-Mo,,False,False,1,1,2,North Korea,Away,0,0,0
 1980-09-26,Syria,North Korea,North Korea,Kim Gwang-Un,,False,False,1,1,2,North Korea,Away,0,0,0
 1980-09-26,Syria,North Korea,Syria,Jawdat Suleiman,,False,False,1,1,2,North Korea,Away,0,0,0
-1980-09-27,Serbia and Montenegro,Denmark,Denmark,Frank Arnesen,5.0,False,True,1,2,1,Serbia and Montenegro,Home,1,1,1
-1980-09-27,Serbia and Montenegro,Denmark,Serbia and Montenegro,Dragan Pantelić,18.0,False,True,1,2,1,Serbia and Montenegro,Home,1,1,1
-1980-09-27,Serbia and Montenegro,Denmark,Serbia and Montenegro,Zoran Vujović,37.0,False,False,1,2,1,Serbia and Montenegro,Home,0,1,1
+1980-09-27,Serbia,Denmark,Denmark,Frank Arnesen,5.0,False,True,1,2,1,Serbia,Home,1,1,1
+1980-09-27,Serbia,Denmark,Serbia,Dragan Pantelić,18.0,False,True,1,2,1,Serbia,Home,1,1,1
+1980-09-27,Serbia,Denmark,Serbia,Zoran Vujović,37.0,False,False,1,2,1,Serbia,Home,0,1,1
 1980-09-28,Kuwait,Iran,Kuwait,Jasem Yaqoub,63.0,False,False,1,2,1,Kuwait,Home,0,0,0
 1980-09-28,Kuwait,Iran,Kuwait,Faisal Al-Dakhil,85.0,False,False,1,2,1,Kuwait,Home,0,0,0
 1980-09-28,Kuwait,Iran,Iran,Hossein Faraki,90.0,False,False,1,2,1,Kuwait,Home,0,0,0
@@ -8482,8 +8482,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1980-11-15,Austria,Albania,Austria,Walter Schachner,35.0,False,False,1,5,0,Austria,Home,0,0,0
 1980-11-15,Austria,Albania,Austria,Kurt Welzl,57.0,False,False,1,5,0,Austria,Home,0,0,0
 1980-11-15,Austria,Albania,Austria,Hans Krankl,85.0,False,False,1,5,0,Austria,Home,0,0,0
-1980-11-15,Italy,Serbia and Montenegro,Italy,Antonio Cabrini,40.0,False,True,1,2,0,Italy,Home,1,1,0
-1980-11-15,Italy,Serbia and Montenegro,Italy,Bruno Conti,75.0,False,False,1,2,0,Italy,Home,0,1,0
+1980-11-15,Italy,Serbia,Italy,Antonio Cabrini,40.0,False,True,1,2,0,Italy,Home,1,1,0
+1980-11-15,Italy,Serbia,Italy,Bruno Conti,75.0,False,False,1,2,0,Italy,Home,0,1,0
 1980-11-16,Madagascar,DR Congo,Madagascar,Michel Kira,26.0,False,False,1,1,1,Tie,Tie,0,0,0
 1980-11-16,Madagascar,DR Congo,DR Congo,Imowa Malgbanga,74.0,False,False,1,1,1,Tie,Tie,0,0,0
 1980-11-16,Morocco,Zambia,Morocco,Mohamed Boussati,30.0,False,False,1,2,0,Morocco,Home,0,0,0
@@ -8688,12 +8688,12 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1981-04-29,Kuwait,South Korea,Kuwait,Abdulaziz Al-Anberi,50.0,False,False,1,2,0,Kuwait,Home,0,0,0
 1981-04-29,Kuwait,South Korea,Kuwait,Nassir Al-Ghanem,81.0,False,False,1,2,0,Kuwait,Home,0,0,0
 1981-04-29,Northern Ireland,Portugal,Northern Ireland,Gerry Armstrong,74.0,False,False,1,1,0,Northern Ireland,Home,0,0,0
-1981-04-29,Serbia and Montenegro,Greece,Serbia and Montenegro,Edhem Šljivo,7.0,False,False,1,5,1,Serbia and Montenegro,Home,0,1,1
-1981-04-29,Serbia and Montenegro,Greece,Serbia and Montenegro,Vahid Halilhodžić,23.0,False,False,1,5,1,Serbia and Montenegro,Home,0,1,1
-1981-04-29,Serbia and Montenegro,Greece,Serbia and Montenegro,Dragan Pantelić,42.0,False,True,1,5,1,Serbia and Montenegro,Home,1,1,1
-1981-04-29,Serbia and Montenegro,Greece,Serbia and Montenegro,Zlatko Vujović,50.0,False,False,1,5,1,Serbia and Montenegro,Home,0,1,1
-1981-04-29,Serbia and Montenegro,Greece,Serbia and Montenegro,Zlatko Vujović,56.0,False,False,1,5,1,Serbia and Montenegro,Home,0,1,1
-1981-04-29,Serbia and Montenegro,Greece,Greece,Georgios Kostikos,76.0,False,True,1,5,1,Serbia and Montenegro,Home,1,1,1
+1981-04-29,Serbia,Greece,Serbia,Edhem Šljivo,7.0,False,False,1,5,1,Serbia,Home,0,1,1
+1981-04-29,Serbia,Greece,Serbia,Vahid Halilhodžić,23.0,False,False,1,5,1,Serbia,Home,0,1,1
+1981-04-29,Serbia,Greece,Serbia,Dragan Pantelić,42.0,False,True,1,5,1,Serbia,Home,1,1,1
+1981-04-29,Serbia,Greece,Serbia,Zlatko Vujović,50.0,False,False,1,5,1,Serbia,Home,0,1,1
+1981-04-29,Serbia,Greece,Serbia,Zlatko Vujović,56.0,False,False,1,5,1,Serbia,Home,0,1,1
+1981-04-29,Serbia,Greece,Greece,Georgios Kostikos,76.0,False,True,1,5,1,Serbia,Home,1,1,1
 1981-05-01,Algeria,Niger,Algeria,Rabah Madjer,44.0,False,True,1,4,0,Algeria,Home,1,1,0
 1981-05-01,Algeria,Niger,Algeria,Lakhdar Belloumi,46.0,False,False,1,4,0,Algeria,Home,0,1,0
 1981-05-01,Algeria,Niger,Algeria,Nourredine Kourichi,53.0,False,False,1,4,0,Algeria,Home,0,1,0
@@ -8841,9 +8841,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1981-09-09,Belgium,France,Belgium,Erwin Vandenbergh,83.0,False,False,1,2,0,Belgium,Home,0,0,0
 1981-09-09,Slovakia,Wales,Slovakia,Dai Davies,24.0,True,False,1,2,0,Slovakia,Home,0,0,0
 1981-09-09,Slovakia,Wales,Slovakia,Verner Lička,67.0,False,False,1,2,0,Slovakia,Home,0,0,0
-1981-09-09,Denmark,Serbia and Montenegro,Serbia and Montenegro,Zlatko Vujović,48.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1981-09-09,Denmark,Serbia and Montenegro,Denmark,Preben Elkjær,62.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1981-09-09,Denmark,Serbia and Montenegro,Serbia and Montenegro,Vladimir Petrović,63.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
+1981-09-09,Denmark,Serbia,Serbia,Zlatko Vujović,48.0,False,False,1,1,2,Serbia,Away,0,0,0
+1981-09-09,Denmark,Serbia,Denmark,Preben Elkjær,62.0,False,False,1,1,2,Serbia,Away,0,0,0
+1981-09-09,Denmark,Serbia,Serbia,Vladimir Petrović,63.0,False,False,1,1,2,Serbia,Away,0,0,0
 1981-09-09,Iceland,Turkey,Iceland,Lárus Guðmundsson,21.0,False,False,1,2,0,Iceland,Home,0,0,0
 1981-09-09,Iceland,Turkey,Iceland,Atli Eðvaldsson,65.0,False,False,1,2,0,Iceland,Home,0,0,0
 1981-09-09,Netherlands,Republic of Ireland,Netherlands,Frans Thijssen,11.0,False,False,1,2,2,Tie,Tie,0,1,0
@@ -8917,8 +8917,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1981-10-14,Wales,Iceland,Iceland,Ásgeir Sigurvinsson,47.0,False,False,1,2,2,Tie,Tie,0,0,0
 1981-10-14,Wales,Iceland,Wales,Alan Curtis,54.0,False,False,1,2,2,Tie,Tie,0,0,0
 1981-10-14,Wales,Iceland,Iceland,Ásgeir Sigurvinsson,61.0,False,False,1,2,2,Tie,Tie,0,0,0
-1981-10-17,Serbia and Montenegro,Italy,Serbia and Montenegro,Zlatko Vujović,9.0,False,False,1,1,1,Tie,Tie,0,0,0
-1981-10-17,Serbia and Montenegro,Italy,Italy,Roberto Bettega,33.0,False,False,1,1,1,Tie,Tie,0,0,0
+1981-10-17,Serbia,Italy,Serbia,Zlatko Vujović,9.0,False,False,1,1,1,Tie,Tie,0,0,0
+1981-10-17,Serbia,Italy,Italy,Roberto Bettega,33.0,False,False,1,1,1,Tie,Tie,0,0,0
 1981-10-18,China PR,Kuwait,China PR,Rong Zhixing,24.0,False,False,1,3,0,China PR,Home,0,0,0
 1981-10-18,China PR,Kuwait,China PR,Gu Guangming,28.0,False,False,1,3,0,China PR,Home,0,0,0
 1981-10-18,China PR,Kuwait,China PR,Shen Xiangfu,59.0,False,False,1,3,0,China PR,Home,0,0,0
@@ -8980,11 +8980,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1981-11-18,Russia,Wales,Russia,Yuri Gavrilov,64.0,False,False,1,3,0,Russia,Home,0,0,0
 1981-11-19,China PR,Saudi Arabia,China PR,Huang Xiangdong,24.0,False,False,1,2,0,China PR,Home,0,0,0
 1981-11-19,China PR,Saudi Arabia,China PR,Cai Jinbiao,27.0,False,False,1,2,0,China PR,Home,0,0,0
-1981-11-21,Serbia and Montenegro,Luxembourg,Serbia and Montenegro,Vahid Halilhodžić,1.0,False,False,1,5,0,Serbia and Montenegro,Home,0,0,0
-1981-11-21,Serbia and Montenegro,Luxembourg,Serbia and Montenegro,Vahid Halilhodžić,45.0,False,False,1,5,0,Serbia and Montenegro,Home,0,0,0
-1981-11-21,Serbia and Montenegro,Luxembourg,Serbia and Montenegro,Ivica Šurjak,65.0,False,False,1,5,0,Serbia and Montenegro,Home,0,0,0
-1981-11-21,Serbia and Montenegro,Luxembourg,Serbia and Montenegro,Predrag Pašić,73.0,False,False,1,5,0,Serbia and Montenegro,Home,0,0,0
-1981-11-21,Serbia and Montenegro,Luxembourg,Serbia and Montenegro,Zlatko Vujović,75.0,False,False,1,5,0,Serbia and Montenegro,Home,0,0,0
+1981-11-21,Serbia,Luxembourg,Serbia,Vahid Halilhodžić,1.0,False,False,1,5,0,Serbia,Home,0,0,0
+1981-11-21,Serbia,Luxembourg,Serbia,Vahid Halilhodžić,45.0,False,False,1,5,0,Serbia,Home,0,0,0
+1981-11-21,Serbia,Luxembourg,Serbia,Ivica Šurjak,65.0,False,False,1,5,0,Serbia,Home,0,0,0
+1981-11-21,Serbia,Luxembourg,Serbia,Predrag Pašić,73.0,False,False,1,5,0,Serbia,Home,0,0,0
+1981-11-21,Serbia,Luxembourg,Serbia,Zlatko Vujović,75.0,False,False,1,5,0,Serbia,Home,0,0,0
 1981-11-22,Germany,Bulgaria,Germany,Klaus Fischer,4.0,False,False,1,4,0,Germany,Home,0,1,0
 1981-11-22,Germany,Bulgaria,Germany,Karl-Heinz Rummenigge,49.0,False,False,1,4,0,Germany,Home,0,1,0
 1981-11-22,Germany,Bulgaria,Germany,Manfred Kaltz,62.0,False,True,1,4,0,Germany,Home,1,1,0
@@ -8998,9 +8998,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1981-11-29,Cameroon,Morocco,Cameroon,Roger Milla,47.0,False,False,1,2,1,Cameroon,Home,0,1,1
 1981-11-29,Slovakia,Russia,Russia,Oleg Blokhin,14.0,False,False,1,1,1,Tie,Tie,0,0,0
 1981-11-29,Slovakia,Russia,Slovakia,Rostislav Vojáček,34.0,False,False,1,1,1,Tie,Tie,0,0,0
-1981-11-29,Greece,Serbia and Montenegro,Greece,Thomas Mavros,5.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1981-11-29,Greece,Serbia and Montenegro,Serbia and Montenegro,Ivica Šurjak,22.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1981-11-29,Greece,Serbia and Montenegro,Serbia and Montenegro,Jurica Jerković,39.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
+1981-11-29,Greece,Serbia,Greece,Thomas Mavros,5.0,False,False,1,1,2,Serbia,Away,0,0,0
+1981-11-29,Greece,Serbia,Serbia,Ivica Šurjak,22.0,False,False,1,1,2,Serbia,Away,0,0,0
+1981-11-29,Greece,Serbia,Serbia,Jurica Jerković,39.0,False,False,1,1,2,Serbia,Away,0,0,0
 1981-11-30,Kuwait,China PR,Kuwait,Abdulaziz Al-Anberi,7.0,False,False,1,1,0,Kuwait,Home,0,0,0
 1981-12-05,France,Cyprus,France,Dominique Rocheteau,25.0,False,False,1,4,0,France,Home,0,0,0
 1981-12-05,France,Cyprus,France,Bernard Lacombe,29.0,False,False,1,4,0,France,Home,0,0,0
@@ -9117,9 +9117,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1982-06-20,Germany,Chile,Germany,Karl-Heinz Rummenigge,66.0,False,False,1,4,1,Germany,Home,0,0,0
 1982-06-20,Germany,Chile,Germany,Uwe Reinders,83.0,False,False,1,4,1,Germany,Home,0,0,0
 1982-06-20,Germany,Chile,Chile,Gustavo Moscoso,90.0,False,False,1,4,1,Germany,Home,0,0,0
-1982-06-20,Spain,Serbia and Montenegro,Serbia and Montenegro,Ivan Gudelj,10.0,False,False,1,2,1,Spain,Home,0,1,0
-1982-06-20,Spain,Serbia and Montenegro,Spain,Juanito,14.0,False,True,1,2,1,Spain,Home,1,1,0
-1982-06-20,Spain,Serbia and Montenegro,Spain,Enrique Saura,66.0,False,False,1,2,1,Spain,Home,0,1,0
+1982-06-20,Spain,Serbia,Serbia,Ivan Gudelj,10.0,False,False,1,2,1,Spain,Home,0,1,0
+1982-06-20,Spain,Serbia,Spain,Juanito,14.0,False,True,1,2,1,Spain,Home,1,1,0
+1982-06-20,Spain,Serbia,Spain,Enrique Saura,66.0,False,False,1,2,1,Spain,Home,0,1,0
 1982-06-21,Algeria,Austria,Austria,Walter Schachner,55.0,False,False,1,0,2,Austria,Away,0,0,0
 1982-06-21,Algeria,Austria,Austria,Hans Krankl,67.0,False,False,1,0,2,Austria,Away,0,0,0
 1982-06-21,France,Kuwait,France,Bernard Genghini,31.0,False,False,1,4,1,France,Home,0,0,0
@@ -9156,7 +9156,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1982-06-24,Algeria,Chile,Chile,Juan Carlos Letelier,73.0,False,False,1,3,2,Algeria,Home,0,0,1
 1982-06-24,France,Slovakia,France,Didier Six,66.0,False,False,1,1,1,Tie,Tie,0,0,1
 1982-06-24,France,Slovakia,Slovakia,Antonín Panenka,84.0,False,True,1,1,1,Tie,Tie,1,0,1
-1982-06-24,Honduras,Serbia and Montenegro,Serbia and Montenegro,Vladimir Petrović,88.0,False,True,1,0,1,Serbia and Montenegro,Away,1,0,1
+1982-06-24,Honduras,Serbia,Serbia,Vladimir Petrović,88.0,False,True,1,0,1,Serbia,Away,1,0,1
 1982-06-25,England,Kuwait,England,Trevor Francis,27.0,False,False,1,1,0,England,Home,0,0,0
 1982-06-25,Germany,Austria,Germany,Horst Hrubesch,10.0,False,False,1,1,0,Germany,Home,0,0,0
 1982-06-25,Spain,Northern Ireland,Northern Ireland,Gerry Armstrong,47.0,False,False,1,0,1,Northern Ireland,Away,0,0,0
@@ -9244,10 +9244,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1982-10-10,Portugal,Poland,Poland,Paweł Król,90.0,False,False,1,2,1,Portugal,Home,0,0,0
 1982-10-13,Austria,Northern Ireland,Austria,Walter Schachner,3.0,False,False,1,2,0,Austria,Home,0,0,0
 1982-10-13,Austria,Northern Ireland,Austria,Walter Schachner,39.0,False,False,1,2,0,Austria,Home,0,0,0
-1982-10-13,Norway,Serbia and Montenegro,Norway,Tom Lund,5.0,False,False,1,3,1,Norway,Home,0,0,0
-1982-10-13,Norway,Serbia and Montenegro,Norway,Arne Larsen Økland,67.0,False,False,1,3,1,Norway,Home,0,0,0
-1982-10-13,Norway,Serbia and Montenegro,Serbia and Montenegro,Dušan Savić,74.0,False,False,1,3,1,Norway,Home,0,0,0
-1982-10-13,Norway,Serbia and Montenegro,Norway,Åge Hareide,88.0,False,False,1,3,1,Norway,Home,0,0,0
+1982-10-13,Norway,Serbia,Norway,Tom Lund,5.0,False,False,1,3,1,Norway,Home,0,0,0
+1982-10-13,Norway,Serbia,Norway,Arne Larsen Økland,67.0,False,False,1,3,1,Norway,Home,0,0,0
+1982-10-13,Norway,Serbia,Serbia,Dušan Savić,74.0,False,False,1,3,1,Norway,Home,0,0,0
+1982-10-13,Norway,Serbia,Norway,Åge Hareide,88.0,False,False,1,3,1,Norway,Home,0,0,0
 1982-10-13,Republic of Ireland,Iceland,Republic of Ireland,Frank Stapleton,36.0,False,False,1,2,0,Republic of Ireland,Home,0,0,0
 1982-10-13,Republic of Ireland,Iceland,Republic of Ireland,Tony Grealish,75.0,False,False,1,2,0,Republic of Ireland,Home,0,0,0
 1982-10-13,Russia,Finland,Russia,Sergei Pavlovich Baltacha,2.0,False,False,1,2,0,Russia,Home,0,0,0
@@ -9272,7 +9272,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1982-11-17,Austria,Turkey,Austria,Bruno Pezzey,34.0,False,False,1,4,0,Austria,Home,0,1,0
 1982-11-17,Austria,Turkey,Austria,Herbert Prohaska,38.0,False,True,1,4,0,Austria,Home,1,1,0
 1982-11-17,Austria,Turkey,Austria,Walter Schachner,53.0,False,False,1,4,0,Austria,Home,0,1,0
-1982-11-17,Bulgaria,Serbia and Montenegro,Serbia and Montenegro,Nenad Stojković,36.0,False,False,1,0,1,Serbia and Montenegro,Away,0,0,0
+1982-11-17,Bulgaria,Serbia,Serbia,Nenad Stojković,36.0,False,False,1,0,1,Serbia,Away,0,0,0
 1982-11-17,Greece,England,England,Tony Woodcock,1.0,False,False,1,0,3,England,Away,0,0,0
 1982-11-17,Greece,England,England,Tony Woodcock,64.0,False,False,1,0,3,England,Away,0,0,0
 1982-11-17,Greece,England,England,Sammy Lee,68.0,False,False,1,0,3,England,Away,0,0,0
@@ -9299,14 +9299,14 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1982-12-15,England,Luxembourg,England,Luther Blissett,86.0,False,False,1,9,0,England,Home,0,0,0
 1982-12-15,England,Luxembourg,England,Glenn Hoddle,87.0,False,False,1,9,0,England,Home,0,0,0
 1982-12-15,England,Luxembourg,England,Phil Neal,89.0,False,False,1,9,0,England,Home,0,0,0
-1982-12-15,Serbia and Montenegro,Wales,Wales,Brian Flynn,6.0,False,False,1,4,4,Tie,Tie,0,0,0
-1982-12-15,Serbia and Montenegro,Wales,Serbia and Montenegro,Zvezdan Cvetković,14.0,False,False,1,4,4,Tie,Tie,0,0,0
-1982-12-15,Serbia and Montenegro,Wales,Serbia and Montenegro,Zvonko Živković,17.0,False,False,1,4,4,Tie,Tie,0,0,0
-1982-12-15,Serbia and Montenegro,Wales,Serbia and Montenegro,Zlatko Kranjčar,37.0,False,False,1,4,4,Tie,Tie,0,0,0
-1982-12-15,Serbia and Montenegro,Wales,Wales,Ian Rush,38.0,False,False,1,4,4,Tie,Tie,0,0,0
-1982-12-15,Serbia and Montenegro,Wales,Serbia and Montenegro,Miodrag Ješić,66.0,False,False,1,4,4,Tie,Tie,0,0,0
-1982-12-15,Serbia and Montenegro,Wales,Wales,Joey Jones,70.0,False,False,1,4,4,Tie,Tie,0,0,0
-1982-12-15,Serbia and Montenegro,Wales,Wales,Robbie James,80.0,False,False,1,4,4,Tie,Tie,0,0,0
+1982-12-15,Serbia,Wales,Wales,Brian Flynn,6.0,False,False,1,4,4,Tie,Tie,0,0,0
+1982-12-15,Serbia,Wales,Serbia,Zvezdan Cvetković,14.0,False,False,1,4,4,Tie,Tie,0,0,0
+1982-12-15,Serbia,Wales,Serbia,Zvonko Živković,17.0,False,False,1,4,4,Tie,Tie,0,0,0
+1982-12-15,Serbia,Wales,Serbia,Zlatko Kranjčar,37.0,False,False,1,4,4,Tie,Tie,0,0,0
+1982-12-15,Serbia,Wales,Wales,Ian Rush,38.0,False,False,1,4,4,Tie,Tie,0,0,0
+1982-12-15,Serbia,Wales,Serbia,Miodrag Ješić,66.0,False,False,1,4,4,Tie,Tie,0,0,0
+1982-12-15,Serbia,Wales,Wales,Joey Jones,70.0,False,False,1,4,4,Tie,Tie,0,0,0
+1982-12-15,Serbia,Wales,Wales,Robbie James,80.0,False,False,1,4,4,Tie,Tie,0,0,0
 1982-12-19,Malta,Netherlands,Netherlands,Edo Ophof,22.0,False,True,1,0,6,Netherlands,Away,1,0,1
 1982-12-19,Malta,Netherlands,Netherlands,Kees van Kooten,25.0,False,False,1,0,6,Netherlands,Away,0,0,1
 1982-12-19,Malta,Netherlands,Netherlands,Hugo Hovenkamp,34.0,False,False,1,0,6,Netherlands,Away,0,0,1
@@ -9499,9 +9499,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1983-10-12,Scotland,Belgium,Belgium,Franky Vercauteren,30.0,False,False,1,1,1,Tie,Tie,0,0,0
 1983-10-12,Scotland,Belgium,Scotland,Charlie Nicholas,55.0,False,False,1,1,1,Tie,Tie,0,0,0
 1983-10-12,Turkey,Northern Ireland,Turkey,Selçuk Yula,17.0,False,False,1,1,0,Turkey,Home,0,0,0
-1983-10-12,Serbia and Montenegro,Norway,Serbia and Montenegro,Zlatko Vujović,21.0,False,False,1,2,1,Serbia and Montenegro,Home,0,0,0
-1983-10-12,Serbia and Montenegro,Norway,Serbia and Montenegro,Safet Sušić,40.0,False,False,1,2,1,Serbia and Montenegro,Home,0,0,0
-1983-10-12,Serbia and Montenegro,Norway,Norway,Hallvar Thoresen,89.0,False,False,1,2,1,Serbia and Montenegro,Home,0,0,0
+1983-10-12,Serbia,Norway,Serbia,Zlatko Vujović,21.0,False,False,1,2,1,Serbia,Home,0,0,0
+1983-10-12,Serbia,Norway,Serbia,Safet Sušić,40.0,False,False,1,2,1,Serbia,Home,0,0,0
+1983-10-12,Serbia,Norway,Norway,Hallvar Thoresen,89.0,False,False,1,2,1,Serbia,Home,0,0,0
 1983-10-13,Paraguay,Brazil,Paraguay,Milciades Morel,70.0,False,False,1,1,1,Tie,Tie,0,0,0
 1983-10-13,Paraguay,Brazil,Brazil,Éder Aleixo de Assis,88.0,False,False,1,1,1,Tie,Tie,0,0,0
 1983-10-13,Peru,Uruguay,Uruguay,Carlos Aguilera,65.0,False,False,1,0,1,Uruguay,Away,0,0,0
@@ -9566,8 +9566,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1983-12-03,Greece,Hungary,Hungary,András Törőcsik,40.0,False,False,1,2,2,Tie,Tie,0,0,0
 1983-12-03,Greece,Hungary,Greece,Nikos Anastopoulos,55.0,False,False,1,2,2,Tie,Tie,0,0,0
 1983-12-14,Greece,Luxembourg,Greece,Dimitris Saravakos,18.0,False,False,1,1,0,Greece,Home,0,0,0
-1983-12-14,Wales,Serbia and Montenegro,Wales,Robbie James,54.0,False,False,1,1,1,Tie,Tie,0,0,0
-1983-12-14,Wales,Serbia and Montenegro,Serbia and Montenegro,Mehmed Baždarević,81.0,False,False,1,1,1,Tie,Tie,0,0,0
+1983-12-14,Wales,Serbia,Wales,Robbie James,54.0,False,False,1,1,1,Tie,Tie,0,0,0
+1983-12-14,Wales,Serbia,Serbia,Mehmed Baždarević,81.0,False,False,1,1,1,Tie,Tie,0,0,0
 1983-12-17,Netherlands,Malta,Netherlands,Gerald Vanenburg,19.0,False,False,1,5,0,Netherlands,Home,0,0,0
 1983-12-17,Netherlands,Malta,Netherlands,Ben Wijnstekers,30.0,False,False,1,5,0,Netherlands,Home,0,0,0
 1983-12-17,Netherlands,Malta,Netherlands,Frank Rijkaard,74.0,False,False,1,5,0,Netherlands,Home,0,0,0
@@ -9586,11 +9586,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1983-12-21,Spain,Malta,Spain,Hipólito Rincón,78.0,False,False,1,12,1,Spain,Home,0,0,0
 1983-12-21,Spain,Malta,Spain,Manuel Sarabia,79.0,False,False,1,12,1,Spain,Home,0,0,0
 1983-12-21,Spain,Malta,Spain,Juan Antonio Señor,84.0,False,False,1,12,1,Spain,Home,0,0,0
-1983-12-21,Serbia and Montenegro,Bulgaria,Bulgaria,Bozhidar Iskrenov,28.0,False,False,1,3,2,Serbia and Montenegro,Home,0,0,0
-1983-12-21,Serbia and Montenegro,Bulgaria,Serbia and Montenegro,Safet Sušić,31.0,False,False,1,3,2,Serbia and Montenegro,Home,0,0,0
-1983-12-21,Serbia and Montenegro,Bulgaria,Serbia and Montenegro,Safet Sušić,53.0,False,False,1,3,2,Serbia and Montenegro,Home,0,0,0
-1983-12-21,Serbia and Montenegro,Bulgaria,Bulgaria,Georgi Dimitrov,60.0,False,False,1,3,2,Serbia and Montenegro,Home,0,0,0
-1983-12-21,Serbia and Montenegro,Bulgaria,Serbia and Montenegro,Ljubomir Radanović,90.0,False,False,1,3,2,Serbia and Montenegro,Home,0,0,0
+1983-12-21,Serbia,Bulgaria,Bulgaria,Bozhidar Iskrenov,28.0,False,False,1,3,2,Serbia,Home,0,0,0
+1983-12-21,Serbia,Bulgaria,Serbia,Safet Sušić,31.0,False,False,1,3,2,Serbia,Home,0,0,0
+1983-12-21,Serbia,Bulgaria,Serbia,Safet Sušić,53.0,False,False,1,3,2,Serbia,Home,0,0,0
+1983-12-21,Serbia,Bulgaria,Bulgaria,Georgi Dimitrov,60.0,False,False,1,3,2,Serbia,Home,0,0,0
+1983-12-21,Serbia,Bulgaria,Serbia,Ljubomir Radanović,90.0,False,False,1,3,2,Serbia,Home,0,0,0
 1983-12-22,Italy,Cyprus,Italy,Alessandro Altobelli,53.0,False,False,1,3,1,Italy,Home,0,1,1
 1983-12-22,Italy,Cyprus,Cyprus,Marios Tsingis,68.0,False,True,1,3,1,Italy,Home,1,1,1
 1983-12-22,Italy,Cyprus,Italy,Antonio Cabrini,82.0,False,False,1,3,1,Italy,Home,0,1,1
@@ -9643,15 +9643,15 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1984-05-23,Sweden,Malta,Sweden,Thomas Sunesson,75.0,False,False,1,4,0,Sweden,Home,0,1,0
 1984-05-27,Finland,Northern Ireland,Finland,Ari Valvee,55.0,False,False,1,1,0,Finland,Home,0,0,0
 1984-06-12,France,Denmark,France,Michel Platini,78.0,False,False,1,1,0,France,Home,0,0,0
-1984-06-13,Belgium,Serbia and Montenegro,Belgium,Erwin Vandenbergh,28.0,False,False,1,2,0,Belgium,Home,0,0,0
-1984-06-13,Belgium,Serbia and Montenegro,Belgium,Georges Grün,45.0,False,False,1,2,0,Belgium,Home,0,0,0
+1984-06-13,Belgium,Serbia,Belgium,Erwin Vandenbergh,28.0,False,False,1,2,0,Belgium,Home,0,0,0
+1984-06-13,Belgium,Serbia,Belgium,Georges Grün,45.0,False,False,1,2,0,Belgium,Home,0,0,0
 1984-06-14,Romania,Spain,Spain,Francisco José Carrasco,22.0,False,True,1,1,1,Tie,Tie,1,0,1
 1984-06-14,Romania,Spain,Romania,László Bölöni,35.0,False,False,1,1,1,Tie,Tie,0,0,1
-1984-06-16,Denmark,Serbia and Montenegro,Denmark,Frank Arnesen,8.0,False,False,1,5,0,Denmark,Home,0,1,0
-1984-06-16,Denmark,Serbia and Montenegro,Denmark,Klaus Berggreen,16.0,False,False,1,5,0,Denmark,Home,0,1,0
-1984-06-16,Denmark,Serbia and Montenegro,Denmark,Frank Arnesen,69.0,False,True,1,5,0,Denmark,Home,1,1,0
-1984-06-16,Denmark,Serbia and Montenegro,Denmark,Preben Elkjær,82.0,False,False,1,5,0,Denmark,Home,0,1,0
-1984-06-16,Denmark,Serbia and Montenegro,Denmark,John Lauridsen,84.0,False,False,1,5,0,Denmark,Home,0,1,0
+1984-06-16,Denmark,Serbia,Denmark,Frank Arnesen,8.0,False,False,1,5,0,Denmark,Home,0,1,0
+1984-06-16,Denmark,Serbia,Denmark,Klaus Berggreen,16.0,False,False,1,5,0,Denmark,Home,0,1,0
+1984-06-16,Denmark,Serbia,Denmark,Frank Arnesen,69.0,False,True,1,5,0,Denmark,Home,1,1,0
+1984-06-16,Denmark,Serbia,Denmark,Preben Elkjær,82.0,False,False,1,5,0,Denmark,Home,0,1,0
+1984-06-16,Denmark,Serbia,Denmark,John Lauridsen,84.0,False,False,1,5,0,Denmark,Home,0,1,0
 1984-06-16,France,Belgium,France,Michel Platini,4.0,False,False,1,5,0,France,Home,0,1,0
 1984-06-16,France,Belgium,France,Alain Giresse,33.0,False,False,1,5,0,France,Home,0,1,0
 1984-06-16,France,Belgium,France,Luis Fernández,43.0,False,False,1,5,0,France,Home,0,1,0
@@ -9667,11 +9667,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1984-06-19,Denmark,Belgium,Denmark,Frank Arnesen,41.0,False,True,1,3,2,Denmark,Home,1,1,0
 1984-06-19,Denmark,Belgium,Denmark,Kenneth Brylle Larsen,60.0,False,False,1,3,2,Denmark,Home,0,1,0
 1984-06-19,Denmark,Belgium,Denmark,Preben Elkjær,84.0,False,False,1,3,2,Denmark,Home,0,1,0
-1984-06-19,France,Serbia and Montenegro,Serbia and Montenegro,Miloš Šestić,32.0,False,False,1,3,2,France,Home,0,0,1
-1984-06-19,France,Serbia and Montenegro,France,Michel Platini,59.0,False,False,1,3,2,France,Home,0,0,1
-1984-06-19,France,Serbia and Montenegro,France,Michel Platini,62.0,False,False,1,3,2,France,Home,0,0,1
-1984-06-19,France,Serbia and Montenegro,France,Michel Platini,77.0,False,False,1,3,2,France,Home,0,0,1
-1984-06-19,France,Serbia and Montenegro,Serbia and Montenegro,Dragan Stojković,84.0,False,True,1,3,2,France,Home,1,0,1
+1984-06-19,France,Serbia,Serbia,Miloš Šestić,32.0,False,False,1,3,2,France,Home,0,0,1
+1984-06-19,France,Serbia,France,Michel Platini,59.0,False,False,1,3,2,France,Home,0,0,1
+1984-06-19,France,Serbia,France,Michel Platini,62.0,False,False,1,3,2,France,Home,0,0,1
+1984-06-19,France,Serbia,France,Michel Platini,77.0,False,False,1,3,2,France,Home,0,0,1
+1984-06-19,France,Serbia,Serbia,Dragan Stojković,84.0,False,True,1,3,2,France,Home,1,0,1
 1984-06-20,Germany,Spain,Spain,Antonio Maceda,90.0,False,False,1,0,1,Spain,Away,0,0,0
 1984-06-20,Portugal,Romania,Portugal,Nené,81.0,False,False,1,1,0,Portugal,Home,0,0,0
 1984-06-23,France,Portugal,France,Jean-François Domergue,24.0,False,False,1,3,2,France,Home,0,0,0
@@ -9756,11 +9756,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1984-10-17,Spain,Wales,Spain,Francisco José Carrasco,83.0,False,False,1,3,0,Spain,Home,0,0,0
 1984-10-17,Spain,Wales,Spain,Emilio Butragueño,89.0,False,False,1,3,0,Spain,Home,0,0,0
 1984-10-17,Switzerland,Denmark,Switzerland,Umberto Barberis,42.0,False,False,1,1,0,Switzerland,Home,0,0,0
-1984-10-20,Germany,Serbia and Montenegro,Germany,Michael Glowatzky,11.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,0
-1984-10-20,Germany,Serbia and Montenegro,Serbia and Montenegro,Mehmed Baždarević,30.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,0
-1984-10-20,Germany,Serbia and Montenegro,Serbia and Montenegro,Fadil Vokrri,48.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,0
-1984-10-20,Germany,Serbia and Montenegro,Germany,Rainer Ernst,50.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,0
-1984-10-20,Germany,Serbia and Montenegro,Serbia and Montenegro,Miloš Šestić,80.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,0
+1984-10-20,Germany,Serbia,Germany,Michael Glowatzky,11.0,False,False,1,2,3,Serbia,Away,0,0,0
+1984-10-20,Germany,Serbia,Serbia,Mehmed Baždarević,30.0,False,False,1,2,3,Serbia,Away,0,0,0
+1984-10-20,Germany,Serbia,Serbia,Fadil Vokrri,48.0,False,False,1,2,3,Serbia,Away,0,0,0
+1984-10-20,Germany,Serbia,Germany,Rainer Ernst,50.0,False,False,1,2,3,Serbia,Away,0,0,0
+1984-10-20,Germany,Serbia,Serbia,Miloš Šestić,80.0,False,False,1,2,3,Serbia,Away,0,0,0
 1984-10-20,Nigeria,Liberia,Nigeria,Humphrey Edobor,7.0,False,False,1,3,0,Nigeria,Home,0,0,0
 1984-10-20,Nigeria,Liberia,Nigeria,Humphrey Edobor,15.0,False,False,1,3,0,Nigeria,Home,0,0,0
 1984-10-20,Nigeria,Liberia,Nigeria,Ademola Adeshina,78.0,False,False,1,3,0,Nigeria,Home,0,0,0
@@ -9987,7 +9987,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1985-03-27,Germany,Malta,Germany,Karl-Heinz Rummenigge,43.0,False,False,1,6,0,Germany,Home,0,0,0
 1985-03-27,Germany,Malta,Germany,Karl-Heinz Rummenigge,67.0,False,False,1,6,0,Germany,Home,0,0,0
 1985-03-27,Scotland,Wales,Wales,Ian Rush,37.0,False,False,1,0,1,Wales,Away,0,0,0
-1985-03-27,Serbia and Montenegro,Luxembourg,Serbia and Montenegro,Ivan Gudelj,27.0,False,False,1,1,0,Serbia and Montenegro,Home,0,0,0
+1985-03-27,Serbia,Luxembourg,Serbia,Ivan Gudelj,27.0,False,False,1,1,0,Serbia,Home,0,0,0
 1985-03-29,Jordan,Iraq,Jordan,Rateb Al-Dawud,,False,False,1,2,3,Iraq,Away,0,0,0
 1985-03-29,Jordan,Iraq,Jordan,Jamal Abu Abed,,False,False,1,2,3,Iraq,Away,0,0,0
 1985-03-29,Jordan,Iraq,Iraq,Wamidh Munir,,False,False,1,2,3,Iraq,Away,0,0,0
@@ -10114,7 +10114,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1985-04-30,Wales,Spain,Wales,Ian Rush,86.0,False,False,1,3,0,Wales,Home,0,0,0
 1985-05-01,Belgium,Poland,Belgium,Erwin Vandenbergh,30.0,False,False,1,2,0,Belgium,Home,0,0,0
 1985-05-01,Belgium,Poland,Belgium,Franky Vercauteren,53.0,False,False,1,2,0,Belgium,Home,0,0,0
-1985-05-01,Luxembourg,Serbia and Montenegro,Serbia and Montenegro,Fadil Vokrri,89.0,False,False,1,0,1,Serbia and Montenegro,Away,0,0,0
+1985-05-01,Luxembourg,Serbia,Serbia,Fadil Vokrri,89.0,False,False,1,0,1,Serbia,Away,0,0,0
 1985-05-01,Netherlands,Austria,Netherlands,Wim Kieft,55.0,False,False,1,1,1,Tie,Tie,0,0,0
 1985-05-01,Netherlands,Austria,Austria,Walter Schachner,60.0,False,False,1,1,1,Tie,Tie,0,0,0
 1985-05-01,Northern Ireland,Turkey,Northern Ireland,Norman Whiteside,4.0,False,False,1,2,0,Northern Ireland,Home,0,0,0
@@ -10174,9 +10174,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1985-05-26,Venezuela,Argentina,Venezuela,Herbert Marquez,58.0,False,False,1,2,3,Argentina,Away,0,0,0
 1985-05-28,Iceland,Scotland,Scotland,Jim Bett,86.0,False,False,1,0,1,Scotland,Away,0,0,0
 1985-05-30,Albania,Poland,Poland,Zbigniew Boniek,24.0,False,False,1,0,1,Poland,Away,0,0,0
-1985-06-01,Bulgaria,Serbia and Montenegro,Bulgaria,Plamen Getov,27.0,False,False,1,2,1,Bulgaria,Home,0,0,0
-1985-06-01,Bulgaria,Serbia and Montenegro,Serbia and Montenegro,Milko Djurovski,29.0,False,False,1,2,1,Bulgaria,Home,0,0,0
-1985-06-01,Bulgaria,Serbia and Montenegro,Bulgaria,Plamen Getov,58.0,False,False,1,2,1,Bulgaria,Home,0,0,0
+1985-06-01,Bulgaria,Serbia,Bulgaria,Plamen Getov,27.0,False,False,1,2,1,Bulgaria,Home,0,0,0
+1985-06-01,Bulgaria,Serbia,Serbia,Milko Djurovski,29.0,False,False,1,2,1,Bulgaria,Home,0,0,0
+1985-06-01,Bulgaria,Serbia,Bulgaria,Plamen Getov,58.0,False,False,1,2,1,Bulgaria,Home,0,0,0
 1985-06-02,Bolivia,Brazil,Brazil,Walter Casagrande,56.0,False,False,1,0,2,Brazil,Away,0,0,0
 1985-06-02,Bolivia,Brazil,Brazil,Miguel Ángel Noro,59.0,True,False,1,0,2,Brazil,Away,0,0,0
 1985-06-02,Colombia,Argentina,Argentina,Pedro Pasculli,43.0,False,False,1,1,3,Argentina,Away,0,0,0
@@ -10298,9 +10298,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1985-09-27,Iraq,United Arab Emirates,United Arab Emirates,Fahad Khamees,2.0,False,False,1,1,2,United Arab Emirates,Away,0,0,0
 1985-09-27,Iraq,United Arab Emirates,United Arab Emirates,Adnan Al Talyani,60.0,False,False,1,1,2,United Arab Emirates,Away,0,0,0
 1985-09-27,Iraq,United Arab Emirates,Iraq,Karim Saddam,88.0,False,False,1,1,2,United Arab Emirates,Away,0,0,0
-1985-09-28,Serbia and Montenegro,Germany,Germany,Andreas Thom,47.0,False,False,1,1,2,Germany,Away,0,0,0
-1985-09-28,Serbia and Montenegro,Germany,Germany,Andreas Thom,59.0,False,False,1,1,2,Germany,Away,0,0,0
-1985-09-28,Serbia and Montenegro,Germany,Serbia and Montenegro,Haris Škoro,83.0,False,False,1,1,2,Germany,Away,0,0,0
+1985-09-28,Serbia,Germany,Germany,Andreas Thom,47.0,False,False,1,1,2,Germany,Away,0,0,0
+1985-09-28,Serbia,Germany,Germany,Andreas Thom,59.0,False,False,1,1,2,Germany,Away,0,0,0
+1985-09-28,Serbia,Germany,Serbia,Haris Škoro,83.0,False,False,1,1,2,Germany,Away,0,0,0
 1985-10-05,New Zealand,Taiwan,New Zealand,Declan Edge,13.0,False,False,1,5,1,New Zealand,Home,0,0,0
 1985-10-05,New Zealand,Taiwan,New Zealand,Colin Walker,25.0,False,False,1,5,1,New Zealand,Home,0,0,0
 1985-10-05,New Zealand,Taiwan,New Zealand,Steve Sumner,31.0,False,False,1,5,1,New Zealand,Home,0,0,0
@@ -10400,8 +10400,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1985-11-03,Colombia,Paraguay,Colombia,Willington Ortiz,88.0,False,False,1,2,1,Colombia,Home,0,0,0
 1985-11-03,Peru,Chile,Chile,Jorge Orlando Aravena Plaza,64.0,False,False,1,0,1,Chile,Away,0,0,0
 1985-11-03,South Korea,Japan,South Korea,Huh Jung-Moo,61.0,False,False,1,1,0,South Korea,Home,0,0,0
-1985-11-06,France,Serbia and Montenegro,France,Michel Platini,2.0,False,False,1,2,0,France,Home,0,0,0
-1985-11-06,France,Serbia and Montenegro,France,Michel Platini,71.0,False,False,1,2,0,France,Home,0,0,0
+1985-11-06,France,Serbia,France,Michel Platini,2.0,False,False,1,2,0,France,Home,0,0,0
+1985-11-06,France,Serbia,France,Michel Platini,71.0,False,False,1,2,0,France,Home,0,0,0
 1985-11-10,Israel,New Zealand,Israel,Nissim Cohen,67.0,False,False,1,3,0,Israel,Home,0,0,0
 1985-11-10,Israel,New Zealand,Israel,Moshe Selecter,75.0,False,False,1,3,0,Israel,Home,0,0,0
 1985-11-10,Israel,New Zealand,Israel,Zahi Armeli,85.0,False,False,1,3,0,Israel,Home,0,0,0
@@ -10651,12 +10651,12 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1986-10-29,Russia,Norway,Russia,Vagiz Khidiyatullin,54.0,False,False,1,4,0,Russia,Home,0,1,0
 1986-10-29,Switzerland,Portugal,Switzerland,Georges Bregy,6.0,False,False,1,1,1,Tie,Tie,0,0,0
 1986-10-29,Switzerland,Portugal,Portugal,Manuel Fernandes,85.0,False,False,1,1,1,Tie,Tie,0,0,0
-1986-10-29,Serbia and Montenegro,Turkey,Serbia and Montenegro,Zlatko Vujović,25.0,False,False,1,4,0,Serbia and Montenegro,Home,0,0,0
-1986-10-29,Serbia and Montenegro,Turkey,Serbia and Montenegro,Zlatko Vujović,33.0,False,False,1,4,0,Serbia and Montenegro,Home,0,0,0
-1986-10-29,Serbia and Montenegro,Turkey,Serbia and Montenegro,Dejan Savićević,73.0,False,False,1,4,0,Serbia and Montenegro,Home,0,0,0
-1986-10-29,Serbia and Montenegro,Turkey,Serbia and Montenegro,Zlatko Vujović,83.0,False,False,1,4,0,Serbia and Montenegro,Home,0,0,0
-1986-11-12,England,Serbia and Montenegro,England,Gary Mabbutt,21.0,False,False,1,2,0,England,Home,0,0,0
-1986-11-12,England,Serbia and Montenegro,England,Viv Anderson,57.0,False,False,1,2,0,England,Home,0,0,0
+1986-10-29,Serbia,Turkey,Serbia,Zlatko Vujović,25.0,False,False,1,4,0,Serbia,Home,0,0,0
+1986-10-29,Serbia,Turkey,Serbia,Zlatko Vujović,33.0,False,False,1,4,0,Serbia,Home,0,0,0
+1986-10-29,Serbia,Turkey,Serbia,Dejan Savićević,73.0,False,False,1,4,0,Serbia,Home,0,0,0
+1986-10-29,Serbia,Turkey,Serbia,Zlatko Vujović,83.0,False,False,1,4,0,Serbia,Home,0,0,0
+1986-11-12,England,Serbia,England,Gary Mabbutt,21.0,False,False,1,2,0,England,Home,0,0,0
+1986-11-12,England,Serbia,England,Viv Anderson,57.0,False,False,1,2,0,England,Home,0,0,0
 1986-11-12,Greece,Hungary,Greece,Tasos Mitropoulos,38.0,False,False,1,2,1,Greece,Home,0,0,0
 1986-11-12,Greece,Hungary,Greece,Nikos Anastopoulos,65.0,False,False,1,2,1,Greece,Home,0,0,0
 1986-11-12,Greece,Hungary,Hungary,Imre Boda,73.0,False,False,1,2,1,Greece,Home,0,0,0
@@ -10744,9 +10744,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1987-04-29,Greece,Poland,Greece,Dimitris Saravakos,57.0,False,False,1,1,0,Greece,Home,0,0,0
 1987-04-29,Netherlands,Hungary,Netherlands,Ruud Gullit,37.0,False,False,1,2,0,Netherlands,Home,0,0,0
 1987-04-29,Netherlands,Hungary,Netherlands,Arnold Mühren,40.0,False,False,1,2,0,Netherlands,Home,0,0,0
-1987-04-29,Northern Ireland,Serbia and Montenegro,Northern Ireland,Colin Clarke,40.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1987-04-29,Northern Ireland,Serbia and Montenegro,Serbia and Montenegro,Dragan Stojković,47.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1987-04-29,Northern Ireland,Serbia and Montenegro,Serbia and Montenegro,Zlatko Vujović,80.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
+1987-04-29,Northern Ireland,Serbia,Northern Ireland,Colin Clarke,40.0,False,False,1,1,2,Serbia,Away,0,0,0
+1987-04-29,Northern Ireland,Serbia,Serbia,Dragan Stojković,47.0,False,False,1,1,2,Serbia,Away,0,0,0
+1987-04-29,Northern Ireland,Serbia,Serbia,Zlatko Vujović,80.0,False,False,1,1,2,Serbia,Away,0,0,0
 1987-04-29,Romania,Spain,Romania,Victor Pițurcă,38.0,False,False,1,3,1,Romania,Home,0,0,0
 1987-04-29,Romania,Spain,Romania,Dorin Mateuț,45.0,False,False,1,3,1,Romania,Home,0,0,0
 1987-04-29,Romania,Spain,Romania,Nicolae Ungureanu,48.0,False,False,1,3,1,Romania,Home,0,0,0
@@ -10866,9 +10866,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1987-10-14,Scotland,Belgium,Scotland,Paul McStay,79.0,False,False,1,2,0,Scotland,Home,0,0,0
 1987-10-14,Spain,Austria,Spain,Míchel,58.0,False,False,1,2,0,Spain,Home,0,0,0
 1987-10-14,Spain,Austria,Spain,Manuel Sanchís Hontiyuelo,64.0,False,False,1,2,0,Spain,Home,0,0,0
-1987-10-14,Serbia and Montenegro,Northern Ireland,Serbia and Montenegro,Fadil Vokrri,12.0,False,False,1,3,0,Serbia and Montenegro,Home,0,0,0
-1987-10-14,Serbia and Montenegro,Northern Ireland,Serbia and Montenegro,Fadil Vokrri,34.0,False,False,1,3,0,Serbia and Montenegro,Home,0,0,0
-1987-10-14,Serbia and Montenegro,Northern Ireland,Serbia and Montenegro,Faruk Hadžibegić,74.0,False,False,1,3,0,Serbia and Montenegro,Home,0,0,0
+1987-10-14,Serbia,Northern Ireland,Serbia,Fadil Vokrri,12.0,False,False,1,3,0,Serbia,Home,0,0,0
+1987-10-14,Serbia,Northern Ireland,Serbia,Fadil Vokrri,34.0,False,False,1,3,0,Serbia,Home,0,0,0
+1987-10-14,Serbia,Northern Ireland,Serbia,Faruk Hadžibegić,74.0,False,False,1,3,0,Serbia,Home,0,0,0
 1987-10-28,Albania,Romania,Romania,Michael Klein,61.0,False,False,1,0,1,Romania,Away,0,0,0
 1987-10-28,Germany,Norway,Germany,Ulf Kirsten,14.0,False,False,1,3,1,Germany,Home,0,0,0
 1987-10-28,Germany,Norway,Norway,Jan Kristian Fjærestad,32.0,False,False,1,3,1,Germany,Home,0,0,0
@@ -10892,11 +10892,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1987-11-11,Slovakia,Wales,Slovakia,Ivo Knoflíček,32.0,False,False,1,2,0,Slovakia,Home,0,0,0
 1987-11-11,Slovakia,Wales,Slovakia,Michal Bílek,89.0,False,False,1,2,0,Slovakia,Home,0,0,0
 1987-11-11,Northern Ireland,Turkey,Northern Ireland,Jimmy Quinn,47.0,False,False,1,1,0,Northern Ireland,Home,0,0,0
-1987-11-11,Serbia and Montenegro,England,England,Peter Beardsley,3.0,False,False,1,1,4,England,Away,0,0,0
-1987-11-11,Serbia and Montenegro,England,England,John Barnes,17.0,False,False,1,1,4,England,Away,0,0,0
-1987-11-11,Serbia and Montenegro,England,England,Bryan Robson,20.0,False,False,1,1,4,England,Away,0,0,0
-1987-11-11,Serbia and Montenegro,England,England,Tony Adams,25.0,False,False,1,1,4,England,Away,0,0,0
-1987-11-11,Serbia and Montenegro,England,Serbia and Montenegro,Srečko Katanec,80.0,False,False,1,1,4,England,Away,0,0,0
+1987-11-11,Serbia,England,England,Peter Beardsley,3.0,False,False,1,1,4,England,Away,0,0,0
+1987-11-11,Serbia,England,England,John Barnes,17.0,False,False,1,1,4,England,Away,0,0,0
+1987-11-11,Serbia,England,England,Bryan Robson,20.0,False,False,1,1,4,England,Away,0,0,0
+1987-11-11,Serbia,England,England,Tony Adams,25.0,False,False,1,1,4,England,Away,0,0,0
+1987-11-11,Serbia,England,Serbia,Srečko Katanec,80.0,False,False,1,1,4,England,Away,0,0,0
 1987-11-14,Italy,Sweden,Italy,Gianluca Vialli,27.0,False,False,1,2,1,Italy,Home,0,0,0
 1987-11-14,Italy,Sweden,Sweden,Peter Larsson,38.0,False,False,1,2,1,Italy,Home,0,0,0
 1987-11-14,Italy,Sweden,Italy,Gianluca Vialli,47.0,False,False,1,2,1,Italy,Home,0,0,0
@@ -10919,11 +10919,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1987-12-16,Greece,Netherlands,Netherlands,Ronald Koeman,18.0,False,False,1,0,3,Netherlands,Away,0,0,0
 1987-12-16,Greece,Netherlands,Netherlands,Hans Gillhaus,76.0,False,False,1,0,3,Netherlands,Away,0,0,0
 1987-12-16,Greece,Netherlands,Netherlands,Hans Gillhaus,81.0,False,False,1,0,3,Netherlands,Away,0,0,0
-1987-12-16,Turkey,Serbia and Montenegro,Serbia and Montenegro,Ljubomir Radanović,5.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,1
-1987-12-16,Turkey,Serbia and Montenegro,Serbia and Montenegro,Srečko Katanec,40.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,1
-1987-12-16,Turkey,Serbia and Montenegro,Serbia and Montenegro,Faruk Hadžibegić,54.0,False,True,1,2,3,Serbia and Montenegro,Away,1,0,1
-1987-12-16,Turkey,Serbia and Montenegro,Turkey,Yusuf Altıntaş,68.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,1
-1987-12-16,Turkey,Serbia and Montenegro,Turkey,Feyyaz Uçar,73.0,False,False,1,2,3,Serbia and Montenegro,Away,0,0,1
+1987-12-16,Turkey,Serbia,Serbia,Ljubomir Radanović,5.0,False,False,1,2,3,Serbia,Away,0,0,1
+1987-12-16,Turkey,Serbia,Serbia,Srečko Katanec,40.0,False,False,1,2,3,Serbia,Away,0,0,1
+1987-12-16,Turkey,Serbia,Serbia,Faruk Hadžibegić,54.0,False,True,1,2,3,Serbia,Away,1,0,1
+1987-12-16,Turkey,Serbia,Turkey,Yusuf Altıntaş,68.0,False,False,1,2,3,Serbia,Away,0,0,1
+1987-12-16,Turkey,Serbia,Turkey,Feyyaz Uçar,73.0,False,False,1,2,3,Serbia,Away,0,0,1
 1987-12-20,Malta,Portugal,Portugal,Frederico Rosa,74.0,False,False,1,0,1,Portugal,Away,0,0,0
 1988-03-13,Algeria,Côte d'Ivoire,Algeria,Lakhdar Belloumi,16.0,False,False,1,1,1,Tie,Tie,0,0,0
 1988-03-13,Algeria,Côte d'Ivoire,Côte d'Ivoire,Abdoulaye Traoré,48.0,False,False,1,1,1,Tie,Tie,0,0,0
@@ -11038,8 +11038,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1988-10-19,Poland,Albania,Poland,Krzysztof Warzycha,78.0,False,False,1,1,0,Poland,Home,0,0,0
 1988-10-19,Russia,Austria,Russia,Oleksiy Mykhaylychenko,46.0,False,False,1,2,0,Russia,Home,0,0,0
 1988-10-19,Russia,Austria,Russia,Oleksandr Zavarov,68.0,False,False,1,2,0,Russia,Home,0,0,0
-1988-10-19,Scotland,Serbia and Montenegro,Scotland,Mo Johnston,19.0,False,False,1,1,1,Tie,Tie,0,0,0
-1988-10-19,Scotland,Serbia and Montenegro,Serbia and Montenegro,Srečko Katanec,37.0,False,False,1,1,1,Tie,Tie,0,0,0
+1988-10-19,Scotland,Serbia,Scotland,Mo Johnston,19.0,False,False,1,1,1,Tie,Tie,0,0,0
+1988-10-19,Scotland,Serbia,Serbia,Srečko Katanec,37.0,False,False,1,1,1,Tie,Tie,0,0,0
 1988-10-19,Wales,Finland,Finland,Kari Ukkonen,9.0,False,False,1,2,2,Tie,Tie,0,1,0
 1988-10-19,Wales,Finland,Wales,Dean Saunders,16.0,False,True,1,2,2,Tie,Tie,1,1,0
 1988-10-19,Wales,Finland,Wales,Aki Lahtinen,40.0,True,False,1,2,2,Tie,Tie,0,1,0
@@ -11068,11 +11068,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1988-11-16,Portugal,Luxembourg,Portugal,Fernando Gomes,31.0,False,False,1,1,0,Portugal,Home,0,0,0
 1988-11-16,Spain,Republic of Ireland,Spain,Manolo,52.0,False,False,1,2,0,Spain,Home,0,0,0
 1988-11-16,Spain,Republic of Ireland,Spain,Emilio Butragueño,66.0,False,False,1,2,0,Spain,Home,0,0,0
-1988-11-19,Serbia and Montenegro,France,France,Christian Perez,3.0,False,False,1,3,2,Serbia and Montenegro,Home,0,0,0
-1988-11-19,Serbia and Montenegro,France,Serbia and Montenegro,Predrag Spasić,11.0,False,False,1,3,2,Serbia and Montenegro,Home,0,0,0
-1988-11-19,Serbia and Montenegro,France,France,Franck Sauzée,68.0,False,False,1,3,2,Serbia and Montenegro,Home,0,0,0
-1988-11-19,Serbia and Montenegro,France,Serbia and Montenegro,Safet Sušić,76.0,False,False,1,3,2,Serbia and Montenegro,Home,0,0,0
-1988-11-19,Serbia and Montenegro,France,Serbia and Montenegro,Dragan Stojković,82.0,False,False,1,3,2,Serbia and Montenegro,Home,0,0,0
+1988-11-19,Serbia,France,France,Christian Perez,3.0,False,False,1,3,2,Serbia,Home,0,0,0
+1988-11-19,Serbia,France,Serbia,Predrag Spasić,11.0,False,False,1,3,2,Serbia,Home,0,0,0
+1988-11-19,Serbia,France,France,Franck Sauzée,68.0,False,False,1,3,2,Serbia,Home,0,0,0
+1988-11-19,Serbia,France,Serbia,Safet Sušić,76.0,False,False,1,3,2,Serbia,Home,0,0,0
+1988-11-19,Serbia,France,Serbia,Dragan Stojković,82.0,False,False,1,3,2,Serbia,Home,0,0,0
 1988-11-26,Fiji,Australia,Fiji,Ravuame Madigi,66.0,False,False,1,1,0,Fiji,Home,0,0,0
 1988-11-30,Turkey,Germany,Turkey,Tanju Çolak,23.0,False,False,1,3,1,Turkey,Home,0,0,0
 1988-11-30,Turkey,Germany,Turkey,Tanju Çolak,63.0,False,False,1,3,1,Turkey,Home,0,0,0
@@ -11124,10 +11124,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1988-12-11,South Korea,Iran,South Korea,Byun Byung-joo,26.0,False,False,1,3,0,South Korea,Home,0,0,0
 1988-12-11,South Korea,Iran,South Korea,Hwang Sun-hong,42.0,False,False,1,3,0,South Korea,Home,0,0,0
 1988-12-11,South Korea,Iran,South Korea,Byun Byung-joo,57.0,False,False,1,3,0,South Korea,Home,0,0,0
-1988-12-11,Serbia and Montenegro,Cyprus,Serbia and Montenegro,Dejan Savićević,13.0,False,False,1,4,0,Serbia and Montenegro,Home,0,1,0
-1988-12-11,Serbia and Montenegro,Cyprus,Serbia and Montenegro,Dejan Savićević,33.0,False,False,1,4,0,Serbia and Montenegro,Home,0,1,0
-1988-12-11,Serbia and Montenegro,Cyprus,Serbia and Montenegro,Faruk Hadžibegić,44.0,False,True,1,4,0,Serbia and Montenegro,Home,1,1,0
-1988-12-11,Serbia and Montenegro,Cyprus,Serbia and Montenegro,Dejan Savićević,82.0,False,False,1,4,0,Serbia and Montenegro,Home,0,1,0
+1988-12-11,Serbia,Cyprus,Serbia,Dejan Savićević,13.0,False,False,1,4,0,Serbia,Home,0,1,0
+1988-12-11,Serbia,Cyprus,Serbia,Dejan Savićević,33.0,False,False,1,4,0,Serbia,Home,0,1,0
+1988-12-11,Serbia,Cyprus,Serbia,Faruk Hadžibegić,44.0,False,True,1,4,0,Serbia,Home,1,1,0
+1988-12-11,Serbia,Cyprus,Serbia,Dejan Savićević,82.0,False,False,1,4,0,Serbia,Home,0,1,0
 1988-12-12,China PR,Saudi Arabia,Saudi Arabia,Fahad Al-Bishi,56.0,False,False,1,0,1,Saudi Arabia,Away,0,0,0
 1988-12-12,Qatar,Japan,Qatar,Adel Khamis,58.0,False,False,1,3,0,Qatar,Home,0,0,0
 1988-12-12,Qatar,Japan,Qatar,Adel Khamis,82.0,False,False,1,3,0,Qatar,Home,0,0,0
@@ -11428,9 +11428,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1989-06-11,Japan,Indonesia,Japan,Hisashi Kurosaki,69.0,False,False,1,5,0,Japan,Home,0,0,0
 1989-06-11,Liberia,Malawi,Liberia,George Weah,36.0,False,False,1,1,0,Liberia,Home,0,0,0
 1989-06-11,Zambia,Tunisia,Zambia,Derby Makinka,73.0,False,False,1,1,0,Zambia,Home,0,0,0
-1989-06-14,Norway,Serbia and Montenegro,Serbia and Montenegro,Dragan Stojković,21.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1989-06-14,Norway,Serbia and Montenegro,Serbia and Montenegro,Zlatko Vujović,86.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1989-06-14,Norway,Serbia and Montenegro,Norway,Jan Åge Fjørtoft,89.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
+1989-06-14,Norway,Serbia,Serbia,Dragan Stojković,21.0,False,False,1,1,2,Serbia,Away,0,0,0
+1989-06-14,Norway,Serbia,Serbia,Zlatko Vujović,86.0,False,False,1,1,2,Serbia,Away,0,0,0
+1989-06-14,Norway,Serbia,Norway,Jan Åge Fjørtoft,89.0,False,False,1,1,2,Serbia,Away,0,0,0
 1989-06-24,Malawi,Kenya,Malawi,Peterkins Kayira,55.0,False,False,1,1,0,Malawi,Home,0,0,0
 1989-06-25,Angola,Cameroon,Angola,Paulo António Alves,5.0,False,False,1,1,2,Cameroon,Away,0,0,0
 1989-06-25,Angola,Cameroon,Cameroon,François Omam-Biyik,59.0,False,False,1,1,2,Cameroon,Away,0,0,0
@@ -11595,10 +11595,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1989-09-06,Northern Ireland,Hungary,Hungary,Kálmán Kovács,13.0,False,False,1,1,2,Hungary,Away,0,0,0
 1989-09-06,Northern Ireland,Hungary,Hungary,György Bognár,44.0,False,False,1,1,2,Hungary,Away,0,0,0
 1989-09-06,Northern Ireland,Hungary,Northern Ireland,Norman Whiteside,89.0,False,False,1,1,2,Hungary,Away,0,0,0
-1989-09-06,Serbia and Montenegro,Scotland,Scotland,Gordon Durie,37.0,False,False,1,3,1,Serbia and Montenegro,Home,0,0,0
-1989-09-06,Serbia and Montenegro,Scotland,Serbia and Montenegro,Srečko Katanec,52.0,False,False,1,3,1,Serbia and Montenegro,Home,0,0,0
-1989-09-06,Serbia and Montenegro,Scotland,Serbia and Montenegro,Gary Gillespie,58.0,True,False,1,3,1,Serbia and Montenegro,Home,0,0,0
-1989-09-06,Serbia and Montenegro,Scotland,Serbia and Montenegro,Zlatko Vujović,59.0,False,False,1,3,1,Serbia and Montenegro,Home,0,0,0
+1989-09-06,Serbia,Scotland,Scotland,Gordon Durie,37.0,False,False,1,3,1,Serbia,Home,0,0,0
+1989-09-06,Serbia,Scotland,Serbia,Srečko Katanec,52.0,False,False,1,3,1,Serbia,Home,0,0,0
+1989-09-06,Serbia,Scotland,Serbia,Gary Gillespie,58.0,True,False,1,3,1,Serbia,Home,0,0,0
+1989-09-06,Serbia,Scotland,Serbia,Zlatko Vujović,59.0,False,False,1,3,1,Serbia,Home,0,0,0
 1989-09-10,Paraguay,Ecuador,Paraguay,Roberto Cabañas,36.0,False,False,1,2,1,Paraguay,Home,0,0,0
 1989-09-10,Paraguay,Ecuador,Paraguay,Javier Ferreira,67.0,False,False,1,2,1,Paraguay,Home,0,0,0
 1989-09-10,Paraguay,Ecuador,Ecuador,Raúl Avilés,84.0,False,False,1,2,1,Paraguay,Home,0,0,0
@@ -11668,7 +11668,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1989-10-11,Wales,Netherlands,Netherlands,Graeme Rutjes,13.0,False,False,1,1,2,Netherlands,Away,0,0,0
 1989-10-11,Wales,Netherlands,Netherlands,John Bosman,79.0,False,False,1,1,2,Netherlands,Away,0,0,0
 1989-10-11,Wales,Netherlands,Wales,Mark Bowen,89.0,False,False,1,1,2,Netherlands,Away,0,0,0
-1989-10-11,Serbia and Montenegro,Norway,Serbia and Montenegro,Faruk Hadžibegić,44.0,False,True,1,1,0,Serbia and Montenegro,Home,1,1,0
+1989-10-11,Serbia,Norway,Serbia,Faruk Hadžibegić,44.0,False,True,1,1,0,Serbia,Home,1,1,0
 1989-10-12,China PR,Saudi Arabia,Saudi Arabia,Fahad Al-Bishi,24.0,False,True,1,2,1,China PR,Home,1,1,1
 1989-10-12,China PR,Saudi Arabia,China PR,Mai Chao,63.0,False,True,1,2,1,China PR,Home,1,1,1
 1989-10-12,China PR,Saudi Arabia,China PR,Mai Chao,70.0,False,False,1,2,1,China PR,Home,0,1,1
@@ -11697,9 +11697,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1989-10-25,Turkey,Austria,Turkey,Rıdvan Dilmen,12.0,False,False,1,3,0,Turkey,Home,0,0,0
 1989-10-25,Turkey,Austria,Turkey,Rıdvan Dilmen,52.0,False,False,1,3,0,Turkey,Home,0,0,0
 1989-10-25,Turkey,Austria,Turkey,Feyyaz Uçar,60.0,False,False,1,3,0,Turkey,Home,0,0,0
-1989-10-28,Cyprus,Serbia and Montenegro,Serbia and Montenegro,Vujadin Stanojković,5.0,False,False,1,1,2,Serbia and Montenegro,Away,0,1,0
-1989-10-28,Cyprus,Serbia and Montenegro,Cyprus,Pambos Pittas,38.0,False,True,1,1,2,Serbia and Montenegro,Away,1,1,0
-1989-10-28,Cyprus,Serbia and Montenegro,Serbia and Montenegro,Darko Pančev,49.0,False,False,1,1,2,Serbia and Montenegro,Away,0,1,0
+1989-10-28,Cyprus,Serbia,Serbia,Vujadin Stanojković,5.0,False,False,1,1,2,Serbia,Away,0,1,0
+1989-10-28,Cyprus,Serbia,Cyprus,Pambos Pittas,38.0,False,True,1,1,2,Serbia,Away,1,1,0
+1989-10-28,Cyprus,Serbia,Serbia,Darko Pančev,49.0,False,False,1,1,2,Serbia,Away,0,1,0
 1989-10-28,Qatar,China PR,China PR,Ma Lin,76.0,False,False,1,2,1,Qatar,Home,0,0,0
 1989-10-28,Qatar,China PR,Qatar,Mahmoud Yaseen Al-Soufi,87.0,False,False,1,2,1,Qatar,Home,0,0,0
 1989-10-28,Qatar,China PR,Qatar,Mansour Muftah,87.0,False,False,1,2,1,Qatar,Home,0,0,0
@@ -11782,11 +11782,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1990-06-10,Brazil,Sweden,Brazil,Careca,40.0,False,False,1,2,1,Brazil,Home,0,0,0
 1990-06-10,Brazil,Sweden,Brazil,Careca,63.0,False,False,1,2,1,Brazil,Home,0,0,0
 1990-06-10,Brazil,Sweden,Sweden,Tomas Brolin,79.0,False,False,1,2,1,Brazil,Home,0,0,0
-1990-06-10,Germany,Serbia and Montenegro,Germany,Lothar Matthäus,28.0,False,False,1,4,1,Germany,Home,0,0,0
-1990-06-10,Germany,Serbia and Montenegro,Germany,Jürgen Klinsmann,39.0,False,False,1,4,1,Germany,Home,0,0,0
-1990-06-10,Germany,Serbia and Montenegro,Serbia and Montenegro,Davor Jozić,55.0,False,False,1,4,1,Germany,Home,0,0,0
-1990-06-10,Germany,Serbia and Montenegro,Germany,Lothar Matthäus,64.0,False,False,1,4,1,Germany,Home,0,0,0
-1990-06-10,Germany,Serbia and Montenegro,Germany,Rudi Völler,70.0,False,False,1,4,1,Germany,Home,0,0,0
+1990-06-10,Germany,Serbia,Germany,Lothar Matthäus,28.0,False,False,1,4,1,Germany,Home,0,0,0
+1990-06-10,Germany,Serbia,Germany,Jürgen Klinsmann,39.0,False,False,1,4,1,Germany,Home,0,0,0
+1990-06-10,Germany,Serbia,Serbia,Davor Jozić,55.0,False,False,1,4,1,Germany,Home,0,0,0
+1990-06-10,Germany,Serbia,Germany,Lothar Matthäus,64.0,False,False,1,4,1,Germany,Home,0,0,0
+1990-06-10,Germany,Serbia,Germany,Rudi Völler,70.0,False,False,1,4,1,Germany,Home,0,0,0
 1990-06-10,United States,Slovakia,Slovakia,Tomáš Skuhravý,26.0,False,False,1,1,5,Slovakia,Away,0,0,1
 1990-06-10,United States,Slovakia,Slovakia,Michal Bílek,40.0,False,True,1,1,5,Slovakia,Away,1,0,1
 1990-06-10,United States,Slovakia,Slovakia,Ivan Hašek,50.0,False,False,1,1,5,Slovakia,Away,0,0,1
@@ -11806,7 +11806,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1990-06-14,Cameroon,Romania,Cameroon,Roger Milla,86.0,False,False,1,2,1,Cameroon,Home,0,0,0
 1990-06-14,Cameroon,Romania,Romania,Gavril Balint,88.0,False,False,1,2,1,Cameroon,Home,0,0,0
 1990-06-14,Italy,United States,Italy,Giuseppe Giannini,11.0,False,False,1,1,0,Italy,Home,0,0,0
-1990-06-14,Serbia and Montenegro,Colombia,Serbia and Montenegro,Davor Jozić,75.0,False,False,1,1,0,Serbia and Montenegro,Home,0,0,0
+1990-06-14,Serbia,Colombia,Serbia,Davor Jozić,75.0,False,False,1,1,0,Serbia,Home,0,0,0
 1990-06-15,Austria,Slovakia,Slovakia,Michal Bílek,31.0,False,True,1,0,1,Slovakia,Away,1,0,1
 1990-06-15,Germany,United Arab Emirates,Germany,Rudi Völler,35.0,False,False,1,5,1,Germany,Home,0,0,0
 1990-06-15,Germany,United Arab Emirates,Germany,Jürgen Klinsmann,37.0,False,False,1,5,1,Germany,Home,0,0,0
@@ -11839,11 +11839,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1990-06-19,Germany,Colombia,Colombia,Freddy Rincón,90.0,False,False,1,1,1,Tie,Tie,0,0,0
 1990-06-19,Italy,Slovakia,Italy,Salvatore Schillaci,9.0,False,False,1,2,0,Italy,Home,0,0,0
 1990-06-19,Italy,Slovakia,Italy,Roberto Baggio,78.0,False,False,1,2,0,Italy,Home,0,0,0
-1990-06-19,Serbia and Montenegro,United Arab Emirates,Serbia and Montenegro,Safet Sušić,5.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1990-06-19,Serbia and Montenegro,United Arab Emirates,Serbia and Montenegro,Darko Pančev,9.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1990-06-19,Serbia and Montenegro,United Arab Emirates,United Arab Emirates,Ali Thani Jumaa,22.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1990-06-19,Serbia and Montenegro,United Arab Emirates,Serbia and Montenegro,Darko Pančev,46.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1990-06-19,Serbia and Montenegro,United Arab Emirates,Serbia and Montenegro,Robert Prosinečki,90.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
+1990-06-19,Serbia,United Arab Emirates,Serbia,Safet Sušić,5.0,False,False,1,4,1,Serbia,Home,0,0,0
+1990-06-19,Serbia,United Arab Emirates,Serbia,Darko Pančev,9.0,False,False,1,4,1,Serbia,Home,0,0,0
+1990-06-19,Serbia,United Arab Emirates,United Arab Emirates,Ali Thani Jumaa,22.0,False,False,1,4,1,Serbia,Home,0,0,0
+1990-06-19,Serbia,United Arab Emirates,Serbia,Darko Pančev,46.0,False,False,1,4,1,Serbia,Home,0,0,0
+1990-06-19,Serbia,United Arab Emirates,Serbia,Robert Prosinečki,90.0,False,False,1,4,1,Serbia,Home,0,0,0
 1990-06-20,Brazil,Scotland,Brazil,Müller,81.0,False,False,1,1,0,Brazil,Home,0,0,0
 1990-06-20,Sweden,Costa Rica,Sweden,Johnny Ekström,32.0,False,False,1,1,2,Costa Rica,Away,0,0,0
 1990-06-20,Sweden,Costa Rica,Costa Rica,Róger Flores,75.0,False,False,1,1,2,Costa Rica,Away,0,0,0
@@ -11870,9 +11870,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1990-06-25,Italy,Uruguay,Italy,Salvatore Schillaci,65.0,False,False,1,2,0,Italy,Home,0,0,0
 1990-06-25,Italy,Uruguay,Italy,Aldo Serena,83.0,False,False,1,2,0,Italy,Home,0,0,0
 1990-06-26,England,Belgium,England,David Platt,119.0,False,False,1,1,0,England,Home,0,0,0
-1990-06-26,Spain,Serbia and Montenegro,Serbia and Montenegro,Dragan Stojković,78.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1990-06-26,Spain,Serbia and Montenegro,Spain,Julio Salinas,84.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
-1990-06-26,Spain,Serbia and Montenegro,Serbia and Montenegro,Dragan Stojković,93.0,False,False,1,1,2,Serbia and Montenegro,Away,0,0,0
+1990-06-26,Spain,Serbia,Serbia,Dragan Stojković,78.0,False,False,1,1,2,Serbia,Away,0,0,0
+1990-06-26,Spain,Serbia,Spain,Julio Salinas,84.0,False,False,1,1,2,Serbia,Away,0,0,0
+1990-06-26,Spain,Serbia,Serbia,Dragan Stojković,93.0,False,False,1,1,2,Serbia,Away,0,0,0
 1990-06-30,Italy,Republic of Ireland,Italy,Salvatore Schillaci,38.0,False,False,1,1,0,Italy,Home,0,0,0
 1990-07-01,Cameroon,England,England,David Platt,25.0,False,False,1,2,3,England,Away,0,1,2
 1990-07-01,Cameroon,England,Cameroon,Emmanuel Kundé,61.0,False,True,1,2,3,England,Away,1,1,2
@@ -11892,8 +11892,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1990-09-05,Iceland,France,France,Eric Cantona,74.0,False,False,1,1,2,France,Away,0,0,0
 1990-09-05,Iceland,France,Iceland,Atli Eðvaldsson,85.0,False,False,1,1,2,France,Away,0,0,0
 1990-09-12,Faroe Islands,Austria,Faroe Islands,Torkil Nielsen,61.0,False,False,1,1,0,Faroe Islands,Home,0,0,0
-1990-09-12,Northern Ireland,Serbia and Montenegro,Serbia and Montenegro,Darko Pančev,36.0,False,False,1,0,2,Serbia and Montenegro,Away,0,0,0
-1990-09-12,Northern Ireland,Serbia and Montenegro,Serbia and Montenegro,Robert Prosinečki,86.0,False,False,1,0,2,Serbia and Montenegro,Away,0,0,0
+1990-09-12,Northern Ireland,Serbia,Serbia,Darko Pančev,36.0,False,False,1,0,2,Serbia,Away,0,0,0
+1990-09-12,Northern Ireland,Serbia,Serbia,Robert Prosinečki,86.0,False,False,1,0,2,Serbia,Away,0,0,0
 1990-09-12,Russia,Norway,Russia,Andrei Kanchelskis,22.0,False,False,1,2,0,Russia,Home,0,0,0
 1990-09-12,Russia,Norway,Russia,Oleh Kuznetsov,60.0,False,False,1,2,0,Russia,Home,0,0,0
 1990-09-12,Scotland,Romania,Romania,Rodion Cămătaru,13.0,False,False,1,2,1,Scotland,Home,0,0,0
@@ -11950,11 +11950,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1990-10-31,Luxembourg,Germany,Germany,Rudi Völler,49.0,False,False,1,2,3,Germany,Away,0,0,0
 1990-10-31,Luxembourg,Germany,Luxembourg,Jean-Paul Girres,57.0,False,False,1,2,3,Germany,Away,0,0,0
 1990-10-31,Luxembourg,Germany,Luxembourg,Robby Langers,65.0,False,False,1,2,3,Germany,Away,0,0,0
-1990-10-31,Serbia and Montenegro,Austria,Austria,Andreas Ogris,15.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1990-10-31,Serbia and Montenegro,Austria,Serbia and Montenegro,Darko Pančev,32.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1990-10-31,Serbia and Montenegro,Austria,Serbia and Montenegro,Srečko Katanec,43.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1990-10-31,Serbia and Montenegro,Austria,Serbia and Montenegro,Darko Pančev,52.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1990-10-31,Serbia and Montenegro,Austria,Serbia and Montenegro,Darko Pančev,85.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
+1990-10-31,Serbia,Austria,Austria,Andreas Ogris,15.0,False,False,1,4,1,Serbia,Home,0,0,0
+1990-10-31,Serbia,Austria,Serbia,Darko Pančev,32.0,False,False,1,4,1,Serbia,Home,0,0,0
+1990-10-31,Serbia,Austria,Serbia,Srečko Katanec,43.0,False,False,1,4,1,Serbia,Home,0,0,0
+1990-10-31,Serbia,Austria,Serbia,Darko Pančev,52.0,False,False,1,4,1,Serbia,Home,0,0,0
+1990-10-31,Serbia,Austria,Serbia,Darko Pančev,85.0,False,False,1,4,1,Serbia,Home,0,0,0
 1990-11-14,Bulgaria,Scotland,Scotland,Ally McCoist,9.0,False,False,1,1,1,Tie,Tie,0,0,0
 1990-11-14,Bulgaria,Scotland,Bulgaria,Nikolay Todorov,74.0,False,False,1,1,1,Tie,Tie,0,0,0
 1990-11-14,Cyprus,Norway,Norway,Gøran Sørloth,39.0,False,False,1,0,3,Norway,Away,0,0,0
@@ -11965,8 +11965,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1990-11-14,Slovakia,Spain,Spain,Carlos Muñoz Cobo,54.0,False,False,1,3,2,Slovakia,Home,0,0,0
 1990-11-14,Slovakia,Spain,Slovakia,Václav Daněk,67.0,False,False,1,3,2,Slovakia,Home,0,0,0
 1990-11-14,Slovakia,Spain,Slovakia,Ľubomír Moravčík,77.0,False,False,1,3,2,Slovakia,Home,0,0,0
-1990-11-14,Denmark,Serbia and Montenegro,Serbia and Montenegro,Mehmed Baždarević,77.0,False,False,1,0,2,Serbia and Montenegro,Away,0,0,0
-1990-11-14,Denmark,Serbia and Montenegro,Serbia and Montenegro,Robert Jarni,84.0,False,False,1,0,2,Serbia and Montenegro,Away,0,0,0
+1990-11-14,Denmark,Serbia,Serbia,Mehmed Baždarević,77.0,False,False,1,0,2,Serbia,Away,0,0,0
+1990-11-14,Denmark,Serbia,Serbia,Robert Jarni,84.0,False,False,1,0,2,Serbia,Away,0,0,0
 1990-11-14,Luxembourg,Wales,Wales,Ian Rush,15.0,False,False,1,0,1,Wales,Away,0,0,0
 1990-11-14,Republic of Ireland,England,England,David Platt,67.0,False,False,1,1,1,Tie,Tie,0,0,0
 1990-11-14,Republic of Ireland,England,Republic of Ireland,Tony Cascarino,79.0,False,False,1,1,1,Tie,Tie,0,0,0
@@ -12036,11 +12036,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1991-03-27,San Marino,Romania,Romania,Ivan Matteoni,83.0,True,False,1,1,3,Romania,Away,0,1,1
 1991-03-27,Scotland,Bulgaria,Scotland,John Collins,83.0,False,False,1,1,1,Tie,Tie,0,0,0
 1991-03-27,Scotland,Bulgaria,Bulgaria,Emil Kostadinov,89.0,False,False,1,1,1,Tie,Tie,0,0,0
-1991-03-27,Serbia and Montenegro,Northern Ireland,Serbia and Montenegro,Dragiša Binić,35.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1991-03-27,Serbia and Montenegro,Northern Ireland,Northern Ireland,Colin Hill,44.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1991-03-27,Serbia and Montenegro,Northern Ireland,Serbia and Montenegro,Darko Pančev,47.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1991-03-27,Serbia and Montenegro,Northern Ireland,Serbia and Montenegro,Darko Pančev,60.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
-1991-03-27,Serbia and Montenegro,Northern Ireland,Serbia and Montenegro,Darko Pančev,62.0,False,False,1,4,1,Serbia and Montenegro,Home,0,0,0
+1991-03-27,Serbia,Northern Ireland,Serbia,Dragiša Binić,35.0,False,False,1,4,1,Serbia,Home,0,0,0
+1991-03-27,Serbia,Northern Ireland,Northern Ireland,Colin Hill,44.0,False,False,1,4,1,Serbia,Home,0,0,0
+1991-03-27,Serbia,Northern Ireland,Serbia,Darko Pančev,47.0,False,False,1,4,1,Serbia,Home,0,0,0
+1991-03-27,Serbia,Northern Ireland,Serbia,Darko Pančev,60.0,False,False,1,4,1,Serbia,Home,0,0,0
+1991-03-27,Serbia,Northern Ireland,Serbia,Darko Pančev,62.0,False,False,1,4,1,Serbia,Home,0,0,0
 1991-03-30,France,Albania,France,Franck Sauzée,1.0,False,False,1,5,0,France,Home,0,1,0
 1991-03-30,France,Albania,France,Franck Sauzée,9.0,False,False,1,5,0,France,Home,0,1,0
 1991-03-30,France,Albania,France,Jean-Pierre Papin,33.0,False,True,1,5,0,France,Home,1,1,0
@@ -12074,18 +12074,18 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1991-05-01,San Marino,Scotland,Scotland,Gordon Strachan,63.0,False,True,1,0,2,Scotland,Away,1,0,1
 1991-05-01,San Marino,Scotland,Scotland,Gordon Durie,67.0,False,False,1,0,2,Scotland,Away,0,0,1
 1991-05-01,Turkey,England,England,Dennis Wise,32.0,False,False,1,0,1,England,Away,0,0,0
-1991-05-01,Serbia and Montenegro,Denmark,Denmark,Bent Christensen Arensøe,31.0,False,False,1,1,2,Denmark,Away,0,0,0
-1991-05-01,Serbia and Montenegro,Denmark,Serbia and Montenegro,Darko Pančev,50.0,False,False,1,1,2,Denmark,Away,0,0,0
-1991-05-01,Serbia and Montenegro,Denmark,Denmark,Bent Christensen Arensøe,63.0,False,False,1,1,2,Denmark,Away,0,0,0
+1991-05-01,Serbia,Denmark,Denmark,Bent Christensen Arensøe,31.0,False,False,1,1,2,Denmark,Away,0,0,0
+1991-05-01,Serbia,Denmark,Serbia,Darko Pančev,50.0,False,False,1,1,2,Denmark,Away,0,0,0
+1991-05-01,Serbia,Denmark,Denmark,Bent Christensen Arensøe,63.0,False,False,1,1,2,Denmark,Away,0,0,0
 1991-05-16,Finland,Malta,Finland,Petri Järvinen,51.0,False,False,1,2,0,Finland,Home,0,0,0
 1991-05-16,Finland,Malta,Finland,Jari Litmanen,87.0,False,False,1,2,0,Finland,Home,0,0,0
-1991-05-16,Serbia and Montenegro,Faroe Islands,Serbia and Montenegro,Ilija Najdoski,21.0,False,False,1,7,0,Serbia and Montenegro,Home,0,0,0
-1991-05-16,Serbia and Montenegro,Faroe Islands,Serbia and Montenegro,Robert Prosinečki,24.0,False,False,1,7,0,Serbia and Montenegro,Home,0,0,0
-1991-05-16,Serbia and Montenegro,Faroe Islands,Serbia and Montenegro,Darko Pančev,51.0,False,False,1,7,0,Serbia and Montenegro,Home,0,0,0
-1991-05-16,Serbia and Montenegro,Faroe Islands,Serbia and Montenegro,Zoran Vulić,65.0,False,False,1,7,0,Serbia and Montenegro,Home,0,0,0
-1991-05-16,Serbia and Montenegro,Faroe Islands,Serbia and Montenegro,Zvonimir Boban,68.0,False,False,1,7,0,Serbia and Montenegro,Home,0,0,0
-1991-05-16,Serbia and Montenegro,Faroe Islands,Serbia and Montenegro,Darko Pančev,72.0,False,False,1,7,0,Serbia and Montenegro,Home,0,0,0
-1991-05-16,Serbia and Montenegro,Faroe Islands,Serbia and Montenegro,Davor Šuker,85.0,False,False,1,7,0,Serbia and Montenegro,Home,0,0,0
+1991-05-16,Serbia,Faroe Islands,Serbia,Ilija Najdoski,21.0,False,False,1,7,0,Serbia,Home,0,0,0
+1991-05-16,Serbia,Faroe Islands,Serbia,Robert Prosinečki,24.0,False,False,1,7,0,Serbia,Home,0,0,0
+1991-05-16,Serbia,Faroe Islands,Serbia,Darko Pančev,51.0,False,False,1,7,0,Serbia,Home,0,0,0
+1991-05-16,Serbia,Faroe Islands,Serbia,Zoran Vulić,65.0,False,False,1,7,0,Serbia,Home,0,0,0
+1991-05-16,Serbia,Faroe Islands,Serbia,Zvonimir Boban,68.0,False,False,1,7,0,Serbia,Home,0,0,0
+1991-05-16,Serbia,Faroe Islands,Serbia,Darko Pančev,72.0,False,False,1,7,0,Serbia,Home,0,0,0
+1991-05-16,Serbia,Faroe Islands,Serbia,Davor Šuker,85.0,False,False,1,7,0,Serbia,Home,0,0,0
 1991-05-22,Austria,Faroe Islands,Austria,Heimo Pfeifenberger,13.0,False,False,1,3,0,Austria,Home,0,0,0
 1991-05-22,Austria,Faroe Islands,Austria,Michael Streiter,48.0,False,False,1,3,0,Austria,Home,0,0,0
 1991-05-22,Austria,Faroe Islands,Austria,Arnold Wetl,69.0,False,False,1,3,0,Austria,Home,0,0,0
@@ -12279,8 +12279,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1991-10-16,Slovakia,Albania,Slovakia,Ľudovít Lancz,39.0,False,False,1,2,1,Slovakia,Home,0,0,0
 1991-10-16,Slovakia,Albania,Albania,Hysen Zmijani,60.0,False,False,1,2,1,Slovakia,Home,0,0,0
 1991-10-16,England,Turkey,England,Alan Smith,21.0,False,False,1,1,0,England,Home,0,0,0
-1991-10-16,Faroe Islands,Serbia and Montenegro,Serbia and Montenegro,Vladimir Jugović,13.0,False,False,1,0,2,Serbia and Montenegro,Away,0,0,0
-1991-10-16,Faroe Islands,Serbia and Montenegro,Serbia and Montenegro,Dejan Savićević,80.0,False,False,1,0,2,Serbia and Montenegro,Away,0,0,0
+1991-10-16,Faroe Islands,Serbia,Serbia,Vladimir Jugović,13.0,False,False,1,0,2,Serbia,Away,0,0,0
+1991-10-16,Faroe Islands,Serbia,Serbia,Dejan Savićević,80.0,False,False,1,0,2,Serbia,Away,0,0,0
 1991-10-16,Germany,Wales,Germany,Andreas Möller,34.0,False,False,1,4,1,Germany,Home,0,0,1
 1991-10-16,Germany,Wales,Germany,Rudi Völler,39.0,False,False,1,4,1,Germany,Home,0,0,1
 1991-10-16,Germany,Wales,Germany,Karl-Heinz Riedle,45.0,False,False,1,4,1,Germany,Home,0,0,1
@@ -12299,8 +12299,8 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1991-10-16,Romania,Scotland,Romania,Gheorghe Hagi,75.0,False,True,1,1,0,Romania,Home,1,1,0
 1991-10-30,Greece,Finland,Greece,Dimitris Saravakos,49.0,False,False,1,2,0,Greece,Home,0,0,0
 1991-10-30,Greece,Finland,Greece,Stefanos Borbokis,51.0,False,False,1,2,0,Greece,Home,0,0,0
-1991-11-13,Austria,Serbia and Montenegro,Serbia and Montenegro,Vladan Lukić,18.0,False,False,1,0,2,Serbia and Montenegro,Away,0,0,0
-1991-11-13,Austria,Serbia and Montenegro,Serbia and Montenegro,Dejan Savićević,38.0,False,False,1,0,2,Serbia and Montenegro,Away,0,0,0
+1991-11-13,Austria,Serbia,Serbia,Vladan Lukić,18.0,False,False,1,0,2,Serbia,Away,0,0,0
+1991-11-13,Austria,Serbia,Serbia,Dejan Savićević,38.0,False,False,1,0,2,Serbia,Away,0,0,0
 1991-11-13,Cyprus,Russia,Russia,Oleh Protasov,26.0,False,False,1,0,3,Russia,Away,0,0,0
 1991-11-13,Cyprus,Russia,Russia,Sergei Yuran,78.0,False,False,1,0,3,Russia,Away,0,0,0
 1991-11-13,Cyprus,Russia,Russia,Andrei Kanchelskis,81.0,False,False,1,0,3,Russia,Away,0,0,0
