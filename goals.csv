@@ -569,11 +569,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1934-05-27,Argentina,Sweden,Argentina,Alberto Galateo,48.0,False,False,1,2,3,Sweden,Away,0,0,0
 1934-05-27,Argentina,Sweden,Sweden,Sven Jonasson,67.0,False,False,1,2,3,Sweden,Away,0,0,0
 1934-05-27,Argentina,Sweden,Sweden,Knut Kroon,79.0,False,False,1,2,3,Sweden,Away,0,0,0
-1934-05-27,Austria,France,France,Jean Nicolas,18.0,False,False,1,3,2,Austria,Home,0,0,1
-1934-05-27,Austria,France,Austria,Matthias Sindelar,44.0,False,False,1,3,2,Austria,Home,0,0,1
-1934-05-27,Austria,France,Austria,Anton Schall,93.0,False,False,1,3,2,Austria,Home,0,0,1
-1934-05-27,Austria,France,Austria,Josef Bican,109.0,False,False,1,3,2,Austria,Home,0,0,1
-1934-05-27,Austria,France,France,Georges Verriest,116.0,False,True,1,3,2,Austria,Home,1,0,1
+1934-05-27,Austria,France,France,Jean Nicolas,18.0,False,False,1,3,2,Austria,Home,0,0,0
+1934-05-27,Austria,France,Austria,Matthias Sindelar,44.0,False,False,1,3,2,Austria,Home,0,0,0
+1934-05-27,Austria,France,Austria,Anton Schall,93.0,False,False,1,3,2,Austria,Home,0,0,0
+1934-05-27,Austria,France,Austria,Josef Bican,109.0,False,False,1,3,2,Austria,Home,0,0,0
+1934-05-27,Austria,France,France,Georges Verriest,116.0,False,True,1,3,2,Austria,Home,0,0,0
 1934-05-27,Belgium,Germany,Germany,Stanislaus Kobierski,25.0,False,False,1,2,5,Germany,Away,0,0,0
 1934-05-27,Belgium,Germany,Belgium,Bernard Voorhoof,29.0,False,False,1,2,5,Germany,Away,0,0,0
 1934-05-27,Belgium,Germany,Belgium,Bernard Voorhoof,43.0,False,False,1,2,5,Germany,Away,0,0,0
@@ -3813,10 +3813,10 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1964-06-17,Spain,Hungary,Spain,Chus Pereda,35.0,False,False,1,2,1,Spain,Home,0,0,0
 1964-06-17,Spain,Hungary,Hungary,Ferenc Bene,84.0,False,False,1,2,1,Spain,Home,0,0,0
 1964-06-17,Spain,Hungary,Spain,Amancio Amaro,112.0,False,False,1,2,1,Spain,Home,0,0,0
-1964-06-20,Hungary,Denmark,Hungary,Ferenc Bene,11.0,False,False,1,3,1,Hungary,Home,0,1,0
-1964-06-20,Hungary,Denmark,Denmark,Carl Bertelsen,82.0,False,False,1,3,1,Hungary,Home,0,1,0
-1964-06-20,Hungary,Denmark,Hungary,Dezső Novák,107.0,False,True,1,3,1,Hungary,Home,1,1,0
-1964-06-20,Hungary,Denmark,Hungary,Dezső Novák,110.0,False,False,1,3,1,Hungary,Home,0,1,0
+1964-06-20,Hungary,Denmark,Hungary,Ferenc Bene,11.0,False,False,1,3,1,Hungary,Home,0,0,0
+1964-06-20,Hungary,Denmark,Denmark,Carl Bertelsen,82.0,False,False,1,3,1,Hungary,Home,0,0,0
+1964-06-20,Hungary,Denmark,Hungary,Dezső Novák,107.0,False,True,1,3,1,Hungary,Home,0,0,0
+1964-06-20,Hungary,Denmark,Hungary,Dezső Novák,110.0,False,False,1,3,1,Hungary,Home,0,0,0
 1964-06-21,Spain,Russia,Spain,Chus Pereda,6.0,False,False,1,2,1,Spain,Home,0,0,0
 1964-06-21,Spain,Russia,Russia,Galimzyan Khusainov,8.0,False,False,1,2,1,Spain,Home,0,0,0
 1964-06-21,Spain,Russia,Spain,Marcelino Martínez,84.0,False,False,1,2,1,Spain,Home,0,0,0
@@ -4676,9 +4676,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1968-01-12,Congo,DR Congo,DR Congo,Ignace Muwawa,19.0,False,False,1,0,3,DR Congo,Away,0,0,1
 1968-01-12,Congo,DR Congo,DR Congo,Nicodème Kabamba,27.0,False,True,1,0,3,DR Congo,Away,1,0,1
 1968-01-12,Congo,DR Congo,DR Congo,Nicodème Kabamba,51.0,False,False,1,0,3,DR Congo,Away,0,0,1
-1968-01-12,Ethiopia,Uganda,Ethiopia,Girma Tekle,,False,False,1,2,1,Ethiopia,Home,0,1,0
-1968-01-12,Ethiopia,Uganda,Ethiopia,Luciano Vassallo,,False,True,1,2,1,Ethiopia,Home,1,1,0
-1968-01-12,Ethiopia,Uganda,Uganda,Polly Ouma,,False,False,1,2,1,Ethiopia,Home,0,1,0
+1968-01-12,Ethiopia,Uganda,Ethiopia,Girma Tekle,,False,False,1,2,1,Ethiopia,Home,0,0,0
+1968-01-12,Ethiopia,Uganda,Ethiopia,Luciano Vassallo,,False,True,1,2,1,Ethiopia,Home,0,0,0
+1968-01-12,Ethiopia,Uganda,Uganda,Polly Ouma,,False,False,1,2,1,Ethiopia,Home,0,0,0
 1968-01-12,Ghana,Senegal,Senegal,Doudou Diongue,10.0,False,False,1,2,2,Tie,Tie,0,0,0
 1968-01-12,Ghana,Senegal,Ghana,Osei Kofi,63.0,False,False,1,2,2,Tie,Tie,0,0,0
 1968-01-12,Ghana,Senegal,Senegal,Yatma Diop,65.0,False,False,1,2,2,Tie,Tie,0,0,0
@@ -4713,13 +4713,13 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1968-01-19,Ethiopia,DR Congo,Ethiopia,Luciano Vassallo,25.0,False,False,1,2,3,DR Congo,Away,0,0,0
 1968-01-19,Ethiopia,DR Congo,Ethiopia,Mengistu Worku,65.0,False,False,1,2,3,DR Congo,Away,0,0,0
 1968-01-19,Ethiopia,DR Congo,DR Congo,Léon Mungamuni,100.0,False,False,1,2,3,DR Congo,Away,0,0,0
-1968-01-19,Ghana,Côte d'Ivoire,Ghana,Wilberforce Mfum,,False,False,1,4,3,Ghana,Home,0,0,1
-1968-01-19,Ghana,Côte d'Ivoire,Ghana,Wilberforce Mfum,,False,False,1,4,3,Ghana,Home,0,0,1
-1968-01-19,Ghana,Côte d'Ivoire,Ghana,Ibrahim Sunday,,False,False,1,4,3,Ghana,Home,0,0,1
-1968-01-19,Ghana,Côte d'Ivoire,Ghana,Frank Odoi,,False,False,1,4,3,Ghana,Home,0,0,1
-1968-01-19,Ghana,Côte d'Ivoire,Côte d'Ivoire,Laurent Pokou,,False,False,1,4,3,Ghana,Home,0,0,1
-1968-01-19,Ghana,Côte d'Ivoire,Côte d'Ivoire,Laurent Pokou,,False,False,1,4,3,Ghana,Home,0,0,1
-1968-01-19,Ghana,Côte d'Ivoire,Côte d'Ivoire,Henri Konan,,False,True,1,4,3,Ghana,Home,1,0,1
+1968-01-19,Ghana,Côte d'Ivoire,Ghana,Wilberforce Mfum,,False,False,1,4,3,Ghana,Home,0,0,0
+1968-01-19,Ghana,Côte d'Ivoire,Ghana,Wilberforce Mfum,,False,False,1,4,3,Ghana,Home,0,0,0
+1968-01-19,Ghana,Côte d'Ivoire,Ghana,Ibrahim Sunday,,False,False,1,4,3,Ghana,Home,0,0,0
+1968-01-19,Ghana,Côte d'Ivoire,Ghana,Frank Odoi,,False,False,1,4,3,Ghana,Home,0,0,0
+1968-01-19,Ghana,Côte d'Ivoire,Côte d'Ivoire,Laurent Pokou,,False,False,1,4,3,Ghana,Home,0,0,0
+1968-01-19,Ghana,Côte d'Ivoire,Côte d'Ivoire,Laurent Pokou,,False,False,1,4,3,Ghana,Home,0,0,0
+1968-01-19,Ghana,Côte d'Ivoire,Côte d'Ivoire,Henri Konan,,False,True,1,4,3,Ghana,Home,0,0,0
 1968-01-21,DR Congo,Ghana,DR Congo,Pierre Kalala Mukendi,66.0,False,False,1,1,0,DR Congo,Home,0,0,0
 1968-01-21,Ethiopia,Côte d'Ivoire,Côte d'Ivoire,Laurent Pokou,28.0,False,False,1,0,1,Côte d'Ivoire,Away,0,0,0
 1968-02-17,Cyprus,Switzerland,Switzerland,Kostas Panayiotou,9.0,True,False,1,2,1,Cyprus,Home,0,0,0
@@ -10559,13 +10559,13 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1986-06-13,Denmark,Germany,Denmark,John Eriksen,62.0,False,False,1,2,0,Denmark,Home,0,1,0
 1986-06-15,Mexico,Bulgaria,Mexico,Manuel Negrete Arias,34.0,False,False,1,2,0,Mexico,Home,0,0,0
 1986-06-15,Mexico,Bulgaria,Mexico,Raúl Servín,61.0,False,False,1,2,0,Mexico,Home,0,0,0
-1986-06-15,Russia,Belgium,Russia,Igor Belanov,27.0,False,False,1,3,4,Belgium,Away,0,1,0
-1986-06-15,Russia,Belgium,Belgium,Enzo Scifo,56.0,False,False,1,3,4,Belgium,Away,0,1,0
-1986-06-15,Russia,Belgium,Russia,Igor Belanov,70.0,False,False,1,3,4,Belgium,Away,0,1,0
-1986-06-15,Russia,Belgium,Belgium,Jan Ceulemans,77.0,False,False,1,3,4,Belgium,Away,0,1,0
-1986-06-15,Russia,Belgium,Belgium,Stéphane Demol,102.0,False,False,1,3,4,Belgium,Away,0,1,0
-1986-06-15,Russia,Belgium,Belgium,Nico Claesen,110.0,False,False,1,3,4,Belgium,Away,0,1,0
-1986-06-15,Russia,Belgium,Russia,Igor Belanov,111.0,False,True,1,3,4,Belgium,Away,1,1,0
+1986-06-15,Russia,Belgium,Russia,Igor Belanov,27.0,False,False,1,3,4,Belgium,Away,0,0,0
+1986-06-15,Russia,Belgium,Belgium,Enzo Scifo,56.0,False,False,1,3,4,Belgium,Away,0,0,0
+1986-06-15,Russia,Belgium,Russia,Igor Belanov,70.0,False,False,1,3,4,Belgium,Away,0,0,0
+1986-06-15,Russia,Belgium,Belgium,Jan Ceulemans,77.0,False,False,1,3,4,Belgium,Away,0,0,0
+1986-06-15,Russia,Belgium,Belgium,Stéphane Demol,102.0,False,False,1,3,4,Belgium,Away,0,0,0
+1986-06-15,Russia,Belgium,Belgium,Nico Claesen,110.0,False,False,1,3,4,Belgium,Away,0,0,0
+1986-06-15,Russia,Belgium,Russia,Igor Belanov,111.0,False,True,1,3,4,Belgium,Away,0,0,0
 1986-06-16,Argentina,Uruguay,Argentina,Pedro Pasculli,42.0,False,False,1,1,0,Argentina,Home,0,0,0
 1986-06-16,Brazil,Poland,Brazil,Sócrates,30.0,False,True,1,4,0,Brazil,Home,1,2,0
 1986-06-16,Brazil,Poland,Brazil,Josimar,55.0,False,False,1,4,0,Brazil,Home,0,2,0
@@ -10594,12 +10594,12 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1986-06-25,Argentina,Belgium,Argentina,Diego Maradona,63.0,False,False,1,2,0,Argentina,Home,0,0,0
 1986-06-25,France,Germany,Germany,Andreas Brehme,9.0,False,False,1,0,2,Germany,Away,0,0,0
 1986-06-25,France,Germany,Germany,Rudi Völler,89.0,False,False,1,0,2,Germany,Away,0,0,0
-1986-06-28,France,Belgium,Belgium,Jan Ceulemans,11.0,False,False,1,4,2,France,Home,0,1,0
-1986-06-28,France,Belgium,France,Jean-Marc Ferreri,27.0,False,False,1,4,2,France,Home,0,1,0
-1986-06-28,France,Belgium,France,Jean-Pierre Papin,43.0,False,False,1,4,2,France,Home,0,1,0
-1986-06-28,France,Belgium,Belgium,Nico Claesen,73.0,False,False,1,4,2,France,Home,0,1,0
-1986-06-28,France,Belgium,France,Bernard Genghini,104.0,False,False,1,4,2,France,Home,0,1,0
-1986-06-28,France,Belgium,France,Manuel Amoros,111.0,False,True,1,4,2,France,Home,1,1,0
+1986-06-28,France,Belgium,Belgium,Jan Ceulemans,11.0,False,False,1,4,2,France,Home,0,0,0
+1986-06-28,France,Belgium,France,Jean-Marc Ferreri,27.0,False,False,1,4,2,France,Home,0,0,0
+1986-06-28,France,Belgium,France,Jean-Pierre Papin,43.0,False,False,1,4,2,France,Home,0,0,0
+1986-06-28,France,Belgium,Belgium,Nico Claesen,73.0,False,False,1,4,2,France,Home,0,0,0
+1986-06-28,France,Belgium,France,Bernard Genghini,104.0,False,False,1,4,2,France,Home,0,0,0
+1986-06-28,France,Belgium,France,Manuel Amoros,111.0,False,True,1,4,2,France,Home,0,0,0
 1986-06-29,Argentina,Germany,Argentina,José Luis Brown,23.0,False,False,1,3,2,Argentina,Home,0,0,0
 1986-06-29,Argentina,Germany,Argentina,Jorge Valdano,55.0,False,False,1,3,2,Argentina,Home,0,0,0
 1986-06-29,Argentina,Germany,Germany,Karl-Heinz Rummenigge,74.0,False,False,1,3,2,Argentina,Home,0,0,0
@@ -10813,9 +10813,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1987-07-05,Colombia,Paraguay,Colombia,Arnoldo Iguarán,8.0,False,False,1,3,0,Colombia,Home,0,0,0
 1987-07-05,Colombia,Paraguay,Colombia,Arnoldo Iguarán,34.0,False,False,1,3,0,Colombia,Home,0,0,0
 1987-07-05,Colombia,Paraguay,Colombia,Arnoldo Iguarán,50.0,False,False,1,3,0,Colombia,Home,0,0,0
-1987-07-08,Chile,Colombia,Colombia,Bernardo Redín,103.0,False,True,1,2,1,Chile,Home,1,0,1
-1987-07-08,Chile,Colombia,Chile,Fernando Astengo,106.0,False,False,1,2,1,Chile,Home,0,0,1
-1987-07-08,Chile,Colombia,Chile,Jaime Vera,108.0,False,False,1,2,1,Chile,Home,0,0,1
+1987-07-08,Chile,Colombia,Colombia,Bernardo Redín,103.0,False,True,1,2,1,Chile,Home,0,0,0
+1987-07-08,Chile,Colombia,Chile,Fernando Astengo,106.0,False,False,1,2,1,Chile,Home,0,0,0
+1987-07-08,Chile,Colombia,Chile,Jaime Vera,108.0,False,False,1,2,1,Chile,Home,0,0,0
 1987-07-09,Argentina,Uruguay,Uruguay,Antonio Alzamendi,43.0,False,False,1,0,1,Uruguay,Away,0,0,0
 1987-07-11,Argentina,Colombia,Colombia,Gabriel Jaime Gómez Jaramillo,8.0,False,False,1,1,2,Colombia,Away,0,0,0
 1987-07-11,Argentina,Colombia,Colombia,Juan Jairo Galeano,27.0,False,False,1,1,2,Colombia,Away,0,0,0
@@ -11874,11 +11874,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1990-06-26,Spain,Serbia,Spain,Julio Salinas,84.0,False,False,1,1,2,Serbia,Away,0,0,0
 1990-06-26,Spain,Serbia,Serbia,Dragan Stojković,93.0,False,False,1,1,2,Serbia,Away,0,0,0
 1990-06-30,Italy,Republic of Ireland,Italy,Salvatore Schillaci,38.0,False,False,1,1,0,Italy,Home,0,0,0
-1990-07-01,Cameroon,England,England,David Platt,25.0,False,False,1,2,3,England,Away,0,1,2
-1990-07-01,Cameroon,England,Cameroon,Emmanuel Kundé,61.0,False,True,1,2,3,England,Away,1,1,2
-1990-07-01,Cameroon,England,Cameroon,Eugène Ekéké,65.0,False,False,1,2,3,England,Away,0,1,2
-1990-07-01,Cameroon,England,England,Gary Lineker,83.0,False,True,1,2,3,England,Away,1,1,2
-1990-07-01,Cameroon,England,England,Gary Lineker,105.0,False,True,1,2,3,England,Away,1,1,2
+1990-07-01,Cameroon,England,England,David Platt,25.0,False,False,1,2,3,England,Away,0,1,1
+1990-07-01,Cameroon,England,Cameroon,Emmanuel Kundé,61.0,False,True,1,2,3,England,Away,1,1,1
+1990-07-01,Cameroon,England,Cameroon,Eugène Ekéké,65.0,False,False,1,2,3,England,Away,0,1,1
+1990-07-01,Cameroon,England,England,Gary Lineker,83.0,False,True,1,2,3,England,Away,1,1,1
+1990-07-01,Cameroon,England,England,Gary Lineker,105.0,False,True,1,2,3,England,Away,0,1,1
 1990-07-01,Germany,Slovakia,Germany,Lothar Matthäus,25.0,False,True,1,1,0,Germany,Home,1,1,0
 1990-07-03,Italy,Argentina,Italy,Salvatore Schillaci,17.0,False,False,1,1,1,Tie,Tie,0,0,0
 1990-07-03,Italy,Argentina,Argentina,Claudio Caniggia,67.0,False,False,1,1,1,Tie,Tie,0,0,0
@@ -14214,9 +14214,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 1994-07-04,United States,Brazil,Brazil,Bebeto,72.0,False,False,1,0,1,Brazil,Away,0,0,0
 1994-07-05,Mexico,Bulgaria,Bulgaria,Hristo Stoichkov,6.0,False,False,1,1,1,Tie,Tie,0,1,0
 1994-07-05,Mexico,Bulgaria,Mexico,Alberto García Aspe,18.0,False,True,1,1,1,Tie,Tie,1,1,0
-1994-07-05,Nigeria,Italy,Nigeria,Emmanuel Amunike,25.0,False,False,1,1,2,Italy,Away,0,0,1
-1994-07-05,Nigeria,Italy,Italy,Roberto Baggio,88.0,False,False,1,1,2,Italy,Away,0,0,1
-1994-07-05,Nigeria,Italy,Italy,Roberto Baggio,102.0,False,True,1,1,2,Italy,Away,1,0,1
+1994-07-05,Nigeria,Italy,Nigeria,Emmanuel Amunike,25.0,False,False,1,1,2,Italy,Away,0,0,0
+1994-07-05,Nigeria,Italy,Italy,Roberto Baggio,88.0,False,False,1,1,2,Italy,Away,0,0,0
+1994-07-05,Nigeria,Italy,Italy,Roberto Baggio,102.0,False,True,1,1,2,Italy,Away,0,0,0
 1994-07-09,Italy,Spain,Italy,Dino Baggio,25.0,False,False,1,2,1,Italy,Home,0,0,0
 1994-07-09,Italy,Spain,Spain,José Luis Caminero,58.0,False,False,1,2,1,Italy,Home,0,0,0
 1994-07-09,Italy,Spain,Italy,Roberto Baggio,88.0,False,False,1,2,1,Italy,Home,0,0,0
@@ -22159,9 +22159,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 2003-07-20,Mexico,Jamaica,Mexico,Daniel Osorno,55.0,False,False,1,5,0,Mexico,Home,0,0,0
 2003-07-20,Mexico,Jamaica,Mexico,Jared Borgetti,61.0,False,False,1,5,0,Mexico,Home,0,0,0
 2003-07-20,Mexico,Jamaica,Mexico,Juan Pablo Rodríguez,83.0,False,False,1,5,0,Mexico,Home,0,0,0
-2003-07-23,United States,Brazil,United States,Carlos Bocanegra,62.0,False,False,1,1,2,Brazil,Away,0,0,1
-2003-07-23,United States,Brazil,Brazil,Kaká,89.0,False,False,1,1,2,Brazil,Away,0,0,1
-2003-07-23,United States,Brazil,Brazil,Diego,100.0,False,True,1,1,2,Brazil,Away,1,0,1
+2003-07-23,United States,Brazil,United States,Carlos Bocanegra,62.0,False,False,1,1,2,Brazil,Away,0,0,0
+2003-07-23,United States,Brazil,Brazil,Kaká,89.0,False,False,1,1,2,Brazil,Away,0,0,0
+2003-07-23,United States,Brazil,Brazil,Diego,100.0,False,True,1,1,2,Brazil,Away,0,0,0
 2003-07-24,Mexico,Costa Rica,Mexico,Rafael Márquez,19.0,False,False,1,2,0,Mexico,Home,0,0,0
 2003-07-24,Mexico,Costa Rica,Mexico,Jared Borgetti,28.0,False,False,1,2,0,Mexico,Home,0,0,0
 2003-07-26,United States,Costa Rica,Costa Rica,Rolando Fonseca,24.0,False,False,1,3,2,United States,Home,0,0,0
@@ -27021,7 +27021,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 2008-03-26,Montserrat,Suriname,Suriname,Kenzo Huur,82.0,False,False,1,1,7,Suriname,Away,0,0,0
 2008-03-26,Montserrat,Suriname,Suriname,Kenzo Huur,85.0,False,False,1,1,7,Suriname,Away,0,0,0
 2008-03-26,Montserrat,Suriname,Suriname,Raydell Schuurman,88.0,False,False,1,1,7,Suriname,Away,0,0,0
-2008-03-26,Puerto Rico,Dominican Republic,Puerto Rico,Petter Villegas,96.0,False,True,1,1,0,Puerto Rico,Home,1,1,0
+2008-03-26,Puerto Rico,Dominican Republic,Puerto Rico,Petter Villegas,96.0,False,True,1,1,0,Puerto Rico,Home,0,0,0
 2008-03-26,Qatar,Iraq,Qatar,Fábio César Montezine,1.0,False,False,1,2,0,Qatar,Home,0,0,0
 2008-03-26,Qatar,Iraq,Qatar,Fábio César Montezine,62.0,False,False,1,2,0,Qatar,Home,0,0,0
 2008-03-26,Saint Kitts and Nevis,Belize,Belize,Elroy Smith,39.0,False,False,1,1,1,Tie,Tie,0,0,0
@@ -28617,9 +28617,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 2009-07-12,Panama,Nicaragua,Panama,Luis Tejada,76.0,False,False,1,4,0,Panama,Home,0,0,0
 2009-07-12,Panama,Nicaragua,Panama,Luis Tejada,88.0,False,False,1,4,0,Panama,Home,0,0,0
 2009-07-18,Canada,Honduras,Honduras,Walter Julián Martínez,36.0,False,True,1,0,1,Honduras,Away,1,0,1
-2009-07-18,United States,Panama,Panama,Blas Pérez,45.0,False,False,1,2,1,United States,Home,0,1,0
-2009-07-18,United States,Panama,United States,Kyle Beckerman,49.0,False,False,1,2,1,United States,Home,0,1,0
-2009-07-18,United States,Panama,United States,Kenny Cooper,106.0,False,True,1,2,1,United States,Home,1,1,0
+2009-07-18,United States,Panama,Panama,Blas Pérez,45.0,False,False,1,2,1,United States,Home,0,0,0
+2009-07-18,United States,Panama,United States,Kyle Beckerman,49.0,False,False,1,2,1,United States,Home,0,0,0
+2009-07-18,United States,Panama,United States,Kenny Cooper,106.0,False,True,1,2,1,United States,Home,0,0,0
 2009-07-19,Guadeloupe,Costa Rica,Costa Rica,Celso Borges,3.0,False,False,1,1,5,Costa Rica,Away,0,0,0
 2009-07-19,Guadeloupe,Costa Rica,Costa Rica,Álvaro Saborío,16.0,False,False,1,1,5,Costa Rica,Away,0,0,0
 2009-07-19,Guadeloupe,Costa Rica,Costa Rica,Andy Herron,47.0,False,False,1,1,5,Costa Rica,Away,0,0,0
@@ -29934,14 +29934,14 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 2011-07-02,Turks and Caicos Islands,Bahamas,Bahamas,Cameron Hepple,36.0,False,True,1,0,4,Bahamas,Away,1,0,1
 2011-07-02,Turks and Caicos Islands,Bahamas,Bahamas,Nesley Jean,61.0,False,False,1,0,4,Bahamas,Away,0,0,1
 2011-07-02,Turks and Caicos Islands,Bahamas,Bahamas,Jackner Louis,90.0,False,False,1,0,4,Bahamas,Away,0,0,1
-2011-07-03,Laos,Cambodia,Laos,Lamnao Singto,19.0,False,False,1,6,2,Laos,Home,0,1,0
-2011-07-03,Laos,Cambodia,Laos,Khampheng Sayavutthi,34.0,False,False,1,6,2,Laos,Home,0,1,0
-2011-07-03,Laos,Cambodia,Cambodia,Chhin Chhoeun,45.0,False,False,1,6,2,Laos,Home,0,1,0
-2011-07-03,Laos,Cambodia,Laos,Souliya Syphasay,46.0,False,False,1,6,2,Laos,Home,0,1,0
-2011-07-03,Laos,Cambodia,Laos,Lamnao Singto,55.0,False,False,1,6,2,Laos,Home,0,1,0
-2011-07-03,Laos,Cambodia,Cambodia,Kouch Sokumpheak,75.0,False,False,1,6,2,Laos,Home,0,1,0
-2011-07-03,Laos,Cambodia,Laos,Visay Phaphouvanin,94.0,False,False,1,6,2,Laos,Home,0,1,0
-2011-07-03,Laos,Cambodia,Laos,Kanlaya Sysomvang,112.0,False,True,1,6,2,Laos,Home,1,1,0
+2011-07-03,Laos,Cambodia,Laos,Lamnao Singto,19.0,False,False,1,6,2,Laos,Home,0,0,0
+2011-07-03,Laos,Cambodia,Laos,Khampheng Sayavutthi,34.0,False,False,1,6,2,Laos,Home,0,0,0
+2011-07-03,Laos,Cambodia,Cambodia,Chhin Chhoeun,45.0,False,False,1,6,2,Laos,Home,0,0,0
+2011-07-03,Laos,Cambodia,Laos,Souliya Syphasay,46.0,False,False,1,6,2,Laos,Home,0,0,0
+2011-07-03,Laos,Cambodia,Laos,Lamnao Singto,55.0,False,False,1,6,2,Laos,Home,0,0,0
+2011-07-03,Laos,Cambodia,Cambodia,Kouch Sokumpheak,75.0,False,False,1,6,2,Laos,Home,0,0,0
+2011-07-03,Laos,Cambodia,Laos,Visay Phaphouvanin,94.0,False,False,1,6,2,Laos,Home,0,0,0
+2011-07-03,Laos,Cambodia,Laos,Kanlaya Sysomvang,112.0,False,True,1,6,2,Laos,Home,0,0,0
 2011-07-03,Macau,Vietnam,Vietnam,Huỳnh Quang Thanh,2.0,False,False,1,1,7,Vietnam,Away,0,0,0
 2011-07-03,Macau,Vietnam,Vietnam,Nguyễn Quang Hải,23.0,False,False,1,1,7,Vietnam,Away,0,0,0
 2011-07-03,Macau,Vietnam,Vietnam,Lê Công Vinh,29.0,False,False,1,1,7,Vietnam,Away,0,0,0
@@ -33433,12 +33433,12 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 2015-01-22,Zambia,Tunisia,Tunisia,Ahmed Akaïchi,70.0,False,False,1,1,2,Tunisia,Away,0,0,0
 2015-01-22,Zambia,Tunisia,Tunisia,Yassine Chikhaoui,89.0,False,False,1,1,2,Tunisia,Away,0,0,0
 2015-01-23,Ghana,Algeria,Ghana,Asamoah Gyan,90.0,False,False,1,1,0,Ghana,Home,0,0,0
-2015-01-23,Iran,Iraq,Iran,Sardar Azmoun,24.0,False,False,1,3,3,Tie,Tie,0,0,1
-2015-01-23,Iran,Iraq,Iraq,Ahmed Yasin Ghani,56.0,False,False,1,3,3,Tie,Tie,0,0,1
-2015-01-23,Iran,Iraq,Iraq,Younis Mahmoud,93.0,False,False,1,3,3,Tie,Tie,0,0,1
-2015-01-23,Iran,Iraq,Iran,Morteza Pouraliganji,103.0,False,False,1,3,3,Tie,Tie,0,0,1
-2015-01-23,Iran,Iraq,Iraq,Dhurgham Ismail,116.0,False,True,1,3,3,Tie,Tie,1,0,1
-2015-01-23,Iran,Iraq,Iran,Reza Ghoochannejhad,119.0,False,False,1,3,3,Tie,Tie,0,0,1
+2015-01-23,Iran,Iraq,Iran,Sardar Azmoun,24.0,False,False,1,3,3,Tie,Tie,0,0,0
+2015-01-23,Iran,Iraq,Iraq,Ahmed Yasin Ghani,56.0,False,False,1,3,3,Tie,Tie,0,0,0
+2015-01-23,Iran,Iraq,Iraq,Younis Mahmoud,93.0,False,False,1,3,3,Tie,Tie,0,0,0
+2015-01-23,Iran,Iraq,Iran,Morteza Pouraliganji,103.0,False,False,1,3,3,Tie,Tie,0,0,0
+2015-01-23,Iran,Iraq,Iraq,Dhurgham Ismail,116.0,False,True,1,3,3,Tie,Tie,0,0,0
+2015-01-23,Iran,Iraq,Iran,Reza Ghoochannejhad,119.0,False,False,1,3,3,Tie,Tie,0,0,0
 2015-01-23,Japan,United Arab Emirates,United Arab Emirates,Ali Mabkhout,7.0,False,False,1,1,1,Tie,Tie,0,0,0
 2015-01-23,Japan,United Arab Emirates,Japan,Gaku Shibasaki,81.0,False,False,1,1,1,Tie,Tie,0,0,0
 2015-01-23,South Africa,Senegal,South Africa,Oupa Manyisa,47.0,False,False,1,1,1,Tie,Tie,0,0,0
@@ -33955,12 +33955,12 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 2015-07-18,United States,Cuba,United States,Omar Gonzalez,45.0,False,False,1,6,0,United States,Home,0,1,0
 2015-07-18,United States,Cuba,United States,Clint Dempsey,64.0,False,True,1,6,0,United States,Home,1,1,0
 2015-07-18,United States,Cuba,United States,Clint Dempsey,78.0,False,False,1,6,0,United States,Home,0,1,0
-2015-07-19,Mexico,Costa Rica,Mexico,Andrés Guardado,120.0,False,True,1,1,0,Mexico,Home,1,1,0
+2015-07-19,Mexico,Costa Rica,Mexico,Andrés Guardado,120.0,False,True,1,1,0,Mexico,Home,0,0,0
 2015-07-19,Trinidad and Tobago,Panama,Panama,Luis Tejada,36.0,False,False,1,1,1,Tie,Tie,0,0,0
 2015-07-19,Trinidad and Tobago,Panama,Trinidad and Tobago,Kenwyne Jones,53.0,False,False,1,1,1,Tie,Tie,0,0,0
-2015-07-22,Panama,Mexico,Panama,Román Torres,57.0,False,False,1,1,2,Mexico,Away,0,0,2
-2015-07-22,Panama,Mexico,Mexico,Andrés Guardado,90.0,False,True,1,1,2,Mexico,Away,1,0,2
-2015-07-22,Panama,Mexico,Mexico,Andrés Guardado,105.0,False,True,1,1,2,Mexico,Away,1,0,2
+2015-07-22,Panama,Mexico,Panama,Román Torres,57.0,False,False,1,1,2,Mexico,Away,0,0,1
+2015-07-22,Panama,Mexico,Mexico,Andrés Guardado,90.0,False,True,1,1,2,Mexico,Away,1,0,1
+2015-07-22,Panama,Mexico,Mexico,Andrés Guardado,105.0,False,True,1,1,2,Mexico,Away,0,0,1
 2015-07-22,United States,Jamaica,Jamaica,Darren Mattocks,30.0,False,False,1,1,2,Jamaica,Away,0,0,0
 2015-07-22,United States,Jamaica,Jamaica,Giles Barnes,35.0,False,False,1,1,2,Jamaica,Away,0,0,0
 2015-07-22,United States,Jamaica,United States,Michael Bradley,47.0,False,False,1,1,2,Jamaica,Away,0,0,0
@@ -36234,9 +36234,9 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 2017-06-29,Germany,Mexico,Mexico,Marco Fabián,89.0,False,False,1,4,1,Germany,Home,0,0,0
 2017-06-29,Germany,Mexico,Germany,Amin Younes,90.0,False,False,1,4,1,Germany,Home,0,0,0
 2017-07-02,Chile,Germany,Germany,Lars Stindl,20.0,False,False,1,0,1,Germany,Away,0,0,0
-2017-07-02,Portugal,Mexico,Mexico,Luís Neto,54.0,True,False,1,2,1,Portugal,Home,0,1,0
-2017-07-02,Portugal,Mexico,Portugal,Pepe,90.0,False,False,1,2,1,Portugal,Home,0,1,0
-2017-07-02,Portugal,Mexico,Portugal,Adrien Silva,104.0,False,True,1,2,1,Portugal,Home,1,1,0
+2017-07-02,Portugal,Mexico,Mexico,Luís Neto,54.0,True,False,1,2,1,Portugal,Home,0,0,0
+2017-07-02,Portugal,Mexico,Portugal,Pepe,90.0,False,False,1,2,1,Portugal,Home,0,0,0
+2017-07-02,Portugal,Mexico,Portugal,Adrien Silva,104.0,False,True,1,2,1,Portugal,Home,0,0,0
 2017-07-07,French Guiana,Canada,Canada,Dejan Jakovic,28.0,False,False,1,2,4,Canada,Away,0,0,0
 2017-07-07,French Guiana,Canada,Canada,Scott Arfield,45.0,False,False,1,2,4,Canada,Away,0,0,0
 2017-07-07,French Guiana,Canada,Canada,Alphonso Davies,60.0,False,False,1,2,4,Canada,Away,0,0,0
@@ -37452,11 +37452,11 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 2019-01-20,Thailand,China PR,China PR,Xiao Zhi,67.0,False,False,1,1,2,China PR,Away,0,0,1
 2019-01-20,Thailand,China PR,China PR,Gao Lin,71.0,False,True,1,1,2,China PR,Away,1,0,1
 2019-01-21,Japan,Saudi Arabia,Japan,Takehiro Tomiyasu,20.0,False,False,1,1,0,Japan,Home,0,0,0
-2019-01-21,United Arab Emirates,Kyrgyzstan,United Arab Emirates,Khamis Esmaeel,14.0,False,False,1,3,2,United Arab Emirates,Home,0,1,0
-2019-01-21,United Arab Emirates,Kyrgyzstan,Kyrgyzstan,Mirlan Murzaev,26.0,False,False,1,3,2,United Arab Emirates,Home,0,1,0
-2019-01-21,United Arab Emirates,Kyrgyzstan,United Arab Emirates,Ali Mabkhout,64.0,False,False,1,3,2,United Arab Emirates,Home,0,1,0
-2019-01-21,United Arab Emirates,Kyrgyzstan,Kyrgyzstan,Tursunali Rustamov,90.0,False,False,1,3,2,United Arab Emirates,Home,0,1,0
-2019-01-21,United Arab Emirates,Kyrgyzstan,United Arab Emirates,Ahmed Khalil,103.0,False,True,1,3,2,United Arab Emirates,Home,1,1,0
+2019-01-21,United Arab Emirates,Kyrgyzstan,United Arab Emirates,Khamis Esmaeel,14.0,False,False,1,3,2,United Arab Emirates,Home,0,0,0
+2019-01-21,United Arab Emirates,Kyrgyzstan,Kyrgyzstan,Mirlan Murzaev,26.0,False,False,1,3,2,United Arab Emirates,Home,0,0,0
+2019-01-21,United Arab Emirates,Kyrgyzstan,United Arab Emirates,Ali Mabkhout,64.0,False,False,1,3,2,United Arab Emirates,Home,0,0,0
+2019-01-21,United Arab Emirates,Kyrgyzstan,Kyrgyzstan,Tursunali Rustamov,90.0,False,False,1,3,2,United Arab Emirates,Home,0,0,0
+2019-01-21,United Arab Emirates,Kyrgyzstan,United Arab Emirates,Ahmed Khalil,103.0,False,True,1,3,2,United Arab Emirates,Home,0,0,0
 2019-01-22,Qatar,Iraq,Qatar,Bassam Al-Rawi,62.0,False,False,1,1,0,Qatar,Home,0,0,0
 2019-01-22,South Korea,Bahrain,South Korea,Hwang Hee-chan,43.0,False,False,1,2,1,South Korea,Home,0,0,0
 2019-01-22,South Korea,Bahrain,Bahrain,Mohamed Al-Romaihi,77.0,False,False,1,2,1,South Korea,Home,0,0,0
@@ -38051,7 +38051,7 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 2019-07-02,Brazil,Argentina,Brazil,Roberto Firmino,71.0,False,False,1,2,0,Brazil,Home,0,0,0
 2019-07-02,Guinea-Bissau,Ghana,Ghana,Jordan Ayew,46.0,False,False,1,0,2,Ghana,Away,0,0,0
 2019-07-02,Guinea-Bissau,Ghana,Ghana,Thomas Partey,72.0,False,False,1,0,2,Ghana,Away,0,0,0
-2019-07-02,Haiti,Mexico,Mexico,Raúl Jiménez,93.0,False,True,1,0,1,Mexico,Away,1,0,1
+2019-07-02,Haiti,Mexico,Mexico,Raúl Jiménez,93.0,False,True,1,0,1,Mexico,Away,0,0,0
 2019-07-03,Chile,Peru,Peru,Edison Flores,21.0,False,False,1,0,3,Peru,Away,0,0,0
 2019-07-03,Chile,Peru,Peru,Yoshimar Yotún,38.0,False,False,1,0,3,Peru,Away,0,0,0
 2019-07-03,Chile,Peru,Peru,Paolo Guerrero,90.0,False,False,1,0,3,Peru,Away,0,0,0
@@ -42388,12 +42388,12 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 2022-12-17,Croatia,Morocco,Croatia,Joško Gvardiol,7.0,False,False,1,2,1,Croatia,Home,0,0,0
 2022-12-17,Croatia,Morocco,Morocco,Achraf Dari,9.0,False,False,1,2,1,Croatia,Home,0,0,0
 2022-12-17,Croatia,Morocco,Croatia,Mislav Oršić,42.0,False,False,1,2,1,Croatia,Home,0,0,0
-2022-12-18,Argentina,France,Argentina,Lionel Messi,23.0,False,True,1,3,3,Tie,Tie,1,1,2
-2022-12-18,Argentina,France,Argentina,Ángel Di María,36.0,False,False,1,3,3,Tie,Tie,0,1,2
-2022-12-18,Argentina,France,France,Kylian Mbappé,80.0,False,True,1,3,3,Tie,Tie,1,1,2
-2022-12-18,Argentina,France,France,Kylian Mbappé,81.0,False,False,1,3,3,Tie,Tie,0,1,2
-2022-12-18,Argentina,France,Argentina,Lionel Messi,109.0,False,False,1,3,3,Tie,Tie,0,1,2
-2022-12-18,Argentina,France,France,Kylian Mbappé,118.0,False,True,1,3,3,Tie,Tie,1,1,2
+2022-12-18,Argentina,France,Argentina,Lionel Messi,23.0,False,True,1,3,3,Tie,Tie,1,1,1
+2022-12-18,Argentina,France,Argentina,Ángel Di María,36.0,False,False,1,3,3,Tie,Tie,0,1,1
+2022-12-18,Argentina,France,France,Kylian Mbappé,80.0,False,True,1,3,3,Tie,Tie,1,1,1
+2022-12-18,Argentina,France,France,Kylian Mbappé,81.0,False,False,1,3,3,Tie,Tie,0,1,1
+2022-12-18,Argentina,France,Argentina,Lionel Messi,109.0,False,False,1,3,3,Tie,Tie,0,1,1
+2022-12-18,Argentina,France,France,Kylian Mbappé,118.0,False,True,1,3,3,Tie,Tie,0,1,1
 2023-03-23,Bosnia and Herzegovina,Iceland,Bosnia and Herzegovina,Rade Krunić,14.0,False,False,1,3,0,Bosnia and Herzegovina,Home,0,0,0
 2023-03-23,Bosnia and Herzegovina,Iceland,Bosnia and Herzegovina,Rade Krunić,40.0,False,False,1,3,0,Bosnia and Herzegovina,Home,0,0,0
 2023-03-23,Bosnia and Herzegovina,Iceland,Bosnia and Herzegovina,Amar Dedić,63.0,False,False,1,3,0,Bosnia and Herzegovina,Home,0,0,0
@@ -42520,18 +42520,18 @@ date,home_team,away_team,scorer_team,scorer,minute,own_goal,penalty,point_earned
 2023-03-28,Turkey,Croatia,Croatia,Mateo Kovačić,20.0,False,False,1,0,2,Croatia,Away,0,0,0
 2023-03-28,Turkey,Croatia,Croatia,Mateo Kovačić,45.0,False,False,1,0,2,Croatia,Away,0,0,0
 2023-03-28,Wales,Latvia,Wales,Kieffer Moore,41.0,False,False,1,1,0,Wales,Home,0,0,0
-2023-06-14,Netherlands,Croatia,Netherlands,Donyell Malen,34.0,False,False,1,4,8,Croatia,Away,0,0,4
-2023-06-14,Netherlands,Croatia,Netherlands,Donyell Malen,34.0,False,False,1,4,8,Croatia,Away,0,0,4
-2023-06-14,Netherlands,Croatia,Croatia,Andrej Kramarić,55.0,False,True,1,4,8,Croatia,Away,1,0,4
-2023-06-14,Netherlands,Croatia,Croatia,Andrej Kramarić,55.0,False,True,1,4,8,Croatia,Away,1,0,4
-2023-06-14,Netherlands,Croatia,Croatia,Mario Pašalić,72.0,False,False,1,4,8,Croatia,Away,0,0,4
-2023-06-14,Netherlands,Croatia,Croatia,Mario Pašalić,72.0,False,False,1,4,8,Croatia,Away,0,0,4
-2023-06-14,Netherlands,Croatia,Netherlands,Noa Lang,90.0,False,False,1,4,8,Croatia,Away,0,0,4
-2023-06-14,Netherlands,Croatia,Netherlands,Noa Lang,90.0,False,False,1,4,8,Croatia,Away,0,0,4
-2023-06-14,Netherlands,Croatia,Croatia,Bruno Petković,98.0,False,False,1,4,8,Croatia,Away,0,0,4
-2023-06-14,Netherlands,Croatia,Croatia,Bruno Petković,98.0,False,False,1,4,8,Croatia,Away,0,0,4
-2023-06-14,Netherlands,Croatia,Croatia,Luka Modrić,116.0,False,True,1,4,8,Croatia,Away,1,0,4
-2023-06-14,Netherlands,Croatia,Croatia,Luka Modrić,116.0,False,True,1,4,8,Croatia,Away,1,0,4
+2023-06-14,Netherlands,Croatia,Netherlands,Donyell Malen,34.0,False,False,1,4,8,Croatia,Away,0,0,2
+2023-06-14,Netherlands,Croatia,Netherlands,Donyell Malen,34.0,False,False,1,4,8,Croatia,Away,0,0,2
+2023-06-14,Netherlands,Croatia,Croatia,Andrej Kramarić,55.0,False,True,1,4,8,Croatia,Away,1,0,2
+2023-06-14,Netherlands,Croatia,Croatia,Andrej Kramarić,55.0,False,True,1,4,8,Croatia,Away,1,0,2
+2023-06-14,Netherlands,Croatia,Croatia,Mario Pašalić,72.0,False,False,1,4,8,Croatia,Away,0,0,2
+2023-06-14,Netherlands,Croatia,Croatia,Mario Pašalić,72.0,False,False,1,4,8,Croatia,Away,0,0,2
+2023-06-14,Netherlands,Croatia,Netherlands,Noa Lang,90.0,False,False,1,4,8,Croatia,Away,0,0,2
+2023-06-14,Netherlands,Croatia,Netherlands,Noa Lang,90.0,False,False,1,4,8,Croatia,Away,0,0,2
+2023-06-14,Netherlands,Croatia,Croatia,Bruno Petković,98.0,False,False,1,4,8,Croatia,Away,0,0,2
+2023-06-14,Netherlands,Croatia,Croatia,Bruno Petković,98.0,False,False,1,4,8,Croatia,Away,0,0,2
+2023-06-14,Netherlands,Croatia,Croatia,Luka Modrić,116.0,False,True,1,4,8,Croatia,Away,0,0,2
+2023-06-14,Netherlands,Croatia,Croatia,Luka Modrić,116.0,False,True,1,4,8,Croatia,Away,0,0,2
 2023-06-15,Spain,Italy,Spain,Yeremy Pino,3.0,False,False,1,4,2,Spain,Home,0,0,2
 2023-06-15,Spain,Italy,Spain,Yeremy Pino,3.0,False,False,1,4,2,Spain,Home,0,0,2
 2023-06-15,Spain,Italy,Italy,Ciro Immobile,11.0,False,True,1,4,2,Spain,Home,1,0,2
