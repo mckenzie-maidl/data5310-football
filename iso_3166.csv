@@ -1,4 +1,4 @@
-name,country_code
+name,id
 Afghanistan,004
 Åland Islands,248
 Albania,008
@@ -251,4 +251,4 @@ Western Sahara,732
 Yemen,887
 Zambia,894
 Zimbabwe,716
-Kosovo,-992
+Kosovo,999
